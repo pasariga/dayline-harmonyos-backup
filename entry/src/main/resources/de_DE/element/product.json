@@ -1,0 +1,368 @@
+{
+  "string": [
+    {
+      "name": "home_subtitle",
+      "value": "Beginne mit dem, was heute zählt"
+    },
+    {
+      "name": "home_loading",
+      "value": "Heutige Prioritäten werden ermittelt…"
+    },
+    {
+      "name": "home_empty_title",
+      "value": "Lege deine erste Frist an"
+    },
+    {
+      "name": "home_empty_body",
+      "value": "Beginne mit Name und Fälligkeitsdatum. Aufgaben oder eine grobe Zeitschätzung machen die Vorschläge für heute konkreter."
+    },
+    {
+      "name": "home_create_first",
+      "value": "Erste Frist erstellen"
+    },
+    {
+      "name": "home_today_priority",
+      "value": "Heute zuerst"
+    },
+    {
+      "name": "home_why",
+      "value": "Warum zuerst"
+    },
+    {
+      "name": "home_next",
+      "value": "Als Nächstes"
+    },
+    {
+      "name": "home_auto_schedule",
+      "value": "Auto-Zeitplan"
+    },
+    {
+      "name": "home_schedule_hint",
+      "value": "Passt sich deinem Fortschritt an"
+    },
+    {
+      "name": "home_current_progress",
+      "value": "Gesamtfortschritt"
+    },
+    {
+      "name": "home_high_risk",
+      "value": "Hohes Risiko"
+    },
+    {
+      "name": "home_later",
+      "value": "Kann warten"
+    },
+    {
+      "name": "home_all_deadlines",
+      "value": "Alle Fristen"
+    },
+    {
+      "name": "home_add_deadline",
+      "value": "Frist hinzufügen"
+    },
+    {
+      "name": "home_all_done",
+      "value": "Heute ist nichts offen"
+    },
+    {
+      "name": "home_all_done_desc",
+      "value": "Alles Aktuelle ist erledigt. Du kannst den nächsten Schritt planen."
+    },
+    {
+      "name": "home_view_details",
+      "value": "Details anzeigen"
+    },
+    {
+      "name": "home_complete_task",
+      "value": "Aufgabe erledigen"
+    },
+    {
+      "name": "home_break_down",
+      "value": "Aufteilen"
+    },
+    {
+      "name": "create_new_title",
+      "value": "Neue Frist"
+    },
+    {
+      "name": "create_edit_title",
+      "value": "Frist bearbeiten"
+    },
+    {
+      "name": "create_new_subtitle",
+      "value": "Halte fest, was als Nächstes zählt"
+    },
+    {
+      "name": "create_edit_subtitle",
+      "value": "Frist aktualisieren"
+    },
+    {
+      "name": "field_name",
+      "value": "Name"
+    },
+    {
+      "name": "field_type",
+      "value": "Kategorie"
+    },
+    {
+      "name": "field_workload",
+      "value": "Geschätzter Gesamtaufwand (Stunden)"
+    },
+    {
+      "name": "field_progress_mode",
+      "value": "Fortschritt"
+    },
+    {
+      "name": "field_due_date",
+      "value": "Fällig am"
+    },
+    {
+      "name": "field_due_time",
+      "value": "Uhrzeit"
+    },
+    {
+      "name": "field_reminder",
+      "value": "Erinnerung"
+    },
+    {
+      "name": "field_note",
+      "value": "Notizen (optional)"
+    },
+    {
+      "name": "field_progress",
+      "value": "Aktueller Fortschritt"
+    },
+    {
+      "name": "tasks_breakdown",
+      "value": "Aufgaben"
+    },
+    {
+      "name": "tasks_add_top",
+      "value": "Aufgabe hinzufügen"
+    },
+    {
+      "name": "tasks_empty",
+      "value": "Noch keine Aufgaben. Du kannst sie später ergänzen."
+    },
+    {
+      "name": "create_save",
+      "value": "Frist speichern"
+    },
+    {
+      "name": "create_save_changes",
+      "value": "Änderungen speichern"
+    },
+    {
+      "name": "type_assignment",
+      "value": "Hausarbeit"
+    },
+    {
+      "name": "type_exam",
+      "value": "Prüfung"
+    },
+    {
+      "name": "type_competition",
+      "value": "Wettbewerb"
+    },
+    {
+      "name": "type_project",
+      "value": "Projekt"
+    },
+    {
+      "name": "type_life",
+      "value": "Privat"
+    },
+    {
+      "name": "type_other",
+      "value": "Sonstiges"
+    },
+    {
+      "name": "reminder_none",
+      "value": "Keine Erinnerung"
+    },
+    {
+      "name": "reminder_hour",
+      "value": "1 Stunde vorher"
+    },
+    {
+      "name": "reminder_day",
+      "value": "1 Tag vorher"
+    },
+    {
+      "name": "reminder_three_days",
+      "value": "3 Tage vorher"
+    },
+    {
+      "name": "detail_title",
+      "value": "Fristdetails"
+    },
+    {
+      "name": "detail_progress_work",
+      "value": "Fortschritt und Aufwand"
+    },
+    {
+      "name": "detail_schedule",
+      "value": "Auto-Zeitplan"
+    },
+    {
+      "name": "detail_schedule_hint",
+      "value": "Wird bei Änderungen neu berechnet"
+    },
+    {
+      "name": "detail_tasks",
+      "value": "Aufgaben"
+    },
+    {
+      "name": "detail_note",
+      "value": "Notizen"
+    },
+    {
+      "name": "detail_mark_complete",
+      "value": "Als erledigt markieren"
+    },
+    {
+      "name": "detail_restore",
+      "value": "Als offen markieren"
+    },
+    {
+      "name": "detail_delete",
+      "value": "Frist löschen"
+    },
+    {
+      "name": "detail_remaining_time",
+      "value": "Verbleibende Zeit"
+    },
+    {
+      "name": "detail_status",
+      "value": "Status"
+    },
+    {
+      "name": "detail_no_note",
+      "value": "Keine Notizen"
+    },
+    {
+      "name": "detail_pending_breakdown",
+      "value": "Aufteilung fehlt"
+    },
+    {
+      "name": "notification_title",
+      "value": "Benachrichtigungen"
+    },
+    {
+      "name": "notification_subtitle",
+      "value": "Weniger Hinweise, jeder mit klarem nächsten Schritt"
+    },
+    {
+      "name": "notification_permission",
+      "value": "Berechtigung"
+    },
+    {
+      "name": "notification_intensity",
+      "value": "Hinweisstufe"
+    },
+    {
+      "name": "notification_content",
+      "value": "Proaktive Hinweise"
+    },
+    {
+      "name": "notification_time",
+      "value": "Zeit und Ruhezeiten"
+    },
+    {
+      "name": "notification_save",
+      "value": "Benachrichtigungen speichern"
+    },
+    {
+      "name": "notification_daily",
+      "value": "Tägliche Übersicht"
+    },
+    {
+      "name": "notification_risk",
+      "value": "Hinweise bei höherem Risiko"
+    },
+    {
+      "name": "notification_replan",
+      "value": "Hinweise bei Planänderung"
+    },
+    {
+      "name": "notification_quiet",
+      "value": "Ruhezeiten"
+    },
+    {
+      "name": "cloud_title",
+      "value": "Konto und Cloud-Synchronisierung"
+    },
+    {
+      "name": "cloud_subtitle",
+      "value": "Lokal zuerst, offline vollständig nutzbar"
+    },
+    {
+      "name": "cloud_local_mode",
+      "value": "Nur auf diesem Gerät"
+    },
+    {
+      "name": "cloud_sign_in",
+      "value": "Mit HUAWEI ID anmelden"
+    },
+    {
+      "name": "cloud_sign_out",
+      "value": "Cloud-Synchronisierung ausschalten"
+    },
+    {
+      "name": "cloud_sync_now",
+      "value": "Jetzt synchronisieren"
+    },
+    {
+      "name": "cloud_current_account",
+      "value": "Aktuelles Konto"
+    },
+    {
+      "name": "cloud_last_sync",
+      "value": "Letzte Synchronisierung"
+    },
+    {
+      "name": "cloud_sync_method",
+      "value": "So funktioniert die Synchronisierung"
+    },
+    {
+      "name": "risk_low",
+      "value": "Niedriges Risiko"
+    },
+    {
+      "name": "risk_medium",
+      "value": "Mittleres Risiko"
+    },
+    {
+      "name": "risk_high",
+      "value": "Hohes Risiko"
+    },
+    {
+      "name": "risk_done",
+      "value": "Erledigt"
+    },
+    {
+      "name": "risk_overdue",
+      "value": "Überfällig"
+    },
+    {
+      "name": "risk_not_estimated",
+      "value": "Aufwand nicht geschätzt"
+    },
+    {
+      "name": "schedule_today",
+      "value": "Heute"
+    },
+    {
+      "name": "schedule_tomorrow",
+      "value": "Morgen"
+    },
+    {
+      "name": "schedule_buffer",
+      "value": "Puffer"
+    },
+    {
+      "name": "schedule_flex",
+      "value": "Flexibel"
+    }
+  ]
+}

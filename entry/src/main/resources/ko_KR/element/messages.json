@@ -1,0 +1,1751 @@
+{
+  "string": [
+    {
+      "name": "common_enabled",
+      "value": "켜짐"
+    },
+    {
+      "name": "common_disabled",
+      "value": "꺼짐"
+    },
+    {
+      "name": "common_remove",
+      "value": "제거"
+    },
+    {
+      "name": "common_updating",
+      "value": "업데이트 중…"
+    },
+    {
+      "name": "common_about_hours",
+      "value": "약 {0}시간"
+    },
+    {
+      "name": "common_hours_short",
+      "value": "{0}시간"
+    },
+    {
+      "name": "work_remaining_hours",
+      "value": "{0}시간 남음"
+    },
+    {
+      "name": "work_not_estimated",
+      "value": "작업량 미설정"
+    },
+    {
+      "name": "progress_auto_pending_meta",
+      "value": "자동 · 작업 분해 필요 · {0}"
+    },
+    {
+      "name": "progress_meta",
+      "value": "{0} {1}% · {2}"
+    },
+    {
+      "name": "later_with_hours",
+      "value": "{0} · {1}시간 남음"
+    },
+    {
+      "name": "later_low_risk",
+      "value": "{0} · 현재 위험 낮음"
+    },
+    {
+      "name": "deadline_card_due",
+      "value": "{0} · 마감 {1}"
+    },
+    {
+      "name": "task_breakdown_mark",
+      "value": "분"
+    },
+    {
+      "name": "schedule_flex_buffer",
+      "value": "유동 / 여유"
+    },
+    {
+      "name": "schedule_open_day",
+      "value": "정해진 일정이 없습니다. 밀린 작업, 복습 또는 휴식에 활용하세요."
+    },
+    {
+      "name": "schedule_more_items_one",
+      "value": "1개 항목을 오늘 작업량에 포함했습니다"
+    },
+    {
+      "name": "schedule_more_items_other",
+      "value": "{0}개 항목을 오늘 작업량에 포함했습니다"
+    },
+    {
+      "name": "home_empty_tagline",
+      "value": "마감일뿐 아니라 오늘 할 일까지"
+    },
+    {
+      "name": "home_empty_progress_desc",
+      "value": "작업을 완료하면 전체 진행률도 자동으로 업데이트"
+    },
+    {
+      "name": "home_empty_risk_title",
+      "value": "지연 위험"
+    },
+    {
+      "name": "home_empty_risk_desc",
+      "value": "남은 시간과 작업량으로 위험을 미리 파악"
+    },
+    {
+      "name": "home_empty_action_desc",
+      "value": "마감일부터 역산해 오늘의 우선 작업을 추천"
+    },
+    {
+      "name": "home_empty_hint",
+      "value": "가장 가까운 과제, 시험 또는 프로젝트부터 시작하세요"
+    },
+    {
+      "name": "home_action_count_one",
+      "value": "오늘 제안 1개"
+    },
+    {
+      "name": "home_action_count_other",
+      "value": "오늘 제안 {0}개"
+    },
+    {
+      "name": "home_overall_progress",
+      "value": "완료한 마감 {0}%"
+    },
+    {
+      "name": "home_deadline_count_one",
+      "value": "마감 1개"
+    },
+    {
+      "name": "home_deadline_count_other",
+      "value": "마감 {0}개"
+    },
+    {
+      "name": "home_other_risks",
+      "value": "그 밖의 위험"
+    },
+    {
+      "name": "home_risk_count_one",
+      "value": "주의 필요 1개"
+    },
+    {
+      "name": "home_risk_count_other",
+      "value": "주의 필요 {0}개"
+    },
+    {
+      "name": "home_later_hint",
+      "value": "먼저 더 급한 작업에 집중하세요"
+    },
+    {
+      "name": "home_sorted_by_risk",
+      "value": "위험 높은 순"
+    },
+    {
+      "name": "home_first_items",
+      "value": "상위 {0}개 표시"
+    },
+    {
+      "name": "home_collapse_list",
+      "value": "접기"
+    },
+    {
+      "name": "home_view_all_one",
+      "value": "1개 보기"
+    },
+    {
+      "name": "home_view_all_other",
+      "value": "전체 {0}개 보기"
+    },
+    {
+      "name": "notification_permission_prompt_title",
+      "value": "마감 알림을 켤까요?"
+    },
+    {
+      "name": "notification_permission_prompt_body",
+      "value": "마감이 가까워지면 Dayline이 알려 드립니다. 시스템 알림을 켤까요?"
+    },
+    {
+      "name": "notification_not_now",
+      "value": "나중에"
+    },
+    {
+      "name": "notification_enable",
+      "value": "알림 켜기"
+    },
+    {
+      "name": "task_edit_name_hint",
+      "value": "작업 이름 수정"
+    },
+    {
+      "name": "task_add_to_hint",
+      "value": "‘{0}’ 아래에 추가"
+    },
+    {
+      "name": "task_add_top_hint",
+      "value": "최상위 작업 추가"
+    },
+    {
+      "name": "task_remove_title",
+      "value": "작업 제거"
+    },
+    {
+      "name": "task_remove_children_confirm_one",
+      "value": "‘{1}’과 하위 작업 1개를 제거할까요?"
+    },
+    {
+      "name": "task_remove_children_confirm_other",
+      "value": "‘{1}’과 하위 작업 {0}개를 제거할까요?"
+    },
+    {
+      "name": "task_remove_confirm",
+      "value": "‘{0}’을(를) 제거할까요?"
+    },
+    {
+      "name": "validation_name_required",
+      "value": "마감 이름을 입력하세요"
+    },
+    {
+      "name": "validation_date_required",
+      "value": "마감 날짜를 선택하세요"
+    },
+    {
+      "name": "validation_hours_range",
+      "value": "0~10,000시간 사이의 값을 입력하세요"
+    },
+    {
+      "name": "tasks_empty_save_later",
+      "value": "아직 작업이 없습니다. 저장 후에도 추가할 수 있습니다."
+    },
+    {
+      "name": "tasks_created_progress_one",
+      "value": "작업 1개 · 자동 진행률 {1}%"
+    },
+    {
+      "name": "tasks_created_progress_other",
+      "value": "작업 {0}개 · 자동 진행률 {1}%"
+    },
+    {
+      "name": "task_editing",
+      "value": "‘{0}’ 수정 중"
+    },
+    {
+      "name": "task_adding_child",
+      "value": "‘{0}’에 하위 작업 추가 중"
+    },
+    {
+      "name": "task_add_child",
+      "value": "하위 작업 추가"
+    },
+    {
+      "name": "tasks_collapse",
+      "value": "작업 접기"
+    },
+    {
+      "name": "tasks_view_all_one",
+      "value": "작업 1개 보기"
+    },
+    {
+      "name": "tasks_view_all_other",
+      "value": "작업 전체 {0}개 보기"
+    },
+    {
+      "name": "create_edit_helper",
+      "value": "저장하면 기존 마감이 업데이트됩니다."
+    },
+    {
+      "name": "create_new_helper",
+      "value": "기본 정보만 먼저 입력하고 나중에 조정할 수 있습니다."
+    },
+    {
+      "name": "create_loading",
+      "value": "마감 불러오는 중…"
+    },
+    {
+      "name": "create_name_placeholder",
+      "value": "예: 컴퓨터 구조 과제"
+    },
+    {
+      "name": "create_hours_placeholder",
+      "value": "예: 10(모르면 비워 두세요)"
+    },
+    {
+      "name": "create_auto_progress_desc",
+      "value": "작업 진행률은 최하위 작업의 완료 개수이며, 투입 시간을 뜻하지 않습니다."
+    },
+    {
+      "name": "create_manual_progress_desc",
+      "value": "전체 진행률을 직접 설정합니다."
+    },
+    {
+      "name": "create_choose_date",
+      "value": "날짜 선택"
+    },
+    {
+      "name": "create_reminder_on_desc",
+      "value": "선택한 시간에 알림 등록을 시도합니다. 시스템 제한으로 전달되지 않을 수 있으니 앱의 마감일을 확인하세요."
+    },
+    {
+      "name": "create_reminder_off_desc",
+      "value": "기본값은 알림 없음입니다. 필요할 때 켜세요."
+    },
+    {
+      "name": "create_note_placeholder",
+      "value": "요구 사항, 장소 또는 준비 메모"
+    },
+    {
+      "name": "create_edit_footer",
+      "value": "저장하면 이 마감에 바로 반영됩니다."
+    },
+    {
+      "name": "create_new_footer",
+      "value": "이 기기에 저장되어 Dayline을 다시 열어도 확인할 수 있습니다."
+    },
+    {
+      "name": "task_delete_title",
+      "value": "작업 삭제"
+    },
+    {
+      "name": "task_delete_children_confirm_one",
+      "value": "‘{1}’과 하위 작업 1개를 삭제할까요?"
+    },
+    {
+      "name": "task_delete_children_confirm_other",
+      "value": "‘{1}’과 하위 작업 {0}개를 삭제할까요?"
+    },
+    {
+      "name": "task_delete_confirm",
+      "value": "‘{0}’을(를) 삭제할까요?"
+    },
+    {
+      "name": "deadline_delete_title",
+      "value": "마감 삭제"
+    },
+    {
+      "name": "deadline_delete_confirm",
+      "value": "‘{0}’을(를) 삭제할까요? 이 작업은 되돌릴 수 없습니다."
+    },
+    {
+      "name": "deadline_untitled",
+      "value": "이름 없는 마감"
+    },
+    {
+      "name": "schedule_specific_tasks_one",
+      "value": "구체 작업 1개"
+    },
+    {
+      "name": "schedule_specific_tasks_other",
+      "value": "구체 작업 {0}개"
+    },
+    {
+      "name": "schedule_work",
+      "value": "실행"
+    },
+    {
+      "name": "detail_tasks_pending_desc",
+      "value": "작업을 나누면 자동 진행률 계산이 시작됩니다."
+    },
+    {
+      "name": "detail_total_work",
+      "value": "총 예상량"
+    },
+    {
+      "name": "schedule_feasible",
+      "value": "실행 가능한 속도"
+    },
+    {
+      "name": "schedule_tight",
+      "value": "빠듯한 속도"
+    },
+    {
+      "name": "schedule_completed_empty",
+      "value": "완료된 마감입니다. 더 이상 일정을 만들지 않습니다."
+    },
+    {
+      "name": "schedule_no_remaining",
+      "value": "일정에 배치할 남은 작업이 없습니다."
+    },
+    {
+      "name": "schedule_planned_work",
+      "value": "계획 작업량"
+    },
+    {
+      "name": "schedule_work_days",
+      "value": "작업일"
+    },
+    {
+      "name": "schedule_daily_average",
+      "value": "작업일 평균"
+    },
+    {
+      "name": "schedule_rolling_hint",
+      "value": "앞으로 14일을 표시합니다. 이후 일정은 실제 진행률에 따라 계속 조정됩니다."
+    },
+    {
+      "name": "detail_created_at",
+      "value": "생성 시간"
+    },
+    {
+      "name": "detail_manual_update",
+      "value": "진행률 직접 수정"
+    },
+    {
+      "name": "detail_progress_saved",
+      "value": "진행률 저장됨"
+    },
+    {
+      "name": "detail_save_progress",
+      "value": "진행률 저장"
+    },
+    {
+      "name": "detail_completed_progress_hint",
+      "value": "완료된 마감은 100%로 표시됩니다. 미완료로 되돌리면 다시 조정할 수 있습니다."
+    },
+    {
+      "name": "detail_equal_weight",
+      "value": "진행률은 최하위 작업 완료 수이며 작업 시간을 뜻하지 않습니다."
+    },
+    {
+      "name": "detail_tasks_empty",
+      "value": "최상위 작업을 추가한 뒤 필요에 따라 하위 작업으로 나누세요."
+    },
+    {
+      "name": "detail_loading",
+      "value": "마감 불러오는 중…"
+    },
+    {
+      "name": "notification_intensity_concise",
+      "value": "최소"
+    },
+    {
+      "name": "notification_intensity_standard",
+      "value": "표준"
+    },
+    {
+      "name": "notification_intensity_active",
+      "value": "적극적"
+    },
+    {
+      "name": "notification_intensity_custom",
+      "value": "사용자 설정"
+    },
+    {
+      "name": "notification_intensity_concise_desc",
+      "value": "각 마감에서 직접 설정한 알림만 보냅니다."
+    },
+    {
+      "name": "notification_intensity_standard_desc",
+      "value": "할 일이 있는 날에 요약을 보내고, 위험이 뚜렷하게 높아지면 추가로 알려 드립니다."
+    },
+    {
+      "name": "notification_intensity_active_desc",
+      "value": "더 먼 날짜까지 요약을 예약하고 위험이 높아지면 더 빨리 알려 드립니다. 같은 알림은 반복하지 않습니다."
+    },
+    {
+      "name": "notification_intensity_custom_desc",
+      "value": "아래 항목과 시간을 따릅니다."
+    },
+    {
+      "name": "notification_daily_desc",
+      "value": "오늘의 최우선 작업과 권장 투입 시간을 한 번에 보여 줍니다."
+    },
+    {
+      "name": "notification_risk_desc",
+      "value": "높은 위험이 뚜렷해질 때만 비슷한 마감을 묶어 알립니다."
+    },
+    {
+      "name": "notification_replan_desc",
+      "value": "계획 변경은 다음 일일 요약에 포함됩니다. 일일 요약을 켜 주세요."
+    },
+    {
+      "name": "notification_summary_time",
+      "value": "행동 요약 시간"
+    },
+    {
+      "name": "notification_quiet_off",
+      "value": "방해 금지 없음"
+    },
+    {
+      "name": "notification_quiet_desc",
+      "value": "요약과 위험 알림은 방해 금지 시간을 피합니다. 마감 알림은 가능하면 앞당기지만, 임박한 마감 알림은 미루지 않습니다."
+    },
+    {
+      "name": "risk_reason_completed",
+      "value": "완료됨"
+    },
+    {
+      "name": "risk_reason_overdue",
+      "value": "마감 시간이 지났습니다"
+    },
+    {
+      "name": "availability_daily",
+      "value": "하루 약 {0}시간"
+    },
+    {
+      "name": "availability_weekday_weekend",
+      "value": "평일 약 {0}시간, 주말 약 {1}시간"
+    },
+    {
+      "name": "risk_reason_on_track",
+      "value": "진행률이 남은 시간과 작업량에 맞습니다"
+    },
+    {
+      "name": "risk_reason_capacity_shortfall",
+      "value": "{0}시간 남았습니다. {1} 기준으로 가능한 시간은 약 {2}시간입니다"
+    },
+    {
+      "name": "risk_reason_due_hours_progress",
+      "value": "마감까지 약 {0}시간, 현재 {1}% 완료"
+    },
+    {
+      "name": "risk_reason_progress_lag",
+      "value": "경과 시간에 비해 진행률이 약 {0}% 뒤처졌습니다"
+    },
+    {
+      "name": "risk_reason_daily_load_high",
+      "value": "{0}시간 남아 앞으로 하루 작업량이 많습니다"
+    },
+    {
+      "name": "risk_reason_due_days_progress",
+      "value": "마감까지 약 {0}일, 현재 {1}% 완료"
+    },
+    {
+      "name": "schedule_review_and_complete",
+      "value": "결과를 확인하고 마감을 완료 처리"
+    },
+    {
+      "name": "schedule_tasks_done",
+      "value": "모든 작업이 끝나 추가 여유일이 필요하지 않습니다"
+    },
+    {
+      "name": "schedule_estimate_per_task",
+      "value": "작업량이 없어 구체 작업 하나를 약 1시간으로 계획합니다"
+    },
+    {
+      "name": "schedule_estimate_per_quarter",
+      "value": "작업량이 없어 진행률 25%를 약 1시간으로 계획합니다"
+    },
+    {
+      "name": "schedule_buffer_summary",
+      "value": "검토하고 빠진 부분을 보완한 뒤 최종 제출 준비"
+    },
+    {
+      "name": "schedule_flex_summary",
+      "value": "밀린 작업을 따라잡거나 일찍 쉬는 유동 시간"
+    },
+    {
+      "name": "schedule_break_down_start",
+      "value": "작업을 나누고 시작하기"
+    },
+    {
+      "name": "schedule_advance_deadline",
+      "value": "‘{0}’ 진행"
+    },
+    {
+      "name": "schedule_advance_progress",
+      "value": "진행률을 약 {0}%까지 올리기"
+    },
+    {
+      "name": "schedule_buffer_overdue",
+      "value": "이미 기한이 지나 여유일을 둘 수 없습니다. 오늘부터 계획을 다시 시작합니다."
+    },
+    {
+      "name": "schedule_buffer_days",
+      "value": "검토, 보완, 제출을 위해 마감 전 {0}일을 비워 두었습니다"
+    },
+    {
+      "name": "schedule_no_safe_buffer",
+      "value": "남은 작업량이 많아 안전한 여유일을 확보할 수 없습니다"
+    },
+    {
+      "name": "schedule_no_buffer_near_due",
+      "value": "마감이 가까워 별도 여유일을 두지 않았습니다"
+    },
+    {
+      "name": "action_overdue_progress",
+      "value": "기한이 지났고 아직 {0}%가 남았습니다"
+    },
+    {
+      "name": "action_remaining_hours",
+      "value": "{0}, 약 {1}시간 더 필요"
+    },
+    {
+      "name": "action_current_progress",
+      "value": "{0}, 현재 진행률 {1}%"
+    },
+    {
+      "name": "action_due_hours",
+      "value": "마감까지 약 {0}시간"
+    },
+    {
+      "name": "action_due_days",
+      "value": "마감까지 {0}일"
+    },
+    {
+      "name": "action_review_complete",
+      "value": "결과를 확인하고 마감을 완료 처리"
+    },
+    {
+      "name": "action_schedule_hours_progress",
+      "value": "오늘 계획: {0}시간 투입해 약 {1}%까지 진행"
+    },
+    {
+      "name": "action_schedule_hours",
+      "value": "오늘 계획: 약 {0}시간 투입"
+    },
+    {
+      "name": "action_focus_then_update",
+      "value": "먼저 한 번 집중해서 진행한 뒤 진행률을 업데이트하세요"
+    },
+    {
+      "name": "action_suggest_hours_progress",
+      "value": "오늘 {0}시간 투입해 약 {1}%까지 진행하세요"
+    },
+    {
+      "name": "action_advance_deadline",
+      "value": "‘{0}’ 진행"
+    },
+    {
+      "name": "action_break_down_deadline",
+      "value": "‘{0}’ 작업 나누기"
+    },
+    {
+      "name": "action_no_tasks_reason",
+      "value": "자동 진행 작업이 없어 구체적인 진행 상황을 판단할 수 없습니다"
+    },
+    {
+      "name": "action_break_down_with_hours",
+      "value": "먼저 작업을 나누고 오늘 약 {0}시간 진행하세요"
+    },
+    {
+      "name": "action_create_tasks_suggestion",
+      "value": "실행 가능한 작업 2~3개를 만들면 진행률을 자동 계산할 수 있습니다"
+    },
+    {
+      "name": "action_complete_task",
+      "value": "‘{0}’ 완료"
+    },
+    {
+      "name": "action_today_schedule_recalculates",
+      "value": "오늘 계획은 약 {0}시간이며 완료 후 이후 일정을 다시 계산합니다"
+    },
+    {
+      "name": "action_tasks_left_one",
+      "value": "진행률을 자동 재계산하며 구체 작업 1개가 남았습니다"
+    },
+    {
+      "name": "action_tasks_left_other",
+      "value": "진행률을 자동 재계산하며 구체 작업 {0}개가 남았습니다"
+    },
+    {
+      "name": "action_review_deadline",
+      "value": "‘{0}’ 확인 후 완료"
+    },
+    {
+      "name": "action_all_tasks_done_reason",
+      "value": "구체 작업이 모두 완료되었습니다"
+    },
+    {
+      "name": "action_mark_deadline_complete",
+      "value": "결과를 확인한 뒤 전체 마감을 완료 처리하세요"
+    },
+    {
+      "name": "reminder_due_minutes",
+      "value": "약 {0}분 후 마감"
+    },
+    {
+      "name": "reminder_due_hours",
+      "value": "약 {0}시간 후 마감"
+    },
+    {
+      "name": "reminder_due_days",
+      "value": "약 {0}일 후 마감"
+    },
+    {
+      "name": "reminder_content_no_tasks",
+      "value": "{0} · 작업 미분해"
+    },
+    {
+      "name": "reminder_content_tasks_one",
+      "value": "{1} · {2}% 완료 · 1개 남음"
+    },
+    {
+      "name": "reminder_content_tasks_other",
+      "value": "{1} · {2}% 완료 · {0}개 남음"
+    },
+    {
+      "name": "reminder_content_hours",
+      "value": "{0} · {1}% 완료 · 약 {2}시간 남음"
+    },
+    {
+      "name": "reminder_content_progress",
+      "value": "{0} · {1}% 완료"
+    },
+    {
+      "name": "notification_slot_desc",
+      "value": "Dayline 마감, 오늘 행동 및 위험 알림"
+    },
+    {
+      "name": "notification_action_done",
+      "value": "닫기"
+    },
+    {
+      "name": "notification_action_snooze",
+      "value": "30분 후"
+    },
+    {
+      "name": "notification_snooze_content",
+      "value": "이 Dayline 행동 제안 나중에 보기"
+    },
+    {
+      "name": "notification_deadline_expired",
+      "value": "이 마감 알림은 종료되었습니다"
+    },
+    {
+      "name": "notification_action_summary",
+      "value": "{0}. {1}"
+    },
+    {
+      "name": "notification_action_summary_more_one",
+      "value": "{1}. {2} 제안 1개가 더 있습니다."
+    },
+    {
+      "name": "notification_action_summary_more_other",
+      "value": "{1}. {2} 제안 {0}개가 더 있습니다."
+    },
+    {
+      "name": "notification_daily_title",
+      "value": "Dayline · 오늘의 행동"
+    },
+    {
+      "name": "notification_daily_title_risk",
+      "value": "Dayline · 오늘의 행동 · 높은 위험"
+    },
+    {
+      "name": "notification_replan_title",
+      "value": "Dayline · 계획 조정됨"
+    },
+    {
+      "name": "notification_replan_prefix_one",
+      "value": "어제 작업 1개가 남아 이후 계획을 조정했습니다. {1}"
+    },
+    {
+      "name": "notification_replan_prefix_other",
+      "value": "어제 작업 {0}개가 남아 이후 계획을 조정했습니다. {1}"
+    },
+    {
+      "name": "notification_daily_expired",
+      "value": "오늘의 행동 요약이 종료되었습니다"
+    },
+    {
+      "name": "notification_risk_title",
+      "value": "Dayline · 위험 상승"
+    },
+    {
+      "name": "notification_risk_content",
+      "value": "{0}: {1}"
+    },
+    {
+      "name": "notification_risk_content_more_one",
+      "value": "{1}: {2}. 높은 위험 마감 1개가 더 있습니다."
+    },
+    {
+      "name": "notification_risk_content_more_other",
+      "value": "{1}: {2}. 높은 위험 마감 {0}개가 더 있습니다."
+    },
+    {
+      "name": "notification_risk_expired",
+      "value": "이 위험 알림은 종료되었습니다"
+    },
+    {
+      "name": "notification_replan_content_one",
+      "value": "어제 작업 1개가 남았습니다. 오늘 우선: {1}. {2}"
+    },
+    {
+      "name": "notification_replan_content_other",
+      "value": "어제 작업 {0}개가 남았습니다. 오늘 우선: {1}. {2}"
+    },
+    {
+      "name": "notification_replan_expired",
+      "value": "이 계획 조정 알림은 종료되었습니다"
+    },
+    {
+      "name": "message_open_settings_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_load_deadlines_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_task_changed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_task_update_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_open_detail_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_open_create_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_deadline_not_found",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_load_deadline_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_open_date_picker_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_open_time_picker_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_notifications_enabled",
+      "value": "알림이 켜졌습니다"
+    },
+    {
+      "name": "message_notifications_not_enabled",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_return_detail_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_save_in_progress",
+      "value": "저장 중…"
+    },
+    {
+      "name": "message_go_back_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_open_task_remove_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_deadline_updated",
+      "value": "마감이 업데이트되었습니다"
+    },
+    {
+      "name": "message_deadline_saved",
+      "value": "마감이 저장되었습니다"
+    },
+    {
+      "name": "message_saved_reminder_retry",
+      "value": "{0}. 알림이 아직 예약되지 않았습니다. 나중에 Dayline을 열어 확인하세요."
+    },
+    {
+      "name": "message_save_failed",
+      "value": "Deadline을 저장하지 못했습니다. 입력 내용은 이 화면에 남아 있습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_detail_missing_id",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_progress_saved",
+      "value": "진행률이 저장되었습니다"
+    },
+    {
+      "name": "message_progress_save_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_task_save_failed",
+      "value": "작업이 저장되지 않았습니다. 입력 내용은 남아 있습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_task_status_failed",
+      "value": "작업 변경 사항이 저장되지 않았습니다. 현재 상태를 확인한 후 다시 시도해 주세요."
+    },
+    {
+      "name": "message_open_delete_confirm_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_task_delete_failed",
+      "value": "작업이 삭제되지 않았습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_open_edit_failed",
+      "value": "작업을 완료할 수 없습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_status_updated_reminder_retry",
+      "value": "상태가 저장되었습니다. 알림은 아직 갱신되지 않았습니다. 나중에 Dayline을 열어 확인하세요."
+    },
+    {
+      "name": "message_status_update_failed",
+      "value": "Deadline 상태가 변경되지 않았습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_deadline_deleted",
+      "value": "마감이 삭제되었습니다"
+    },
+    {
+      "name": "message_deadline_deleted_reminder_retry",
+      "value": "Deadline이 삭제되었습니다. 시스템 알림 취소는 아직 확인되지 않았습니다. 나중에 Dayline을 다시 열어 주세요."
+    },
+    {
+      "name": "message_delete_failed",
+      "value": "Deadline이 삭제되지 않았습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "message_processing",
+      "value": "처리 중…"
+    },
+    {
+      "name": "notification_load_failed",
+      "value": "알림 설정을 불러오지 못했어요. 저장된 설정은 그대로이니 다시 시도해 주세요."
+    },
+    {
+      "name": "notification_saved",
+      "value": "알림 설정을 업데이트할 수 없습니다."
+    },
+    {
+      "name": "notification_save_failed",
+      "value": "알림 설정을 저장하지 못했어요. 선택한 내용은 남아 있으니 다시 시도해 주세요."
+    },
+    {
+      "name": "notification_permission_declined",
+      "value": "알림이 아직 꺼져 있습니다. 기기 설정에서 허용하거나, 알림 없이 계속 사용할 수 있습니다."
+    },
+    {
+      "name": "notification_open_system_failed",
+      "value": "알림을 켜지 못했어요. 기기 설정에서 Dayline 알림을 허용할 수 있어요."
+    },
+    {
+      "name": "notification_save_in_progress",
+      "value": "알림 설정을 업데이트할 수 없습니다."
+    },
+    {
+      "name": "notification_loading",
+      "value": "알림 설정을 업데이트할 수 없습니다."
+    },
+    {
+      "name": "cloud_login_retry",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_status_local_only",
+      "value": "이 기기에만 저장됨"
+    },
+    {
+      "name": "cloud_status_waiting_first_sync",
+      "value": "로그인됨 · 첫 동기화 대기 중"
+    },
+    {
+      "name": "cloud_status_synced",
+      "value": "지난 동기화 완료"
+    },
+    {
+      "name": "cloud_status_sync_incomplete",
+      "value": "동기화가 완료되지 않았습니다. 기기 데이터는 안전합니다"
+    },
+    {
+      "name": "cloud_status_unavailable",
+      "value": "동기화 상태를 잠시 확인할 수 없습니다"
+    },
+    {
+      "name": "cloud_login_unavailable",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_login_update_required",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_login_device_account",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_network_unavailable",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_authorization_incomplete",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_privacy_required",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_login_incomplete",
+      "value": "로그인이 완료되지 않았습니다. 잠시 후 다시 시도해 주세요"
+    },
+    {
+      "name": "cloud_enable_failed",
+      "value": "클라우드 동기화를 켤 수 없습니다"
+    },
+    {
+      "name": "cloud_switch_account_title",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_switch_account_body",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_merge_and_sync",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_switch_confirm_failed",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_status_merging",
+      "value": "기기와 클라우드 데이터 병합 중…"
+    },
+    {
+      "name": "cloud_status_permission_local",
+      "value": "동기화 권한이 허용되지 않았습니다. 기기 전용 모드로 계속 사용할 수 있습니다"
+    },
+    {
+      "name": "cloud_syncing",
+      "value": "동기화 중…"
+    },
+    {
+      "name": "cloud_sign_out_title",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_sign_out_body",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_sign_out_confirm_failed",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_signed_out",
+      "value": "클라우드 동기화를 껐습니다. 기기 데이터는 유지됩니다"
+    },
+    {
+      "name": "cloud_sign_out_failed",
+      "value": "로그아웃을 완료하지 못했어요. 기기의 데이터는 계속 사용할 수 있어요. 나중에 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_never_synced",
+      "value": "아직 동기화하지 않음"
+    },
+    {
+      "name": "cloud_enabled",
+      "value": "클라우드 동기화 켜짐"
+    },
+    {
+      "name": "cloud_connected",
+      "value": "연결됨"
+    },
+    {
+      "name": "cloud_not_signed_in",
+      "value": "HUAWEI ID에 로그인하지 않음"
+    },
+    {
+      "name": "cloud_sync_scope",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_merge_desc",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_offline_desc",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_offline_footer",
+      "value": "오프라인이거나 동기화를 꺼도 이 기기의 데이터는 계속 사용할 수 있습니다."
+    },
+    {
+      "name": "cloud_optional_footer",
+      "value": "로그인은 선택 사항입니다. 계정 없이도 이 기기에서 Dayline을 사용할 수 있습니다."
+    },
+    {
+      "name": "cloud_result_synced",
+      "value": "Huawei Cloud와 동기화됨"
+    },
+    {
+      "name": "cloud_result_network",
+      "value": "오프라인입니다. 연결되면 기기 변경 사항을 동기화합니다"
+    },
+    {
+      "name": "cloud_result_enable_in_settings",
+      "value": "설정의 HUAWEI ID 및 클라우드에서 Dayline 동기화를 켜 주세요"
+    },
+    {
+      "name": "cloud_result_data_limit",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_result_storage_full",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_result_network_policy",
+      "value": "클라우드 동기화를 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_result_failed",
+      "value": "동기화가 완료되지 않았습니다. 기기 데이터는 안전합니다"
+    },
+    {
+      "name": "schedule_task_summary_one",
+      "value": "{1}"
+    },
+    {
+      "name": "schedule_task_summary_other",
+      "value": "{1}, {2} 등 총 {0}개"
+    },
+    {
+      "name": "reminder_result_permission_disabled",
+      "value": "알림이 꺼져 있습니다. 알림 설정은 저장되었습니다."
+    },
+    {
+      "name": "reminder_result_not_needed",
+      "value": "현재 마감 알림이 필요하지 않습니다."
+    },
+    {
+      "name": "reminder_result_queued",
+      "value": "알림 설정은 저장되었지만, 이 알림은 아직 시스템에 예약되지 않았습니다."
+    },
+    {
+      "name": "reminder_result_scheduled",
+      "value": "알림이 예약되었습니다"
+    },
+    {
+      "name": "reminder_result_failed",
+      "value": "알림을 예약하지 못했습니다. Dayline이 자동으로 다시 시도합니다."
+    },
+    {
+      "name": "action_risk_with_remaining",
+      "value": "{0}. {1}"
+    },
+    {
+      "name": "schedule_two_tasks",
+      "value": "{0}, {1}"
+    },
+    {
+      "name": "message_edit_conflict",
+      "value": "이 마감은 다른 기기에서 변경되었습니다. 다시 불러온 후 저장하세요."
+    },
+    {
+      "name": "message_task_conflict",
+      "value": "작업이 다른 곳에서 변경되어 최신 내용을 불러옵니다."
+    },
+    {
+      "name": "risk_unknown",
+      "value": "예상 정보 부족"
+    },
+    {
+      "name": "risk_reason_missing_workload",
+      "value": "위험도를 판단하려면 남은 작업에 필요한 시간을 대략 확인해 주세요."
+    },
+    {
+      "name": "risk_reason_rough_workload",
+      "value": "{0} 작업 완료 비율은 실제 완료한 시간과 다릅니다."
+    },
+    {
+      "name": "risk_reason_shared_unknown",
+      "value": "더 이른 마감의 작업량이 없어 공용 시간을 판단할 수 없습니다."
+    },
+    {
+      "name": "risk_reason_shared_shortfall",
+      "value": "그때까지 약 {0}시간이 필요하지만 공용 가능 시간은 {1}시간입니다."
+    },
+    {
+      "name": "schedule_rough_workload",
+      "value": "시간은 대략적인 값이며 작업 완료 비율은 실제 작업 시간을 뜻하지 않습니다."
+    },
+    {
+      "name": "schedule_need_workload",
+      "value": "시간별 계획을 만들려면 예상 작업량을 입력하세요."
+    },
+    {
+      "name": "schedule_unallocated",
+      "value": "마감 전 배정하지 못한 작업이 있습니다."
+    },
+    {
+      "name": "schedule_unallocated_hours",
+      "value": "{0}시간 미배정"
+    },
+    {
+      "name": "schedule_shared_capacity_note",
+      "value": "모든 마감이 하루의 가능 시간을 함께 사용합니다. {0}"
+    },
+    {
+      "name": "work_remaining_rough",
+      "value": "약 {0}시간 남음. 작업 진행률로 이 시간을 차감하지 않습니다."
+    },
+    {
+      "name": "work_uncertain",
+      "value": "작업 시간 미확정"
+    },
+    {
+      "name": "action_rough_remaining",
+      "value": "{0}; 약 {1}시간 남았을 수 있습니다."
+    },
+    {
+      "name": "work_not_tracked",
+      "value": "기록 안 됨"
+    },
+    {
+      "name": "schedule_required_work",
+      "value": "남은 작업량"
+    },
+    {
+      "name": "risk_reason_unmeasured_work",
+      "value": "남은 작업량을 확인해야 현재 가능한 시간으로 마감일을 지킬 수 있는지 판단할 수 있습니다."
+    },
+    {
+      "name": "schedule_unmeasured_work",
+      "value": "남은 작업량을 확인할 때까지 시간별 일정은 표시하지 않습니다. 오늘 할 일은 계속 볼 수 있습니다."
+    },
+    {
+      "name": "work_remaining_unknown",
+      "value": "남은 시간 알 수 없음"
+    },
+    {
+      "name": "workload_total_create_hint",
+      "value": "처음 입력한 값은 남은 작업의 초기 예상치로도 사용됩니다. 필요하면 상세 화면에서 수정하세요."
+    },
+    {
+      "name": "workload_total_edit_hint",
+      "value": "처음 예상한 총 작업량입니다. 현재 남은 시간은 상세 화면에서 따로 수정하세요."
+    },
+    {
+      "name": "work_remaining_pending",
+      "value": "남은 작업량 확인 필요"
+    },
+    {
+      "name": "remaining_status_stale",
+      "value": "마지막 확인 후 2주가 지났습니다. 시간별 위험과 일정을 보려면 다시 확인하세요."
+    },
+    {
+      "name": "remaining_status_unknown",
+      "value": "마감일과 미완료 작업으로 오늘 할 일은 고를 수 있습니다. 시간별 위험은 예상치가 필요합니다."
+    },
+    {
+      "name": "remaining_status_initial",
+      "value": "초기 예상치입니다. 시작한 뒤 판단이 바뀌면 확인하세요."
+    },
+    {
+      "name": "remaining_status_confirmed",
+      "value": "최근 확인한 대략적인 예상치입니다. 판단이 바뀌면 수정하세요."
+    },
+    {
+      "name": "remaining_update_button",
+      "value": "남은 시간 수정"
+    },
+    {
+      "name": "remaining_editor_hint",
+      "value": "남은 작업량(시간)"
+    },
+    {
+      "name": "remaining_hours_placeholder",
+      "value": "예: 6시간"
+    },
+    {
+      "name": "remaining_keep_button",
+      "value": "이전 예상치 유지"
+    },
+    {
+      "name": "remaining_save_button",
+      "value": "새 예상치 저장"
+    },
+    {
+      "name": "remaining_unknown_button",
+      "value": "아직 모르겠음"
+    },
+    {
+      "name": "remaining_no_previous_estimate",
+      "value": "유지할 이전 예상치가 없습니다"
+    },
+    {
+      "name": "message_remaining_unknown_saved",
+      "value": "미확인으로 표시했습니다. 오늘 할 일은 계속 볼 수 있습니다."
+    },
+    {
+      "name": "message_remaining_saved",
+      "value": "남은 시간 예상치를 수정했습니다"
+    },
+    {
+      "name": "message_remaining_save_failed",
+      "value": "남은 시간을 저장하지 못했어요. 입력 내용은 남아 있으니 다시 시도해 주세요."
+    },
+    {
+      "name": "risk_reason_stale_work",
+      "value": "남은 시간 예상치가 오래되었습니다. 위험을 판단하려면 다시 확인하세요."
+    },
+    {
+      "name": "task_progress_label",
+      "value": "작업 진행률"
+    },
+    {
+      "name": "task_just_completed",
+      "value": "‘{0}’ 완료"
+    },
+    {
+      "name": "task_just_reopened",
+      "value": "‘{0}’ 완료 취소"
+    },
+    {
+      "name": "editor_discard_title",
+      "value": "저장하지 않은 변경 사항을 버릴까요?"
+    },
+    {
+      "name": "editor_discard_body",
+      "value": "이 화면의 입력 내용은 아직 저장되지 않았습니다. 계속 편집하거나 버리고 나갈 수 있습니다."
+    },
+    {
+      "name": "editor_discard_action",
+      "value": "변경 사항 버리기"
+    },
+    {
+      "name": "settings_saved",
+      "value": "설정이 저장되었습니다"
+    },
+    {
+      "name": "notification_permission_off_hint",
+      "value": "알림이 꺼져 있습니다. 기기 설정에서 Dayline 알림을 허용할 수 있습니다."
+    },
+    {
+      "name": "notification_more_settings",
+      "value": "알림 상세 설정"
+    },
+    {
+      "name": "notification_less_settings",
+      "value": "상세 설정 접기"
+    },
+    {
+      "name": "settings_load_failed",
+      "value": "설정을 불러오지 못했습니다. 저장된 설정은 변경되지 않았습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "cloud_enable_failed_safe",
+      "value": "클라우드 동기화를 시작하지 못했습니다. 기기에 저장된 데이터는 계속 사용할 수 있습니다. 다시 시도해 주세요."
+    },
+    {
+      "name": "notification_refresh_failed",
+      "value": "설정은 저장되었지만 알림을 갱신하지 못했습니다. 다시 저장해 주세요."
+    },
+    {
+      "name": "settings_sync_failed",
+      "value": "동기화 재시도 필요"
+    },
+    {
+      "name": "task_just_removed",
+      "value": "초안에서 “{0}”을 삭제했어요"
+    },
+    {
+      "name": "settings_language_system_saved",
+      "value": "저장했습니다. 최근 앱에서 Dayline을 종료한 뒤 다시 열면 기기 언어가 적용됩니다."
+    },
+    {
+      "name": "cloud_account_verify_failed",
+      "value": "현재 계정을 확인할 수 없어 동기화를 시작하지 않았습니다. 기기 데이터는 그대로 있습니다. 네트워크와 시스템 계정을 확인한 후 다시 시도하세요."
+    },
+    {
+      "name": "cloud_account_mismatch",
+      "value": "이 기기의 데이터가 다른 Huawei 계정에 연결되어 있어 동기화를 시작하지 않았습니다. 원래 계정으로 돌아가세요. 기기 데이터는 계속 사용할 수 있습니다."
+    },
+    {
+      "name": "cloud_status_save_failed",
+      "value": "이번 동기화 결과를 저장하지 못했습니다. 기기 데이터는 사용할 수 있습니다. 다시 시도하여 동기화 상태를 확인하세요."
+    },
+    {
+      "name": "cloud_stop_failed",
+      "value": "동기화가 중지되었는지 확인하지 못했습니다. 기기 데이터는 그대로 있습니다. 로그아웃을 다시 시도하세요."
+    },
+    {
+      "name": "cloud_data_held",
+      "value": "확인이 필요하거나 아직 완전히 받지 못한 변경 사항이 있습니다. 기존 데이터는 보관되어 있습니다. “변경 사항 확인”에서 유지할 내용을 선택하거나 이유를 확인하세요."
+    },
+    {
+      "name": "cloud_protocol_pending",
+      "value": "클라우드 동기화가 일시 중지되었습니다. 이 기기의 데이터는 보관되어 있습니다. 호환성 확인과 모든 기기의 업데이트가 끝나야 동기화를 재개할 수 있습니다."
+    },
+    {
+      "name": "detail_next_action",
+      "value": "다음 할 일"
+    },
+    {
+      "name": "task_actions_label",
+      "value": "할 일 메뉴"
+    },
+    {
+      "name": "review_title",
+      "value": "변경 사항 확인"
+    },
+    {
+      "name": "review_needed",
+      "value": "확인 필요"
+    },
+    {
+      "name": "review_open",
+      "value": "확인하기"
+    },
+    {
+      "name": "review_home_status",
+      "value": "확인할 변경 사항: {0}개"
+    },
+    {
+      "name": "review_intro",
+      "value": "이 마감 항목에 서로 다른 변경 사항이 있습니다. 마지막 완전한 데이터와 각 버전은 보관되어 있습니다. 유지할 내용을 선택하세요. 저장 전에는 덮어쓰지 않으며 다른 마감 항목은 계속 사용할 수 있습니다."
+    },
+    {
+      "name": "review_current",
+      "value": "이 기기에 저장된 내용"
+    },
+    {
+      "name": "review_alternative",
+      "value": "저장된 버전 {0}"
+    },
+    {
+      "name": "review_step",
+      "value": "{1}개 중 {0}번째"
+    },
+    {
+      "name": "review_previous",
+      "value": "이전"
+    },
+    {
+      "name": "review_next",
+      "value": "다음"
+    },
+    {
+      "name": "review_save",
+      "value": "선택 저장"
+    },
+    {
+      "name": "review_later",
+      "value": "나중에 결정"
+    },
+    {
+      "name": "review_reload",
+      "value": "최신 변경 다시 불러오기"
+    },
+    {
+      "name": "review_working",
+      "value": "잠시 기다려 주세요…"
+    },
+    {
+      "name": "review_success",
+      "value": "선택한 내용을 저장했습니다."
+    },
+    {
+      "name": "review_none",
+      "value": "확인할 변경 사항이 없습니다."
+    },
+    {
+      "name": "review_waiting",
+      "value": "완전한 데이터 대기 중"
+    },
+    {
+      "name": "review_incomplete",
+      "value": "받은 데이터가 불완전하거나 확인할 수 없습니다. 마지막 완전한 데이터는 볼 수 있습니다. 지금은 버전 선택만으로 안전하게 복구할 수 없습니다. 다른 마감 항목은 계속 사용하되 앱 데이터를 유지하고 재설치하지 마세요."
+    },
+    {
+      "name": "review_load_failed",
+      "value": "저장된 변경 사항을 불러오지 못했습니다. 데이터는 보관되어 있습니다. 다시 불러오세요."
+    },
+    {
+      "name": "review_save_failed",
+      "value": "선택을 저장하지 못했습니다. 이전의 완전한 데이터와 각 버전은 보관되어 있습니다. 다시 시도하거나 작업 구조가 맞지 않으면 다른 조합을 선택하세요."
+    },
+    {
+      "name": "review_changed",
+      "value": "선택하는 동안 새 변경 사항이 도착했습니다. 덮어쓰지 않았습니다. 다시 불러온 뒤 선택하세요."
+    },
+    {
+      "name": "review_removed",
+      "value": "삭제 결과 유지됨"
+    },
+    {
+      "name": "review_deleted_explanation",
+      "value": "이 마감 항목이 삭제되는 동안 다른 변경 사항도 있었습니다. 작업을 포함한 삭제 결과를 유지하며 오래된 변경으로 되살아나지 않습니다. 받은 변경 사항은 기록에 보관됩니다."
+    },
+    {
+      "name": "review_tasks_deleted_explanation",
+      "value": "이 작업들이 삭제되는 동안 다른 변경 사항도 있었습니다. 하위 작업을 포함한 삭제 결과를 유지하며 오래된 변경으로 복원되지 않습니다. 이 항목의 나머지 내용은 계속 사용할 수 있습니다."
+    },
+    {
+      "name": "review_understood",
+      "value": "확인했어요"
+    },
+    {
+      "name": "review_tree_choice",
+      "value": "완전한 작업 목록 하나를 선택하세요. 선택한 목록만 남으며 포함되지 않은 작업은 삭제된 상태로 유지됩니다. 안전하게 합칠 수 있는 다른 변경은 보존됩니다."
+    },
+    {
+      "name": "review_show_tasks",
+      "value": "전체 작업 목록 보기"
+    },
+    {
+      "name": "review_collapse",
+      "value": "접기"
+    },
+    {
+      "name": "review_task_count",
+      "value": "작업 {0}개"
+    },
+    {
+      "name": "review_task_position",
+      "value": "순서 {0}"
+    },
+    {
+      "name": "review_root_task",
+      "value": "최상위 작업"
+    },
+    {
+      "name": "review_other_task",
+      "value": "다른 상위 작업"
+    },
+    {
+      "name": "review_unfinished",
+      "value": "미완료"
+    },
+    {
+      "name": "review_unknown",
+      "value": "남은 작업량 불확실"
+    },
+    {
+      "name": "review_hours",
+      "value": "약 {0}시간"
+    },
+    {
+      "name": "review_initial",
+      "value": "초기 추정치이며 새로 확인한 값이 아닙니다"
+    },
+    {
+      "name": "review_confirmed_at",
+      "value": "최근 확인: {0}"
+    },
+    {
+      "name": "review_auto",
+      "value": "자동 작업 진행률"
+    },
+    {
+      "name": "review_manual",
+      "value": "수동 진행률"
+    },
+    {
+      "name": "review_percent",
+      "value": "수동 진행률: {0}%"
+    },
+    {
+      "name": "review_no_reminder",
+      "value": "알림 없음"
+    },
+    {
+      "name": "review_reminder_minutes",
+      "value": "마감 {0}분 전"
+    },
+    {
+      "name": "review_empty",
+      "value": "미입력"
+    },
+    {
+      "name": "review_field_name",
+      "value": "이름"
+    },
+    {
+      "name": "review_field_due",
+      "value": "마감 일시"
+    },
+    {
+      "name": "review_field_remaining",
+      "value": "현재 남은 작업량"
+    },
+    {
+      "name": "review_field_task",
+      "value": "작업"
+    },
+    {
+      "name": "review_field_tasks",
+      "value": "작업 목록"
+    },
+    {
+      "name": "review_field_type",
+      "value": "유형"
+    },
+    {
+      "name": "review_field_note",
+      "value": "메모"
+    },
+    {
+      "name": "review_field_created",
+      "value": "생성 일시"
+    },
+    {
+      "name": "review_field_completed",
+      "value": "완료 상태"
+    },
+    {
+      "name": "review_field_total",
+      "value": "초기 총 작업량"
+    },
+    {
+      "name": "review_field_mode",
+      "value": "진행률 방식"
+    },
+    {
+      "name": "review_field_progress",
+      "value": "수동 진행률"
+    },
+    {
+      "name": "review_field_reminder",
+      "value": "알림"
+    },
+    {
+      "name": "review_upgrade",
+      "value": "다른 기기의 Dayline을 업데이트한 뒤 다시 동기화해 주세요. 이전 버전의 변경 내용으로 이 기기의 데이터를 덮어쓰지 않았습니다. 원래 기기와 데이터를 보관하고 업데이트해 주세요."
+    },
+    {
+      "name": "cloud_legacy_pending",
+      "value": "일부 이전 데이터를 아직 안전하게 가져오지 못했습니다. 이 기기의 데이터는 계속 사용할 수 있습니다. 원래 기기를 보관하고 Dayline을 업데이트해 주세요."
+    },
+    {
+      "name": "overdue_pending",
+      "value": "기한 지남 · 처리 필요"
+    },
+    {
+      "name": "overdue_continue",
+      "value": "기한 지남 · 계속 진행"
+    },
+    {
+      "name": "overdue_stopped",
+      "value": "더 이상 추적하지 않음"
+    },
+    {
+      "name": "overdue_no_forecast",
+      "value": "기존 기한이 지났습니다. 새 기한을 정해야 다시 일정을 세울 수 있으며, 기한 내 완료를 예측하지 않습니다."
+    },
+    {
+      "name": "overdue_capacity_unknown",
+      "value": "새 기한 없이 계속 진행하는 지난 항목이 있습니다. 전체 작업을 제때 끝낼 수 있는지는 판단할 수 없습니다."
+    },
+    {
+      "name": "overdue_continue_reason",
+      "value": "기한은 지났지만 작업은 계속할 수 있습니다. 완료 시점은 예측하지 않습니다."
+    },
+    {
+      "name": "overdue_review_action",
+      "value": "기한이 지난 “{0}” 처리하기"
+    },
+    {
+      "name": "overdue_choose_hint",
+      "value": "계속 진행하거나 기한을 바꾸세요."
+    },
+    {
+      "name": "overdue_continue_button",
+      "value": "계속 진행"
+    },
+    {
+      "name": "overdue_edit_button",
+      "value": "기한 변경"
+    },
+    {
+      "name": "overdue_stop_button",
+      "value": "추적 중단"
+    },
+    {
+      "name": "overdue_reconsider_button",
+      "value": "다시 결정"
+    },
+    {
+      "name": "overdue_stopped_hint",
+      "value": "이 기기에서는 더 이상 추천하지 않습니다. 기록과 작업은 유지되며 다시 결정할 수 있습니다."
+    },
+    {
+      "name": "overdue_save_failed",
+      "value": "선택을 저장하지 못했습니다. 기록은 안전합니다. 다시 시도하세요."
+    },
+    {
+      "name": "overdue_less_hour",
+      "value": "기한이 지난 지 1시간 미만"
+    },
+    {
+      "name": "overdue_hours_one",
+      "value": "기한이 지난 지 {0}시간"
+    },
+    {
+      "name": "overdue_hours_other",
+      "value": "기한이 지난 지 {0}시간"
+    },
+    {
+      "name": "overdue_days_one",
+      "value": "기한이 지난 지 {0}일"
+    },
+    {
+      "name": "overdue_days_other",
+      "value": "기한이 지난 지 {0}일"
+    },
+    {
+      "name": "overdue_complete_button",
+      "value": "완료로 표시"
+    },
+    {
+      "name": "overdue_no_actions",
+      "value": "오늘 추천할 작업이 없습니다. 보관된 항목은 전체 Deadline 목록에서 볼 수 있습니다."
+    },
+    {
+      "name": "overdue_decide_label",
+      "value": "처리 필요"
+    },
+    {
+      "name": "validation_time_past",
+      "value": "이미 지난 시간입니다. 앞으로의 마감 시간을 선택하세요. 입력 내용은 유지됩니다."
+    },
+    {
+      "name": "validation_time_missing",
+      "value": "이 날짜에는 선택한 시간이 없습니다. 다른 시간을 선택하세요."
+    },
+    {
+      "name": "validation_time_ambiguous",
+      "value": "이 날짜에는 선택한 시간이 두 번 나타납니다. 중복되지 않는 시간을 선택하세요."
+    },
+    {"name": "cloud_release_unavailable", "value": "클라우드 동기화는 아직 제공되지 않습니다. 저장된 데이터는 이 기기에서 계속 사용할 수 있습니다."},
+    {"name": "notification_delivery_notice", "value": "알림 도착 여부는 시스템 권한, 기기, 백그라운드 일정 처리에 따라 달라집니다. 앱에서 마감일을 확인하세요."},
+    {"name": "experience_today", "value": "오늘"},
+    {"name": "experience_deadlines", "value": "Deadlines"},
+    {"name": "experience_now", "value": "이것부터 시작해요"},
+    {"name": "experience_start", "value": "이 단계 시작"},
+    {"name": "experience_decide", "value": "처리 방법 결정"},
+    {"name": "experience_after", "value": "그다음 할 일"},
+    {"name": "experience_upcoming", "value": "앞으로 며칠"},
+    {"name": "experience_objects_hint", "value": "Deadline을 열고 이어서 진행하세요."},
+    {"name": "experience_planned_today", "value": "오늘 약 {0}시간 배정"},
+    {"name": "experience_partial_plan", "value": "남은 시간을 확인할 작업도 있어요"},
+    {"name": "experience_hours_pending", "value": "오늘 필요한 시간은 확인 중"},
+    {"name": "experience_short_plan", "value": "오늘 짧은 작업이 배정됐어요"},
+    {"name": "experience_action", "value": "진행"},
+    {"name": "experience_plan", "value": "작업량과 계획"},
+    {"name": "experience_calibrate", "value": "남은 시간 확인"},
+    {"name": "experience_calibration_hint", "value": "예상이 달라졌을 때 얼마나 더 필요한지 확인하세요. 매일 시간을 기록할 필요는 없어요."},
+    {"name": "experience_record", "value": "Deadline 정보"},
+    {"name": "experience_task_count", "value": "작업 진행 {0} / {1} 완료"},
+    {"name": "experience_name", "value": "무엇을 끝내야 하나요?"},
+    {"name": "experience_due", "value": "언제까지인가요?"},
+    {"name": "experience_tomorrow", "value": "내일"},
+    {"name": "experience_due_clock", "value": "마감 {0} · 변경"},
+    {"name": "experience_add_details", "value": "시간이나 작업 추가 (선택)"},
+    {"name": "experience_hide_details", "value": "추가 정보 접기"},
+    {"name": "experience_create_hint", "value": "이름과 마감일만으로 시작할 수 있어요."},
+    {"name": "experience_created", "value": "저장됨: {0}"},
+    {"name": "experience_pending_task", "value": "입력 중인 작업을 추가하거나 입력을 지운 후 저장하세요."},
+    {"name": "experience_task_options", "value": "작업과 진행률"},
+    {"name": "experience_advanced_options", "value": "유형, 알림과 메모"},
+    {"name": "experience_empty_title", "value": "오늘은 한 가지부터."},
+    {"name": "experience_empty_body", "value": "다음으로 제출하거나 끝내야 할 일을 기록해 보세요."},
+    {"name": "experience_remaining", "value": "약 {0}시간 남음"},
+    {"name": "experience_unsaved", "value": "변경 사항이 저장되지 않음"}
+  ]
+}

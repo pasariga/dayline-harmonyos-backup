@@ -1,0 +1,388 @@
+{
+    "string":  [
+                   {
+                       "name":  "module_desc",
+                       "value":  "Dayline deadline progress and risk planner"
+                   },
+                   {
+                       "name":  "EntryAbility_desc",
+                       "value":  "Manage deadlines, progress, and today\u0027s priorities"
+                   },
+                   {
+                       "name":  "EntryAbility_label",
+                       "value":  "Dayline"
+                   },
+                   {
+                       "name":  "data_sync_permission_reason",
+                       "value":  "Sync your deadlines and tasks with HUAWEI Cloud after you sign in"
+                   },
+                   {
+                       "name":  "common_back",
+                       "value":  "Back"
+                   },
+                   {
+                       "name":  "common_retry",
+                       "value":  "Try again"
+                   },
+                   {
+                       "name":  "common_save",
+                       "value":  "Save"
+                   },
+                   {
+                       "name":  "common_saving",
+                       "value":  "Saving…"
+                   },
+                   {
+                       "name":  "common_cancel",
+                       "value":  "Cancel"
+                   },
+                   {
+                       "name":  "common_add",
+                       "value":  "Add"
+                   },
+                   {
+                       "name":  "common_edit",
+                       "value":  "Edit"
+                   },
+                   {
+                       "name":  "common_delete",
+                       "value":  "Delete"
+                   },
+                   {
+                       "name":  "common_completed",
+                       "value":  "Completed"
+                   },
+                   {
+                       "name":  "common_incomplete",
+                       "value":  "Not completed"
+                   },
+                   {
+                       "name":  "common_overdue",
+                       "value":  "Overdue"
+                   },
+                   {
+                       "name":  "common_today",
+                       "value":  "Today"
+                   },
+                   {
+                       "name":  "common_tomorrow",
+                       "value":  "Tomorrow"
+                   },
+                   {
+                       "name":  "common_hours_value",
+                       "value":  "%s hr"
+                   },
+                   {
+                       "name":  "common_status_unavailable",
+                       "value":  "Status unavailable · Tap to view"
+                   },
+                   {
+                       "name":  "common_error_retry",
+                       "value":  "Something went wrong. Try again later."
+                   },
+                   {
+                       "name":  "core_deadline",
+                       "value":  "Deadline"
+                   },
+                   {
+                       "name":  "core_today_action",
+                       "value":  "Today\u0027s priorities"
+                   },
+                   {
+                       "name":  "core_automatic_progress",
+                       "value":  "Task-based progress"
+                   },
+                   {
+                       "name":  "core_manual_progress",
+                       "value":  "Manual progress"
+                   },
+                   {
+                       "name":  "core_risk_level",
+                       "value":  "Risk"
+                   },
+                   {
+                       "name":  "core_reverse_plan",
+                       "value":  "Auto schedule"
+                   },
+                   {
+                       "name":  "core_replan",
+                       "value":  "Schedule update"
+                   },
+                   {
+                       "name":  "core_remaining_work",
+                       "value":  "Work remaining"
+                   },
+                   {
+                       "name":  "core_available_time",
+                       "value":  "Available time"
+                   },
+                   {
+                       "name":  "core_notification_policy",
+                       "value":  "Notification plan"
+                   },
+                   {
+                       "name":  "core_cloud_sync",
+                       "value":  "Cloud sync"
+                   },
+                   {
+                       "name":  "settings_title",
+                       "value":  "Settings"
+                   },
+                   {
+                       "name":  "settings_subtitle",
+                       "value":  "Make Dayline work your way"
+                   },
+                   {
+                       "name":  "settings_loading",
+                       "value":  "Loading settings…"
+                   },
+                   {
+                       "name":  "settings_save_failed",
+                       "value":  "Couldn\u0027t save your settings. Try again later."
+                   },
+                   {
+                       "name":  "settings_account_title",
+                       "value":  "Account \u0026 sync"
+                   },
+                   {
+                       "name":  "settings_account_desc",
+                       "value":  "Signing in is optional. Your data stays on this device by default."
+                   },
+                   {
+                       "name":  "settings_huawei_account",
+                       "value":  "HUAWEI ID \u0026 Cloud"
+                   },
+                   {
+                       "name":  "settings_signed_out",
+                       "value":  "Not signed in · Saved on this device"
+                   },
+                   {
+                       "name":  "settings_sync_waiting",
+                       "value":  "Signed in · Waiting to sync"
+                   },
+                   {
+                       "name":  "settings_sync_ok",
+                       "value":  "Signed in · Sync is up to date"
+                   },
+                   {
+                       "name":  "settings_local_data",
+                       "value":  "Saved on this device"
+                   },
+                   {
+                       "name":  "settings_open_account_failed",
+                       "value":  "Couldn\u0027t open account and sync settings"
+                   },
+                   {
+                       "name":  "settings_appearance",
+                       "value":  "Appearance"
+                   },
+                   {
+                       "name":  "settings_appearance_desc",
+                       "value":  "Follow your device theme or choose a fixed appearance."
+                   },
+                   {
+                       "name":  "settings_theme_system",
+                       "value":  "Use device setting"
+                   },
+                   {
+                       "name":  "settings_theme_light",
+                       "value":  "Light"
+                   },
+                   {
+                       "name":  "settings_theme_dark",
+                       "value":  "Dark"
+                   },
+                   {
+                       "name":  "settings_language_region",
+                       "value":  "Language \u0026 region"
+                   },
+                   {
+                       "name":  "settings_language_desc",
+                       "value":  "Dayline will restart to apply the selected language everywhere."
+                   },
+                   {
+                       "name":  "settings_app_language",
+                       "value":  "App language"
+                   },
+                   {
+                       "name":  "settings_language_saved_restart",
+                       "value":  "Language saved. It will apply next time you open Dayline."
+                   },
+                   {
+                       "name":  "settings_language_save_failed",
+                       "value":  "Couldn\u0027t save the language setting. Try again later."
+                   },
+                   {
+                       "name":  "settings_notifications",
+                       "value":  "Notifications"
+                   },
+                   {
+                       "name":  "settings_notifications_desc",
+                       "value":  "Manage deadline alerts, daily briefings, and quiet hours."
+                   },
+                   {
+                       "name":  "settings_open_notifications_failed",
+                       "value":  "Couldn\u0027t open notification settings"
+                   },
+                   {
+                       "name":  "settings_permission_on",
+                       "value":  "System notifications on"
+                   },
+                   {
+                       "name":  "settings_permission_off",
+                       "value":  "System notifications off"
+                   },
+                   {
+                       "name":  "settings_intensity_concise",
+                       "value":  "Essential only"
+                   },
+                   {
+                       "name":  "settings_intensity_standard",
+                       "value":  "Standard"
+                   },
+                   {
+                       "name":  "settings_intensity_active",
+                       "value":  "Proactive"
+                   },
+                   {
+                       "name":  "settings_intensity_custom",
+                       "value":  "Custom"
+                   },
+                   {
+                       "name":  "settings_tasks_plans",
+                       "value":  "Tasks \u0026 planning"
+                   },
+                   {
+                       "name":  "settings_tasks_desc",
+                       "value":  "The progress default applies to new deadlines. Available time updates risk and schedules now."
+                   },
+                   {
+                       "name":  "settings_default_progress",
+                       "value":  "Default progress"
+                   },
+                   {
+                       "name":  "settings_progress_hint",
+                       "value":  "Task-based progress suits larger projects. Manual progress is quicker for simple deadlines."
+                   },
+                   {
+                       "name":  "settings_weekday",
+                       "value":  "Weekdays"
+                   },
+                   {
+                       "name":  "settings_weekend",
+                       "value":  "Weekends"
+                   },
+                   {
+                       "name":  "settings_time_hint",
+                       "value":  "No daily upkeep needed. Dayline plans around the day of the week and the time left today."
+                   },
+                   {
+                       "name":  "settings_home_schedule",
+                       "value":  "Show auto schedule on Home"
+                   },
+                   {
+                       "name":  "settings_home_schedule_desc",
+                       "value":  "The full schedule will still be available in deadline details."
+                   },
+                   {
+                       "name":  "settings_default_deadline_time",
+                       "value":  "Default due time"
+                   },
+                   {
+                       "name":  "settings_default_deadline_time_desc",
+                       "value":  "Used for new deadlines only. You can change it each time."
+                   },
+                   {
+                       "name":  "settings_privacy",
+                       "value":  "Data \u0026 privacy"
+                   },
+                   {
+                       "name":  "settings_privacy_desc",
+                       "value":  "Deadlines, tasks and settings are saved on this device. This version offers no account sign-in or app cloud sync. If system backup is enabled, the system may back up app data according to device settings. Notifications are optional; turning them off does not affect local use. Uninstalling or clearing app data may erase your records."
+                   },
+                   {
+                       "name":  "settings_privacy_local",
+                       "value":  "You can use every offline feature without signing in."
+                   },
+                   {
+                       "name":  "settings_about_tagline",
+                       "value":  "Turn due dates into a plan for today"
+                   },
+                   {
+                       "name":  "settings_version",
+                       "value":  "Version 1.0.0"
+                   },
+                   {
+                       "name":  "settings_preferences",
+                       "value":  "Preferences"
+                   },
+                   {
+                       "name":  "settings_general",
+                       "value":  "General"
+                   },
+                   {
+                       "name":  "settings_appearance_language",
+                       "value":  "Appearance & language"
+                   },
+                   {
+                       "name":  "settings_language_system",
+                       "value":  "Follow system"
+                   },
+                   {
+                       "name":  "settings_summary_pair",
+                       "value":  "{0} · {1}"
+                   },
+                   {
+                       "name":  "settings_hours_day",
+                       "value":  "{0} hr/day"
+                   },
+                   {
+                       "name":  "settings_open_appearance_failed",
+                       "value":  "Couldn't open appearance settings"
+                   },
+                   {
+                       "name":  "settings_open_planning_failed",
+                       "value":  "Couldn't open planning settings"
+                   },
+                   {
+                       "name":  "settings_privacy_summary",
+                       "value":  "On-device storage; system backup depends on device settings"
+                   },
+                   {
+                       "name":  "settings_about",
+                       "value":  "About Dayline"
+                   },
+                   {
+                       "name":  "settings_planning_defaults",
+                       "value":  "Defaults"
+                   },
+                   {
+                       "name":  "settings_planning_time",
+                       "value":  "Available time"
+                   },
+                   {
+                       "name":  "settings_planning_home",
+                       "value":  "Home"
+                   },
+                   {
+                       "name":  "common_days_value",
+                       "value":  "%s days"
+                   },
+                   {
+                       "name":  "common_items_value",
+                       "value":  "%s items"
+                   },
+                   {
+                       "name":  "create_more_options",
+                       "value":  "More options (optional)"
+                   },
+                   {
+                       "name":  "create_fewer_options",
+                       "value":  "Hide options"
+                   },
+    {"name": "common_undo", "value": "Undo"},
+    {"name": "detail_more_info", "value": "Plan and details"},
+    {"name": "detail_less_info", "value": "Hide details"},
+    {"name": "detail_workload_summary", "value": "Workload estimate"}
+]
+}

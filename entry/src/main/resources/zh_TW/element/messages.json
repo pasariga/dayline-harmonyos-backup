@@ -1,0 +1,1751 @@
+{
+  "string": [
+    {
+      "name": "common_enabled",
+      "value": "已開啟"
+    },
+    {
+      "name": "common_disabled",
+      "value": "未開啟"
+    },
+    {
+      "name": "common_remove",
+      "value": "移除"
+    },
+    {
+      "name": "common_updating",
+      "value": "更新中…"
+    },
+    {
+      "name": "common_about_hours",
+      "value": "約 {0} 小時"
+    },
+    {
+      "name": "common_hours_short",
+      "value": "{0} 小時"
+    },
+    {
+      "name": "message_open_settings_failed",
+      "value": "暫時無法打開設置，請重試"
+    },
+    {
+      "name": "message_load_deadlines_failed",
+      "value": "暫時無法讀取 Deadline，請稍后重試"
+    },
+    {
+      "name": "message_task_changed",
+      "value": "該任務已變化，正在刷新今日建議…"
+    },
+    {
+      "name": "message_task_update_failed",
+      "value": "任務更新失敗，請稍后重試"
+    },
+    {
+      "name": "message_open_detail_failed",
+      "value": "暫時無法打開 Deadline 詳情"
+    },
+    {
+      "name": "message_open_create_failed",
+      "value": "暫時無法打開新建 Deadline 頁面"
+    },
+    {
+      "name": "message_deadline_not_found",
+      "value": "這條 Deadline 已不存在"
+    },
+    {
+      "name": "message_load_deadline_failed",
+      "value": "讀取 Deadline 失敗，請返回后重試"
+    },
+    {
+      "name": "message_open_date_picker_failed",
+      "value": "暫時無法打開日期選擇器"
+    },
+    {
+      "name": "message_open_time_picker_failed",
+      "value": "暫時無法打開時間選擇器"
+    },
+    {
+      "name": "message_notifications_enabled",
+      "value": "系統通知已開啟"
+    },
+    {
+      "name": "message_notifications_not_enabled",
+      "value": "暫未開啟，可稍后在設置中處理"
+    },
+    {
+      "name": "message_return_detail_failed",
+      "value": "暫時無法返回 Deadline 詳情"
+    },
+    {
+      "name": "message_save_in_progress",
+      "value": "正在保存…"
+    },
+    {
+      "name": "message_go_back_failed",
+      "value": "暫時無法返回，請重試"
+    },
+    {
+      "name": "message_open_task_remove_failed",
+      "value": "暫時無法打開任務移除確認"
+    },
+    {
+      "name": "message_deadline_updated",
+      "value": "Deadline 已更新"
+    },
+    {
+      "name": "message_deadline_saved",
+      "value": "Deadline 已保存"
+    },
+    {
+      "name": "message_saved_reminder_retry",
+      "value": "{0}。提醒尚未排入系統，請稍後開啟 Dayline 查看。"
+    },
+    {
+      "name": "message_save_failed",
+      "value": "未能儲存 Deadline，已填內容仍在此頁。請重試。"
+    },
+    {
+      "name": "message_detail_missing_id",
+      "value": "缺少必要信息，無法打開詳情"
+    },
+    {
+      "name": "message_progress_saved",
+      "value": "進度已保存"
+    },
+    {
+      "name": "message_progress_save_failed",
+      "value": "進度保存失敗，請稍后重試"
+    },
+    {
+      "name": "message_task_save_failed",
+      "value": "任務未儲存，輸入內容仍在此頁。請重試。"
+    },
+    {
+      "name": "message_task_status_failed",
+      "value": "任務狀態未儲存，請查看目前狀態後重試。"
+    },
+    {
+      "name": "message_open_delete_confirm_failed",
+      "value": "暫時無法打開刪除確認"
+    },
+    {
+      "name": "message_task_delete_failed",
+      "value": "任務未刪除，請重試。"
+    },
+    {
+      "name": "message_open_edit_failed",
+      "value": "暫時無法打開編輯頁面"
+    },
+    {
+      "name": "message_status_updated_reminder_retry",
+      "value": "狀態已儲存。提醒尚未更新，請稍後開啟 Dayline 查看。"
+    },
+    {
+      "name": "message_status_update_failed",
+      "value": "Deadline 狀態未更新，請重試。"
+    },
+    {
+      "name": "message_deadline_deleted",
+      "value": "Deadline 已刪除"
+    },
+    {
+      "name": "message_deadline_deleted_reminder_retry",
+      "value": "Deadline 已刪除，系統提醒取消尚未確認。請稍後重新開啟 Dayline。"
+    },
+    {
+      "name": "message_delete_failed",
+      "value": "Deadline 未刪除，請重試。"
+    },
+    {
+      "name": "message_processing",
+      "value": "正在處理…"
+    },
+    {
+      "name": "work_remaining_hours",
+      "value": "剩余 {0} 小時"
+    },
+    {
+      "name": "work_not_estimated",
+      "value": "工作量待估算"
+    },
+    {
+      "name": "progress_auto_pending_meta",
+      "value": "自動 · 待拆解 · {0}"
+    },
+    {
+      "name": "progress_meta",
+      "value": "{0} {1}% · {2}"
+    },
+    {
+      "name": "later_with_hours",
+      "value": "{0} · 剩余 {1} 小時"
+    },
+    {
+      "name": "later_low_risk",
+      "value": "{0} · 當前風險較低"
+    },
+    {
+      "name": "deadline_card_due",
+      "value": "{0} · 截止 {1}"
+    },
+    {
+      "name": "task_breakdown_mark",
+      "value": "拆"
+    },
+    {
+      "name": "schedule_flex_buffer",
+      "value": "機動 / 緩沖"
+    },
+    {
+      "name": "schedule_open_day",
+      "value": "暫無硬性安排，可用于追趕、復習或休息。"
+    },
+    {
+      "name": "schedule_more_items_one",
+      "value": "另有 {0} 項，已計入當日總工作量"
+    },
+    {
+      "name": "schedule_more_items_other",
+      "value": "另有 {0} 項，已計入當日總工作量"
+    },
+    {
+      "name": "home_empty_tagline",
+      "value": "不只記截止，更知道今天做什么"
+    },
+    {
+      "name": "home_empty_progress_desc",
+      "value": "完成任務，整體進度同步更新"
+    },
+    {
+      "name": "home_empty_risk_title",
+      "value": "延期風險"
+    },
+    {
+      "name": "home_empty_risk_desc",
+      "value": "結合剩余時間和工作量提前判斷"
+    },
+    {
+      "name": "home_empty_action_desc",
+      "value": "自動倒排，優先推薦今天的任務"
+    },
+    {
+      "name": "home_empty_hint",
+      "value": "先從最近的一件作業、考試或項目開始"
+    },
+    {
+      "name": "home_action_count_one",
+      "value": "{0} 項今日建議"
+    },
+    {
+      "name": "home_action_count_other",
+      "value": "{0} 項今日建議"
+    },
+    {
+      "name": "home_overall_progress",
+      "value": "已完成 Deadline {0}%"
+    },
+    {
+      "name": "home_deadline_count_one",
+      "value": "{0} 個 Deadline"
+    },
+    {
+      "name": "home_deadline_count_other",
+      "value": "{0} 個 Deadline"
+    },
+    {
+      "name": "home_other_risks",
+      "value": "其他風險事項"
+    },
+    {
+      "name": "home_risk_count_one",
+      "value": "{0} 項需留意"
+    },
+    {
+      "name": "home_risk_count_other",
+      "value": "{0} 項需留意"
+    },
+    {
+      "name": "home_later_hint",
+      "value": "先把精力留給更緊急的事"
+    },
+    {
+      "name": "home_sorted_by_risk",
+      "value": "按風險從高到低"
+    },
+    {
+      "name": "home_first_items",
+      "value": "先顯示前 {0} 項"
+    },
+    {
+      "name": "home_collapse_list",
+      "value": "收起列表"
+    },
+    {
+      "name": "home_view_all_one",
+      "value": "查看全部 {0} 項"
+    },
+    {
+      "name": "home_view_all_other",
+      "value": "查看全部 {0} 項"
+    },
+    {
+      "name": "notification_permission_prompt_title",
+      "value": "開啟 Deadline 提醒？"
+    },
+    {
+      "name": "notification_permission_prompt_body",
+      "value": "Dayline 可以在 Deadline 臨近時提醒你。現在開啟系統通知嗎？"
+    },
+    {
+      "name": "notification_not_now",
+      "value": "暫時不要"
+    },
+    {
+      "name": "notification_enable",
+      "value": "開啟通知"
+    },
+    {
+      "name": "task_edit_name_hint",
+      "value": "修改任務名稱"
+    },
+    {
+      "name": "task_add_to_hint",
+      "value": "添加到「{0}」"
+    },
+    {
+      "name": "task_add_top_hint",
+      "value": "添加頂層任務"
+    },
+    {
+      "name": "task_remove_title",
+      "value": "移除任務"
+    },
+    {
+      "name": "task_remove_children_confirm_one",
+      "value": "移除“{1}”會同時移除其 {0} 個子任務，是否繼續？"
+    },
+    {
+      "name": "task_remove_children_confirm_other",
+      "value": "移除“{1}”會同時移除其 {0} 個子任務，是否繼續？"
+    },
+    {
+      "name": "task_remove_confirm",
+      "value": "確定移除“{0}”嗎？"
+    },
+    {
+      "name": "validation_name_required",
+      "value": "請輸入 Deadline 名稱"
+    },
+    {
+      "name": "validation_date_required",
+      "value": "請選擇到期日期"
+    },
+    {
+      "name": "validation_hours_range",
+      "value": "請輸入 0 到 10000 之間的有效小時"
+    },
+    {
+      "name": "tasks_empty_save_later",
+      "value": "尚未建立任務，保存后仍可繼續補充。"
+    },
+    {
+      "name": "tasks_created_progress_one",
+      "value": "已建立 {0} 個任務 · 自動進度 {1}%"
+    },
+    {
+      "name": "tasks_created_progress_other",
+      "value": "已建立 {0} 個任務 · 自動進度 {1}%"
+    },
+    {
+      "name": "task_editing",
+      "value": "正在編輯「{0}」"
+    },
+    {
+      "name": "task_adding_child",
+      "value": "正在為「{0}」添加子任務"
+    },
+    {
+      "name": "task_add_child",
+      "value": "加子任務"
+    },
+    {
+      "name": "tasks_collapse",
+      "value": "收起任務"
+    },
+    {
+      "name": "tasks_view_all_one",
+      "value": "查看全部 {0} 項任務"
+    },
+    {
+      "name": "tasks_view_all_other",
+      "value": "查看全部 {0} 項任務"
+    },
+    {
+      "name": "create_edit_helper",
+      "value": "保存后將更新原有記錄。"
+    },
+    {
+      "name": "create_new_helper",
+      "value": "填寫基本信息，之后仍可繼續調整。"
+    },
+    {
+      "name": "create_loading",
+      "value": "正在讀取 Deadline…"
+    },
+    {
+      "name": "create_name_placeholder",
+      "value": "例如：微機原理作業"
+    },
+    {
+      "name": "create_hours_placeholder",
+      "value": "例如：10（留空表示暫未估算）"
+    },
+    {
+      "name": "create_auto_progress_desc",
+      "value": "任務進度按最末級任務的完成數量計算，不代表已投入工時。"
+    },
+    {
+      "name": "create_manual_progress_desc",
+      "value": "直接設置 Deadline 的總進度。"
+    },
+    {
+      "name": "create_choose_date",
+      "value": "請選擇日期"
+    },
+    {
+      "name": "create_reminder_on_desc",
+      "value": "嘗試依所選時間安排提醒，送達受系統限制。請以 App 內截止日期為準。"
+    },
+    {
+      "name": "create_reminder_off_desc",
+      "value": "默認不打擾，需要時再開啟。"
+    },
+    {
+      "name": "create_note_placeholder",
+      "value": "補充要求、地點或準備事項"
+    },
+    {
+      "name": "create_edit_footer",
+      "value": "保存后會立即更新這條 Deadline。"
+    },
+    {
+      "name": "create_new_footer",
+      "value": "Deadline 會保存在本機，重新打開 Dayline 后仍可查看。"
+    },
+    {
+      "name": "task_delete_title",
+      "value": "刪除任務"
+    },
+    {
+      "name": "task_delete_children_confirm_one",
+      "value": "刪除“{1}”會同時刪除其 {0} 個子任務，是否繼續？"
+    },
+    {
+      "name": "task_delete_children_confirm_other",
+      "value": "刪除“{1}”會同時刪除其 {0} 個子任務，是否繼續？"
+    },
+    {
+      "name": "task_delete_confirm",
+      "value": "確定刪除“{0}”嗎？"
+    },
+    {
+      "name": "deadline_delete_title",
+      "value": "刪除 Deadline"
+    },
+    {
+      "name": "deadline_delete_confirm",
+      "value": "確定刪除“{0}”嗎？刪除后無法恢復。"
+    },
+    {
+      "name": "deadline_untitled",
+      "value": "未命名 Deadline"
+    },
+    {
+      "name": "schedule_specific_tasks_one",
+      "value": "{0} 個具體任務"
+    },
+    {
+      "name": "schedule_specific_tasks_other",
+      "value": "{0} 個具體任務"
+    },
+    {
+      "name": "schedule_work",
+      "value": "執行"
+    },
+    {
+      "name": "detail_tasks_pending_desc",
+      "value": "尚未建立任務，先拆解任務后再開始自動計算進度。"
+    },
+    {
+      "name": "detail_total_work",
+      "value": "預計總量"
+    },
+    {
+      "name": "schedule_feasible",
+      "value": "節奏可執行"
+    },
+    {
+      "name": "schedule_tight",
+      "value": "節奏較緊張"
+    },
+    {
+      "name": "schedule_completed_empty",
+      "value": "Deadline 已完成，無需繼續排程。"
+    },
+    {
+      "name": "schedule_no_remaining",
+      "value": "當前沒有可安排的剩余工作。"
+    },
+    {
+      "name": "schedule_planned_work",
+      "value": "計劃工作量"
+    },
+    {
+      "name": "schedule_work_days",
+      "value": "執行日"
+    },
+    {
+      "name": "schedule_daily_average",
+      "value": "執行日日均"
+    },
+    {
+      "name": "schedule_rolling_hint",
+      "value": "先展示接下來 14 天；后續日期會隨著每天的實際進度滾動更新。"
+    },
+    {
+      "name": "detail_created_at",
+      "value": "創建時間"
+    },
+    {
+      "name": "detail_manual_update",
+      "value": "手動更新進度"
+    },
+    {
+      "name": "detail_progress_saved",
+      "value": "進度已保存"
+    },
+    {
+      "name": "detail_save_progress",
+      "value": "保存進度"
+    },
+    {
+      "name": "detail_completed_progress_hint",
+      "value": "已完成的 Deadline 會按 100% 展示；恢復未完成后可繼續調整進度。"
+    },
+    {
+      "name": "detail_equal_weight",
+      "value": "進度按最末級任務的完成數量計算，不代表已投入工時。"
+    },
+    {
+      "name": "detail_tasks_empty",
+      "value": "先添加頂層任務，再按需要繼續拆分子任務。"
+    },
+    {
+      "name": "detail_loading",
+      "value": "正在讀取 Deadline…"
+    },
+    {
+      "name": "notification_load_failed",
+      "value": "通知設定無法載入，已儲存的設定未變，請重試。"
+    },
+    {
+      "name": "notification_saved",
+      "value": "通知設置已保存"
+    },
+    {
+      "name": "notification_save_failed",
+      "value": "通知設定未儲存，目前的選擇仍保留，請重試。"
+    },
+    {
+      "name": "notification_permission_declined",
+      "value": "通知仍未開啟。可在系統設定中允許 Dayline 通知，也可繼續使用其他功能。"
+    },
+    {
+      "name": "notification_open_system_failed",
+      "value": "無法開啟通知，可在系統設定中允許 Dayline 通知。"
+    },
+    {
+      "name": "notification_intensity_concise",
+      "value": "精簡"
+    },
+    {
+      "name": "notification_intensity_standard",
+      "value": "標準"
+    },
+    {
+      "name": "notification_intensity_active",
+      "value": "積極"
+    },
+    {
+      "name": "notification_intensity_custom",
+      "value": "自定義"
+    },
+    {
+      "name": "notification_intensity_concise_desc",
+      "value": "只保留你為 Deadline 明確設置的到期提醒。"
+    },
+    {
+      "name": "notification_intensity_standard_desc",
+      "value": "有行動時每日一份摘要，風險明顯上升時另行提醒。"
+    },
+    {
+      "name": "notification_intensity_active_desc",
+      "value": "提前安排更多天的摘要，風險上升時更及時提醒，避免重複打擾。"
+    },
+    {
+      "name": "notification_intensity_custom_desc",
+      "value": "按下方開關和時間組合執行。"
+    },
+    {
+      "name": "notification_save_in_progress",
+      "value": "正在保存通知設置…"
+    },
+    {
+      "name": "notification_loading",
+      "value": "正在讀取通知設置…"
+    },
+    {
+      "name": "notification_daily_desc",
+      "value": "合并展示今天最優先的任務和建議投入。"
+    },
+    {
+      "name": "notification_risk_desc",
+      "value": "僅在高風險明顯形成時提醒，并合并同類 Deadline。"
+    },
+    {
+      "name": "notification_replan_desc",
+      "value": "計畫調整會併入下次每日摘要，需開啟每日摘要。"
+    },
+    {
+      "name": "notification_summary_time",
+      "value": "行動摘要時間"
+    },
+    {
+      "name": "notification_quiet_off",
+      "value": "關閉免打擾"
+    },
+    {
+      "name": "notification_quiet_desc",
+      "value": "摘要和風險提醒避開免打擾；到期提醒盡量提前。來不及提前的緊迫到期提醒不會延後。"
+    },
+    {
+      "name": "cloud_login_retry",
+      "value": "登錄未完成，請重新嘗試"
+    },
+    {
+      "name": "cloud_status_local_only",
+      "value": "當前僅保存在本機"
+    },
+    {
+      "name": "cloud_status_waiting_first_sync",
+      "value": "已登錄，等待首次同步"
+    },
+    {
+      "name": "cloud_status_synced",
+      "value": "上次同步已完成"
+    },
+    {
+      "name": "cloud_status_sync_incomplete",
+      "value": "同步暫時未完成，本機數據不受影響"
+    },
+    {
+      "name": "cloud_status_unavailable",
+      "value": "暫時無法讀取同步狀態"
+    },
+    {
+      "name": "cloud_login_unavailable",
+      "value": "暫時無法使用華為賬號登錄，請稍后再試"
+    },
+    {
+      "name": "cloud_login_update_required",
+      "value": "當前安裝版本暫時無法登錄，請更新后再試"
+    },
+    {
+      "name": "cloud_login_device_account",
+      "value": "請先在當前設備登錄華為賬號"
+    },
+    {
+      "name": "cloud_network_unavailable",
+      "value": "網絡暫時不可用，請稍后重試"
+    },
+    {
+      "name": "cloud_authorization_incomplete",
+      "value": "賬號授權暫時未完成，請稍后再試"
+    },
+    {
+      "name": "cloud_privacy_required",
+      "value": "請先同意登錄所需的隱私協議"
+    },
+    {
+      "name": "cloud_login_incomplete",
+      "value": "登錄未完成，請稍后重試"
+    },
+    {
+      "name": "cloud_enable_failed",
+      "value": "暫時無法開啟云同步"
+    },
+    {
+      "name": "cloud_switch_account_title",
+      "value": "切換云同步賬號"
+    },
+    {
+      "name": "cloud_switch_account_body",
+      "value": "本機數據將與新賬號的云端數據合并；同一條記錄會自動去重，現有本機數據不會被清空。是否繼續？"
+    },
+    {
+      "name": "cloud_merge_and_sync",
+      "value": "合并并同步"
+    },
+    {
+      "name": "cloud_switch_confirm_failed",
+      "value": "暫時無法確認賬號切換"
+    },
+    {
+      "name": "cloud_status_merging",
+      "value": "正在合并此裝置與云端數據…"
+    },
+    {
+      "name": "cloud_status_permission_local",
+      "value": "未獲得數據同步權限，仍保持僅限此裝置"
+    },
+    {
+      "name": "cloud_syncing",
+      "value": "正在同步…"
+    },
+    {
+      "name": "cloud_sign_out_title",
+      "value": "退出云同步"
+    },
+    {
+      "name": "cloud_sign_out_body",
+      "value": "退出后 Dayline 仍可離線使用，本機數據會全部保留，云端已有數據也不會被刪除。"
+    },
+    {
+      "name": "cloud_sign_out_confirm_failed",
+      "value": "暫時無法打開退出確認"
+    },
+    {
+      "name": "cloud_signed_out",
+      "value": "已退出云同步，本機數據已保留"
+    },
+    {
+      "name": "cloud_sign_out_failed",
+      "value": "尚未登出，仍可使用本機資料，請稍後重試。"
+    },
+    {
+      "name": "cloud_never_synced",
+      "value": "尚未同步"
+    },
+    {
+      "name": "cloud_enabled",
+      "value": "云同步已開啟"
+    },
+    {
+      "name": "cloud_connected",
+      "value": "已連接"
+    },
+    {
+      "name": "cloud_not_signed_in",
+      "value": "未登錄"
+    },
+    {
+      "name": "cloud_sync_scope",
+      "value": "• Deadline、層級任務、進度和完成狀態會通過華為云空間同步。"
+    },
+    {
+      "name": "cloud_merge_desc",
+      "value": "• 首次登錄會合并此裝置與云端數據；同一條記錄會自動去重，不會先清空本機。"
+    },
+    {
+      "name": "cloud_offline_desc",
+      "value": "• 沒有網絡時仍會保存到本機，網絡恢復后自動同步。"
+    },
+    {
+      "name": "cloud_offline_footer",
+      "value": "暫時離線或關閉云同步時，本機數據仍可正常使用。"
+    },
+    {
+      "name": "cloud_optional_footer",
+      "value": "登錄是可選的；不登錄時，所有功能仍可在本機正常使用。"
+    },
+    {
+      "name": "cloud_result_synced",
+      "value": "已與華為云空間同步"
+    },
+    {
+      "name": "cloud_result_network",
+      "value": "當前網絡不可用，本機修改會在網絡恢復后繼續同步"
+    },
+    {
+      "name": "cloud_result_enable_in_settings",
+      "value": "請先在“設置 > 華為賬號 > 云空間”中開啟 Dayline 同步"
+    },
+    {
+      "name": "cloud_result_data_limit",
+      "value": "云端數據已達到上限，請整理后重試"
+    },
+    {
+      "name": "cloud_result_storage_full",
+      "value": "華為云空間不足，請先管理云空間"
+    },
+    {
+      "name": "cloud_result_network_policy",
+      "value": "當前網絡不符合云同步策略，稍后會自動重試"
+    },
+    {
+      "name": "cloud_result_failed",
+      "value": "同步暫時未完成，本機數據不受影響"
+    },
+    {
+      "name": "risk_reason_completed",
+      "value": "任務已完成"
+    },
+    {
+      "name": "risk_reason_overdue",
+      "value": "已經超過到期時間"
+    },
+    {
+      "name": "availability_daily",
+      "value": "每天約 {0} 小時"
+    },
+    {
+      "name": "availability_weekday_weekend",
+      "value": "平日約 {0} 小時、周末約 {1} 小時"
+    },
+    {
+      "name": "risk_reason_on_track",
+      "value": "當前進度與剩余時間較匹配"
+    },
+    {
+      "name": "risk_reason_capacity_shortfall",
+      "value": "剩余 {0} 小時，按{1}估算僅有約 {2} 小時可用"
+    },
+    {
+      "name": "risk_reason_due_hours_progress",
+      "value": "距離截止約 {0} 小時，當前進度 {1}%"
+    },
+    {
+      "name": "risk_reason_progress_lag",
+      "value": "當前進度比時間進度落后約 {0}%"
+    },
+    {
+      "name": "risk_reason_daily_load_high",
+      "value": "剩余 {0} 小時，接下來平均每天需投入較多時間"
+    },
+    {
+      "name": "risk_reason_due_days_progress",
+      "value": "距離截止約 {0} 天，當前進度 {1}%"
+    },
+    {
+      "name": "schedule_task_summary_one",
+      "value": "{1}"
+    },
+    {
+      "name": "schedule_task_summary_other",
+      "value": "{1}、{2}等 {0} 項"
+    },
+    {
+      "name": "schedule_review_and_complete",
+      "value": "檢查成果并將 Deadline 標記為完成"
+    },
+    {
+      "name": "schedule_tasks_done",
+      "value": "任務已完成，不再需要額外緩沖"
+    },
+    {
+      "name": "schedule_estimate_per_task",
+      "value": "未設置工作量，暫按每個具體任務約 1 小時估算"
+    },
+    {
+      "name": "schedule_estimate_per_quarter",
+      "value": "未設置工作量，暫按每推進 25% 約 1 小時估算"
+    },
+    {
+      "name": "schedule_buffer_summary",
+      "value": "復查、補漏并準備最終提交"
+    },
+    {
+      "name": "schedule_flex_summary",
+      "value": "機動時間：用于追趕或提前休息"
+    },
+    {
+      "name": "schedule_break_down_start",
+      "value": "完成任務拆解并開始推進"
+    },
+    {
+      "name": "schedule_advance_deadline",
+      "value": "推進「{0}」"
+    },
+    {
+      "name": "schedule_advance_progress",
+      "value": "將進度推進到約 {0}%"
+    },
+    {
+      "name": "schedule_buffer_overdue",
+      "value": "已經逾期，無法預留緩沖；計劃從今天重新開始"
+    },
+    {
+      "name": "schedule_buffer_days",
+      "value": "已在截止前預留 {0} 天，用于復查、補漏和提交"
+    },
+    {
+      "name": "schedule_no_safe_buffer",
+      "value": "剩余工作量較大，當前無法安全預留緩沖日"
+    },
+    {
+      "name": "schedule_no_buffer_near_due",
+      "value": "到期時間較近，暫未預留獨立緩沖日"
+    },
+    {
+      "name": "action_overdue_progress",
+      "value": "已經逾期，仍有 {0}% 尚未完成"
+    },
+    {
+      "name": "action_remaining_hours",
+      "value": "{0}，還需約 {1} 小時"
+    },
+    {
+      "name": "action_current_progress",
+      "value": "{0}，當前進度 {1}%"
+    },
+    {
+      "name": "action_due_hours",
+      "value": "距離截止約 {0} 小時"
+    },
+    {
+      "name": "action_due_days",
+      "value": "距離截止還有 {0} 天"
+    },
+    {
+      "name": "action_review_complete",
+      "value": "檢查結果并將 Deadline 標記為完成"
+    },
+    {
+      "name": "action_schedule_hours_progress",
+      "value": "倒排計劃：今天投入 {0} 小時，推進到約 {1}%"
+    },
+    {
+      "name": "action_schedule_hours",
+      "value": "倒排計劃：今天投入約 {0} 小時"
+    },
+    {
+      "name": "action_focus_then_update",
+      "value": "先投入一段專注時間，完成后及時更新進度"
+    },
+    {
+      "name": "action_suggest_hours_progress",
+      "value": "建議今天投入 {0} 小時，將進度推進到約 {1}%"
+    },
+    {
+      "name": "action_advance_deadline",
+      "value": "推進「{0}」"
+    },
+    {
+      "name": "action_break_down_deadline",
+      "value": "先拆解「{0}」"
+    },
+    {
+      "name": "action_no_tasks_reason",
+      "value": "自動進度尚未建立任務，當前無法判斷具體進展"
+    },
+    {
+      "name": "action_break_down_with_hours",
+      "value": "今天先拆解任務并投入約 {0} 小時"
+    },
+    {
+      "name": "action_create_tasks_suggestion",
+      "value": "先建立 2–3 個可執行任務，系統再自動計算進度"
+    },
+    {
+      "name": "action_complete_task",
+      "value": "完成「{0}」"
+    },
+    {
+      "name": "action_today_schedule_recalculates",
+      "value": "今日倒排約 {0} 小時；完成后自動重算后續計劃"
+    },
+    {
+      "name": "action_tasks_left_one",
+      "value": "完成后自動重算進度；還有 {0} 個具體任務未完成"
+    },
+    {
+      "name": "action_tasks_left_other",
+      "value": "完成后自動重算進度；還有 {0} 個具體任務未完成"
+    },
+    {
+      "name": "action_review_deadline",
+      "value": "檢查并完成「{0}」"
+    },
+    {
+      "name": "action_all_tasks_done_reason",
+      "value": "任務拆解中的具體任務均已完成"
+    },
+    {
+      "name": "action_mark_deadline_complete",
+      "value": "檢查結果后將整個 Deadline 標記為完成"
+    },
+    {
+      "name": "reminder_due_minutes",
+      "value": "約 {0} 分鐘后截止"
+    },
+    {
+      "name": "reminder_due_hours",
+      "value": "約 {0} 小時后截止"
+    },
+    {
+      "name": "reminder_due_days",
+      "value": "約 {0} 天后截止"
+    },
+    {
+      "name": "reminder_content_no_tasks",
+      "value": "{0} · 尚未拆解任務"
+    },
+    {
+      "name": "reminder_content_tasks_one",
+      "value": "{1} · 進度 {2}% · 還剩 {0} 項"
+    },
+    {
+      "name": "reminder_content_tasks_other",
+      "value": "{1} · 進度 {2}% · 還剩 {0} 項"
+    },
+    {
+      "name": "reminder_content_hours",
+      "value": "{0} · 進度 {1}% · 剩余約 {2} 小時"
+    },
+    {
+      "name": "reminder_content_progress",
+      "value": "{0} · 當前進度 {1}%"
+    },
+    {
+      "name": "notification_slot_desc",
+      "value": "Dayline 的截止、今日行動與風險提醒"
+    },
+    {
+      "name": "notification_action_done",
+      "value": "關閉"
+    },
+    {
+      "name": "notification_action_snooze",
+      "value": "30 分鐘后"
+    },
+    {
+      "name": "notification_snooze_content",
+      "value": "稍后再看這項 Dayline 行動建議"
+    },
+    {
+      "name": "notification_deadline_expired",
+      "value": "這條到期提醒已結束"
+    },
+    {
+      "name": "notification_action_summary",
+      "value": "{0}。{1}"
+    },
+    {
+      "name": "notification_action_summary_more_one",
+      "value": "{1}。{2}；另有 {0} 項建議"
+    },
+    {
+      "name": "notification_action_summary_more_other",
+      "value": "{1}。{2}；另有 {0} 項建議"
+    },
+    {
+      "name": "notification_daily_title",
+      "value": "Dayline · 今日行動"
+    },
+    {
+      "name": "notification_daily_title_risk",
+      "value": "Dayline · 今日行動 · 有高風險事項"
+    },
+    {
+      "name": "notification_replan_title",
+      "value": "Dayline · 后續計劃已重排"
+    },
+    {
+      "name": "notification_replan_prefix_one",
+      "value": "昨日 {0} 項計劃仍未完成，后續已重排。{1}"
+    },
+    {
+      "name": "notification_replan_prefix_other",
+      "value": "昨日 {0} 項計劃仍未完成，后續已重排。{1}"
+    },
+    {
+      "name": "notification_daily_expired",
+      "value": "今天的行動摘要已結束"
+    },
+    {
+      "name": "notification_risk_title",
+      "value": "Dayline · 風險正在升高"
+    },
+    {
+      "name": "notification_risk_content",
+      "value": "{0}：{1}"
+    },
+    {
+      "name": "notification_risk_content_more_one",
+      "value": "{1}：{2}；另有 {0} 項高風險"
+    },
+    {
+      "name": "notification_risk_content_more_other",
+      "value": "{1}：{2}；另有 {0} 項高風險"
+    },
+    {
+      "name": "notification_risk_expired",
+      "value": "這條風險提醒已結束"
+    },
+    {
+      "name": "notification_replan_content_one",
+      "value": "昨日 {0} 項未完成。今天優先：{1}；{2}"
+    },
+    {
+      "name": "notification_replan_content_other",
+      "value": "昨日 {0} 項未完成。今天優先：{1}；{2}"
+    },
+    {
+      "name": "notification_replan_expired",
+      "value": "這條計劃調整提醒已結束"
+    },
+    {
+      "name": "reminder_result_permission_disabled",
+      "value": "系統通知未開啟，提醒設置已保留"
+    },
+    {
+      "name": "reminder_result_not_needed",
+      "value": "當前無需建立到期提醒"
+    },
+    {
+      "name": "reminder_result_queued",
+      "value": "提醒設定已儲存，但這則提醒尚未排入系統。"
+    },
+    {
+      "name": "reminder_result_scheduled",
+      "value": "提醒已生效"
+    },
+    {
+      "name": "reminder_result_failed",
+      "value": "提醒暫時未能建立，稍后會自動重試"
+    },
+    {
+      "name": "action_risk_with_remaining",
+      "value": "{0}，{1}"
+    },
+    {
+      "name": "schedule_two_tasks",
+      "value": "{0}、{1}"
+    },
+    {
+      "name": "message_edit_conflict",
+      "value": "此 Deadline 已在其他裝置更新，請重新開啟後再儲存。"
+    },
+    {
+      "name": "message_task_conflict",
+      "value": "任務已在其他位置更新，正在載入最新內容。"
+    },
+    {
+      "name": "risk_unknown",
+      "value": "資訊不足"
+    },
+    {
+      "name": "risk_reason_missing_workload",
+      "value": "請先確認大約還需多久，才能判斷風險。"
+    },
+    {
+      "name": "risk_reason_rough_workload",
+      "value": "{0} 任務完成比例不等於已完成工時。"
+    },
+    {
+      "name": "risk_reason_shared_unknown",
+      "value": "較早到期的 Deadline 缺少工作量，暫時無法判斷共用時間是否足夠。"
+    },
+    {
+      "name": "risk_reason_shared_shortfall",
+      "value": "截至此日期約需 {0} 小時，但共用可用時間只有 {1} 小時。"
+    },
+    {
+      "name": "schedule_rough_workload",
+      "value": "工時僅為粗略估算；任務完成比例不代表實際投入工時。"
+    },
+    {
+      "name": "schedule_need_workload",
+      "value": "請填寫預估工作量，再產生按小時倒排的計畫。"
+    },
+    {
+      "name": "schedule_unallocated",
+      "value": "截止前仍有工作無法安排。"
+    },
+    {
+      "name": "schedule_unallocated_hours",
+      "value": "{0} 小時未安排"
+    },
+    {
+      "name": "schedule_shared_capacity_note",
+      "value": "所有 Deadline 共用每天的可投入時間。{0}"
+    },
+    {
+      "name": "work_remaining_rough",
+      "value": "約剩 {0} 小時；任務進度不會直接扣減此估算。"
+    },
+    {
+      "name": "work_uncertain",
+      "value": "工時未確定"
+    },
+    {
+      "name": "action_rough_remaining",
+      "value": "{0}；可能仍需約 {1} 小時。"
+    },
+    {
+      "name": "work_not_tracked",
+      "value": "未記錄"
+    },
+    {
+      "name": "schedule_required_work",
+      "value": "仍需工作量"
+    },
+    {
+      "name": "risk_reason_unmeasured_work",
+      "value": "剩餘工作量待確認，暫無法判斷目前容量能否如期完成。"
+    },
+    {
+      "name": "schedule_unmeasured_work",
+      "value": "剩餘工作量待確認，暫不產生按小時排程；仍可參考今日行動。"
+    },
+    {
+      "name": "work_remaining_unknown",
+      "value": "剩餘工時未知"
+    },
+    {
+      "name": "workload_total_create_hint",
+      "value": "建立時也作為初始剩餘估計；開始後可在詳情按需更新。"
+    },
+    {
+      "name": "workload_total_edit_hint",
+      "value": "這是最初預計總量；目前剩餘量在詳情另行更新。"
+    },
+    {
+      "name": "work_remaining_pending",
+      "value": "剩餘工作量待確認"
+    },
+    {
+      "name": "remaining_status_stale",
+      "value": "上次確認已超過兩週，請重新確認後再看工時風險與排程。"
+    },
+    {
+      "name": "remaining_status_unknown",
+      "value": "仍可依截止日期和未完成任務安排行動；工時風險待確認。"
+    },
+    {
+      "name": "remaining_status_initial",
+      "value": "初始估計；開始後判斷有變化時再確認。"
+    },
+    {
+      "name": "remaining_status_confirmed",
+      "value": "依據最近確認的粗略估計；判斷改變時再更新。"
+    },
+    {
+      "name": "remaining_update_button",
+      "value": "更新剩餘估計"
+    },
+    {
+      "name": "remaining_editor_hint",
+      "value": "目前剩餘工作量（小時）"
+    },
+    {
+      "name": "remaining_hours_placeholder",
+      "value": "例如：6 小時"
+    },
+    {
+      "name": "remaining_keep_button",
+      "value": "沿用上次"
+    },
+    {
+      "name": "remaining_save_button",
+      "value": "儲存新估計"
+    },
+    {
+      "name": "remaining_unknown_button",
+      "value": "暫不確定"
+    },
+    {
+      "name": "remaining_no_previous_estimate",
+      "value": "尚無可沿用的估計"
+    },
+    {
+      "name": "message_remaining_unknown_saved",
+      "value": "已標記為待確認；今日行動仍可參考。"
+    },
+    {
+      "name": "message_remaining_saved",
+      "value": "剩餘估計已更新"
+    },
+    {
+      "name": "message_remaining_save_failed",
+      "value": "剩餘工作量未儲存，輸入仍保留，請重試。"
+    },
+    {
+      "name": "risk_reason_stale_work",
+      "value": "上次確認的剩餘工作量已過期，請重新確認後再判斷容量風險。"
+    },
+    {
+      "name": "task_progress_label",
+      "value": "任務進度"
+    },
+    {
+      "name": "task_just_completed",
+      "value": "已完成「{0}」"
+    },
+    {
+      "name": "task_just_reopened",
+      "value": "已取消完成「{0}」"
+    },
+    {
+      "name": "editor_discard_title",
+      "value": "放棄未儲存的更改？"
+    },
+    {
+      "name": "editor_discard_body",
+      "value": "此頁填寫的內容尚未儲存。可以繼續編輯，或放棄並返回。"
+    },
+    {
+      "name": "editor_discard_action",
+      "value": "放棄更改"
+    },
+    {
+      "name": "settings_saved",
+      "value": "設定已生效"
+    },
+    {
+      "name": "notification_permission_off_hint",
+      "value": "系統通知已關閉，可在系統設定中允許 Dayline 通知。"
+    },
+    {
+      "name": "notification_more_settings",
+      "value": "更多通知設定"
+    },
+    {
+      "name": "notification_less_settings",
+      "value": "收起通知設定"
+    },
+    {
+      "name": "settings_load_failed",
+      "value": "暫時無法讀取設定，已儲存的選擇沒有改變。請重試。"
+    },
+    {
+      "name": "cloud_enable_failed_safe",
+      "value": "雲端同步未能開啟，本機資料仍可使用。請重試。"
+    },
+    {
+      "name": "notification_refresh_failed",
+      "value": "設定已儲存，但提醒尚未更新。請再次儲存以重試。"
+    },
+    {
+      "name": "settings_sync_failed",
+      "value": "同步待重試"
+    },
+    {
+      "name": "task_just_removed",
+      "value": "已從草稿移除「{0}」"
+    },
+    {
+      "name": "settings_language_system_saved",
+      "value": "已儲存。請從最近使用的 App 中關閉 Dayline，再開啟以使用系統語言。"
+    },
+    {
+      "name": "cloud_account_verify_failed",
+      "value": "無法確認目前帳號，尚未開始同步。本機資料仍在，請檢查網路與系統帳號後重試。"
+    },
+    {
+      "name": "cloud_account_mismatch",
+      "value": "本機資料已連結其他華為帳號，尚未開始同步。請切回原帳號；本機資料仍可使用。"
+    },
+    {
+      "name": "cloud_status_save_failed",
+      "value": "無法儲存這次同步結果。本機資料仍可使用，請重試確認同步狀態。"
+    },
+    {
+      "name": "cloud_stop_failed",
+      "value": "無法確認同步已停止。本機資料仍在，請再次嘗試登出。"
+    },
+    {
+      "name": "cloud_data_held",
+      "value": "部分修改需要確認，或尚未完整收到。已有資料仍然保留，請開啟「確認修改」選擇要保留的內容或查看原因。"
+    },
+    {
+      "name": "cloud_protocol_pending",
+      "value": "雲端同步暫時暫停，本機資料已保留。完成相容性檢查並更新所有裝置後，才能恢復同步。"
+    },
+    {
+      "name": "detail_next_action",
+      "value": "下一步"
+    },
+    {
+      "name": "task_actions_label",
+      "value": "任務操作"
+    },
+    {
+      "name": "review_title",
+      "value": "確認修改"
+    },
+    {
+      "name": "review_needed",
+      "value": "需要確認"
+    },
+    {
+      "name": "review_open",
+      "value": "查看並確認"
+    },
+    {
+      "name": "review_home_status",
+      "value": "有 {0} 項修改需要查看"
+    },
+    {
+      "name": "review_intro",
+      "value": "這個 Deadline 有不同的修改版本。上一次完整資料和各個版本都已保留。請選擇要保留的內容；儲存前不會覆蓋。其他 Deadline 可以繼續使用。"
+    },
+    {
+      "name": "review_current",
+      "value": "本機原有內容"
+    },
+    {
+      "name": "review_alternative",
+      "value": "已儲存的版本 {0}"
+    },
+    {
+      "name": "review_step",
+      "value": "第 {0} 項，共 {1} 項"
+    },
+    {
+      "name": "review_previous",
+      "value": "上一項"
+    },
+    {
+      "name": "review_next",
+      "value": "下一項"
+    },
+    {
+      "name": "review_save",
+      "value": "儲存選擇"
+    },
+    {
+      "name": "review_later",
+      "value": "稍後處理"
+    },
+    {
+      "name": "review_reload",
+      "value": "重新查看最新修改"
+    },
+    {
+      "name": "review_working",
+      "value": "請稍候…"
+    },
+    {
+      "name": "review_success",
+      "value": "已儲存你的決定。"
+    },
+    {
+      "name": "review_none",
+      "value": "目前沒有需要確認的修改。"
+    },
+    {
+      "name": "review_waiting",
+      "value": "等待完整資料"
+    },
+    {
+      "name": "review_incomplete",
+      "value": "收到的資料尚不完整或無法核驗，已保留上一次完整資料供查看。目前不能透過選擇版本安全修復。可以返回並繼續使用其他 Deadline；請保留本機資料，暫勿重新安裝。"
+    },
+    {
+      "name": "review_load_failed",
+      "value": "未能讀取已儲存的修改。資料仍然保留，請重新載入。"
+    },
+    {
+      "name": "review_save_failed",
+      "value": "選擇尚未儲存。之前的完整資料和各版本仍在。可以重試；若任務結構無法組合，請改選其他內容。"
+    },
+    {
+      "name": "review_changed",
+      "value": "你確認期間又收到了修改，本次沒有覆蓋資料。請重新查看後再選擇。"
+    },
+    {
+      "name": "review_removed",
+      "value": "已保留刪除結果"
+    },
+    {
+      "name": "review_deleted_explanation",
+      "value": "這個 Deadline 被刪除時，還有另一份修改。已保留刪除結果及其任務刪除狀態，較舊修改不會讓它重新出現。收到的修改仍保留在記錄中。"
+    },
+    {
+      "name": "review_tasks_deleted_explanation",
+      "value": "這些任務被刪除時，還有另一份修改。任務及其子任務繼續保持刪除，較舊修改不會讓它們重新出現。這個 Deadline 的其他內容仍可使用。"
+    },
+    {
+      "name": "review_understood",
+      "value": "知道了"
+    },
+    {
+      "name": "review_tree_choice",
+      "value": "請選擇一份完整任務列表。僅保留選中的列表，未包含的任務會保持刪除。其他可安全合併的修改仍會保留。"
+    },
+    {
+      "name": "review_show_tasks",
+      "value": "查看完整任務列表"
+    },
+    {
+      "name": "review_collapse",
+      "value": "收起"
+    },
+    {
+      "name": "review_task_count",
+      "value": "{0} 個任務"
+    },
+    {
+      "name": "review_task_position",
+      "value": "順序 {0}"
+    },
+    {
+      "name": "review_root_task",
+      "value": "頂層任務"
+    },
+    {
+      "name": "review_other_task",
+      "value": "另一項父任務"
+    },
+    {
+      "name": "review_unfinished",
+      "value": "未完成"
+    },
+    {
+      "name": "review_unknown",
+      "value": "剩餘工作量不確定"
+    },
+    {
+      "name": "review_hours",
+      "value": "約 {0} 小時"
+    },
+    {
+      "name": "review_initial",
+      "value": "初始估計，不是重新確認"
+    },
+    {
+      "name": "review_confirmed_at",
+      "value": "上次確認：{0}"
+    },
+    {
+      "name": "review_auto",
+      "value": "自動任務進度"
+    },
+    {
+      "name": "review_manual",
+      "value": "手動進度"
+    },
+    {
+      "name": "review_percent",
+      "value": "手動進度：{0}%"
+    },
+    {
+      "name": "review_no_reminder",
+      "value": "不提醒"
+    },
+    {
+      "name": "review_reminder_minutes",
+      "value": "截止前 {0} 分鐘"
+    },
+    {
+      "name": "review_empty",
+      "value": "未填寫"
+    },
+    {
+      "name": "review_field_name",
+      "value": "名稱"
+    },
+    {
+      "name": "review_field_due",
+      "value": "截止時間"
+    },
+    {
+      "name": "review_field_remaining",
+      "value": "目前剩餘工作量"
+    },
+    {
+      "name": "review_field_task",
+      "value": "任務"
+    },
+    {
+      "name": "review_field_tasks",
+      "value": "任務列表"
+    },
+    {
+      "name": "review_field_type",
+      "value": "類型"
+    },
+    {
+      "name": "review_field_note",
+      "value": "備註"
+    },
+    {
+      "name": "review_field_created",
+      "value": "建立時間"
+    },
+    {
+      "name": "review_field_completed",
+      "value": "完成狀態"
+    },
+    {
+      "name": "review_field_total",
+      "value": "預計總工作量"
+    },
+    {
+      "name": "review_field_mode",
+      "value": "進度模式"
+    },
+    {
+      "name": "review_field_progress",
+      "value": "手動進度"
+    },
+    {
+      "name": "review_field_reminder",
+      "value": "提醒"
+    },
+    {
+      "name": "review_upgrade",
+      "value": "其他裝置需要更新 Dayline 才能繼續同步。收到的舊版修改尚未覆蓋本機資料；請保留原裝置與資料，更新後再試。"
+    },
+    {
+      "name": "cloud_legacy_pending",
+      "value": "部分舊資料尚未安全匯入。本機資料仍保留，可以繼續使用；請保留原裝置並更新 Dayline。"
+    },
+    {
+      "name": "overdue_pending",
+      "value": "已逾期 · 需要處理"
+    },
+    {
+      "name": "overdue_continue",
+      "value": "已逾期 · 繼續完成"
+    },
+    {
+      "name": "overdue_stopped",
+      "value": "不再追蹤"
+    },
+    {
+      "name": "overdue_no_forecast",
+      "value": "原截止時間已過。調整截止時間後才能重新排程，不預測仍能如期完成。"
+    },
+    {
+      "name": "overdue_capacity_unknown",
+      "value": "仍有逾期項目繼續進行，但沒有新的截止時間。暫時無法判斷所有工作能否如期完成。"
+    },
+    {
+      "name": "overdue_continue_reason",
+      "value": "原截止時間已過，仍可推進任務；暫不預測完成時間。"
+    },
+    {
+      "name": "overdue_review_action",
+      "value": "處理已逾期的「{0}」"
+    },
+    {
+      "name": "overdue_choose_hint",
+      "value": "決定是否繼續，或調整截止時間。"
+    },
+    {
+      "name": "overdue_continue_button",
+      "value": "繼續完成"
+    },
+    {
+      "name": "overdue_edit_button",
+      "value": "調整截止時間"
+    },
+    {
+      "name": "overdue_stop_button",
+      "value": "不再追蹤"
+    },
+    {
+      "name": "overdue_reconsider_button",
+      "value": "重新處理"
+    },
+    {
+      "name": "overdue_stopped_hint",
+      "value": "此裝置不再推薦此項目。原紀錄與任務保留，可以重新處理。"
+    },
+    {
+      "name": "overdue_save_failed",
+      "value": "選擇未儲存，原紀錄仍在。請重試。"
+    },
+    {
+      "name": "overdue_less_hour",
+      "value": "逾期未滿 1 小時"
+    },
+    {
+      "name": "overdue_hours_one",
+      "value": "已逾期 {0} 小時"
+    },
+    {
+      "name": "overdue_hours_other",
+      "value": "已逾期 {0} 小時"
+    },
+    {
+      "name": "overdue_days_one",
+      "value": "已逾期 {0} 天"
+    },
+    {
+      "name": "overdue_days_other",
+      "value": "已逾期 {0} 天"
+    },
+    {
+      "name": "overdue_complete_button",
+      "value": "標記完成"
+    },
+    {
+      "name": "overdue_no_actions",
+      "value": "今天沒有待推薦的行動。保留的項目可在全部 Deadline 中查看。"
+    },
+    {
+      "name": "overdue_decide_label",
+      "value": "需要處理"
+    },
+    {
+      "name": "validation_time_past",
+      "value": "這個時間已過，請選擇未來的截止時間。輸入內容已保留。"
+    },
+    {
+      "name": "validation_time_missing",
+      "value": "這一天沒有所選時間，請選擇另一個時間。"
+    },
+    {
+      "name": "validation_time_ambiguous",
+      "value": "這一天所選時間會出現兩次，請選擇不重複的時間。"
+    },
+    {"name": "cloud_release_unavailable", "value": "雲端同步尚未開放。已儲存的資料仍可在此裝置使用。"},
+    {"name": "notification_delivery_notice", "value": "提醒是否送達取決於系統權限、裝置與背景排程。請在 App 內確認截止日期。"},
+    {"name": "experience_today", "value": "今天"},
+    {"name": "experience_deadlines", "value": "Deadlines"},
+    {"name": "experience_now", "value": "先從這一步開始"},
+    {"name": "experience_start", "value": "開始這一步"},
+    {"name": "experience_decide", "value": "處理這件事"},
+    {"name": "experience_after", "value": "之後再做"},
+    {"name": "experience_upcoming", "value": "接下來幾天"},
+    {"name": "experience_objects_hint", "value": "開啟一項 Deadline，接著往前推進。"},
+    {"name": "experience_planned_today", "value": "今天已安排約 {0} 小時"},
+    {"name": "experience_partial_plan", "value": "另有工作量待確認"},
+    {"name": "experience_hours_pending", "value": "今日工時待確認"},
+    {"name": "experience_short_plan", "value": "今天已安排一小段工作"},
+    {"name": "experience_action", "value": "行動"},
+    {"name": "experience_plan", "value": "工作量與計畫"},
+    {"name": "experience_calibrate", "value": "調整剩餘時間"},
+    {"name": "experience_calibration_hint", "value": "判斷有變化時，再確認大概還需多久。不必每天記工時。"},
+    {"name": "experience_record", "value": "Deadline 資料"},
+    {"name": "experience_task_count", "value": "任務進度：{0} / {1}"},
+    {"name": "experience_name", "value": "要完成什麼？"},
+    {"name": "experience_due", "value": "什麼時候截止？"},
+    {"name": "experience_tomorrow", "value": "明天"},
+    {"name": "experience_due_clock", "value": "截止於 {0} · 更改"},
+    {"name": "experience_add_details", "value": "補充工時或任務（選填）"},
+    {"name": "experience_hide_details", "value": "收起補充資訊"},
+    {"name": "experience_create_hint", "value": "先記下名稱和截止日期，就可以開始。"},
+    {"name": "experience_created", "value": "已記錄：{0}"},
+    {"name": "experience_pending_task", "value": "請先新增正在填寫的任務，或清空輸入後儲存。"},
+    {"name": "experience_task_options", "value": "任務與進度"},
+    {"name": "experience_advanced_options", "value": "類型、提醒與備註"},
+    {"name": "experience_empty_title", "value": "今天，從一件事開始。"},
+    {"name": "experience_empty_body", "value": "最近要交什麼、完成什麼？先記下來。"},
+    {"name": "experience_remaining", "value": "剩餘約 {0} 小時"},
+    {"name": "experience_unsaved", "value": "變更未儲存"}
+  ]
+}

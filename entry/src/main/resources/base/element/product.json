@@ -1,0 +1,368 @@
+{
+  "string": [
+    {
+      "name": "home_subtitle",
+      "value": "Start with what matters most today"
+    },
+    {
+      "name": "home_loading",
+      "value": "Working out today's priorities…"
+    },
+    {
+      "name": "home_empty_title",
+      "value": "Start with your first deadline"
+    },
+    {
+      "name": "home_empty_body",
+      "value": "Start with a name and due date. Tasks or a rough time estimate make today’s suggestions more useful."
+    },
+    {
+      "name": "home_create_first",
+      "value": "Create your first deadline"
+    },
+    {
+      "name": "home_today_priority",
+      "value": "Top priority today"
+    },
+    {
+      "name": "home_why",
+      "value": "Why this comes first"
+    },
+    {
+      "name": "home_next",
+      "value": "Up next"
+    },
+    {
+      "name": "home_auto_schedule",
+      "value": "Auto schedule"
+    },
+    {
+      "name": "home_schedule_hint",
+      "value": "Updates as your progress changes"
+    },
+    {
+      "name": "home_current_progress",
+      "value": "Overall progress"
+    },
+    {
+      "name": "home_high_risk",
+      "value": "High risk"
+    },
+    {
+      "name": "home_later",
+      "value": "Can wait"
+    },
+    {
+      "name": "home_all_deadlines",
+      "value": "All deadlines"
+    },
+    {
+      "name": "home_add_deadline",
+      "value": "Add deadline"
+    },
+    {
+      "name": "home_all_done",
+      "value": "Nothing needs attention today"
+    },
+    {
+      "name": "home_all_done_desc",
+      "value": "Everything current is complete. You can plan what comes next."
+    },
+    {
+      "name": "home_view_details",
+      "value": "View details"
+    },
+    {
+      "name": "home_complete_task",
+      "value": "Complete task"
+    },
+    {
+      "name": "home_break_down",
+      "value": "Break it down"
+    },
+    {
+      "name": "create_new_title",
+      "value": "New deadline"
+    },
+    {
+      "name": "create_edit_title",
+      "value": "Edit deadline"
+    },
+    {
+      "name": "create_new_subtitle",
+      "value": "Capture the next thing that matters"
+    },
+    {
+      "name": "create_edit_subtitle",
+      "value": "Update deadline details"
+    },
+    {
+      "name": "field_name",
+      "value": "Name"
+    },
+    {
+      "name": "field_type",
+      "value": "Type"
+    },
+    {
+      "name": "field_workload",
+      "value": "Total estimated effort (hours)"
+    },
+    {
+      "name": "field_progress_mode",
+      "value": "Progress tracking"
+    },
+    {
+      "name": "field_due_date",
+      "value": "Due date"
+    },
+    {
+      "name": "field_due_time",
+      "value": "Due time"
+    },
+    {
+      "name": "field_reminder",
+      "value": "Due reminder"
+    },
+    {
+      "name": "field_note",
+      "value": "Notes (optional)"
+    },
+    {
+      "name": "field_progress",
+      "value": "Current progress"
+    },
+    {
+      "name": "tasks_breakdown",
+      "value": "Task breakdown"
+    },
+    {
+      "name": "tasks_add_top",
+      "value": "Add task"
+    },
+    {
+      "name": "tasks_empty",
+      "value": "No tasks yet. You can add them later."
+    },
+    {
+      "name": "create_save",
+      "value": "Save deadline"
+    },
+    {
+      "name": "create_save_changes",
+      "value": "Save changes"
+    },
+    {
+      "name": "type_assignment",
+      "value": "Assignment"
+    },
+    {
+      "name": "type_exam",
+      "value": "Exam"
+    },
+    {
+      "name": "type_competition",
+      "value": "Competition"
+    },
+    {
+      "name": "type_project",
+      "value": "Project"
+    },
+    {
+      "name": "type_life",
+      "value": "Personal"
+    },
+    {
+      "name": "type_other",
+      "value": "Other"
+    },
+    {
+      "name": "reminder_none",
+      "value": "No reminder"
+    },
+    {
+      "name": "reminder_hour",
+      "value": "1 hour before"
+    },
+    {
+      "name": "reminder_day",
+      "value": "1 day before"
+    },
+    {
+      "name": "reminder_three_days",
+      "value": "3 days before"
+    },
+    {
+      "name": "detail_title",
+      "value": "Deadline details"
+    },
+    {
+      "name": "detail_progress_work",
+      "value": "Progress & effort"
+    },
+    {
+      "name": "detail_schedule",
+      "value": "Auto schedule"
+    },
+    {
+      "name": "detail_schedule_hint",
+      "value": "Updates whenever tasks or progress change"
+    },
+    {
+      "name": "detail_tasks",
+      "value": "Tasks"
+    },
+    {
+      "name": "detail_note",
+      "value": "Notes"
+    },
+    {
+      "name": "detail_mark_complete",
+      "value": "Mark complete"
+    },
+    {
+      "name": "detail_restore",
+      "value": "Mark not complete"
+    },
+    {
+      "name": "detail_delete",
+      "value": "Delete deadline"
+    },
+    {
+      "name": "detail_remaining_time",
+      "value": "Time left"
+    },
+    {
+      "name": "detail_status",
+      "value": "Status"
+    },
+    {
+      "name": "detail_no_note",
+      "value": "No notes"
+    },
+    {
+      "name": "detail_pending_breakdown",
+      "value": "Needs breakdown"
+    },
+    {
+      "name": "notification_title",
+      "value": "Notification plan"
+    },
+    {
+      "name": "notification_subtitle",
+      "value": "Fewer alerts, each with a clear next step"
+    },
+    {
+      "name": "notification_permission",
+      "value": "Notification access"
+    },
+    {
+      "name": "notification_intensity",
+      "value": "Alert level"
+    },
+    {
+      "name": "notification_content",
+      "value": "Proactive alerts"
+    },
+    {
+      "name": "notification_time",
+      "value": "Timing & quiet hours"
+    },
+    {
+      "name": "notification_save",
+      "value": "Save notification settings"
+    },
+    {
+      "name": "notification_daily",
+      "value": "Daily action brief"
+    },
+    {
+      "name": "notification_risk",
+      "value": "Risk increase alerts"
+    },
+    {
+      "name": "notification_replan",
+      "value": "Schedule update alerts"
+    },
+    {
+      "name": "notification_quiet",
+      "value": "Quiet hours"
+    },
+    {
+      "name": "cloud_title",
+      "value": "Account & cloud sync"
+    },
+    {
+      "name": "cloud_subtitle",
+      "value": "Local first, fully usable offline"
+    },
+    {
+      "name": "cloud_local_mode",
+      "value": "On-device only"
+    },
+    {
+      "name": "cloud_sign_in",
+      "value": "Sign in with HUAWEI ID"
+    },
+    {
+      "name": "cloud_sign_out",
+      "value": "Turn off cloud sync"
+    },
+    {
+      "name": "cloud_sync_now",
+      "value": "Sync now"
+    },
+    {
+      "name": "cloud_current_account",
+      "value": "Current account"
+    },
+    {
+      "name": "cloud_last_sync",
+      "value": "Last sync"
+    },
+    {
+      "name": "cloud_sync_method",
+      "value": "How sync works"
+    },
+    {
+      "name": "risk_low",
+      "value": "Low risk"
+    },
+    {
+      "name": "risk_medium",
+      "value": "Medium risk"
+    },
+    {
+      "name": "risk_high",
+      "value": "High risk"
+    },
+    {
+      "name": "risk_done",
+      "value": "Completed"
+    },
+    {
+      "name": "risk_overdue",
+      "value": "Past due"
+    },
+    {
+      "name": "risk_not_estimated",
+      "value": "Effort not estimated"
+    },
+    {
+      "name": "schedule_today",
+      "value": "Today"
+    },
+    {
+      "name": "schedule_tomorrow",
+      "value": "Tomorrow"
+    },
+    {
+      "name": "schedule_buffer",
+      "value": "Buffer"
+    },
+    {
+      "name": "schedule_flex",
+      "value": "Flexible"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "string": [
+    {
+      "name": "home_subtitle",
+      "value": "先做今天最重要的事"
+    },
+    {
+      "name": "home_loading",
+      "value": "正在整理今天的優先事項…"
+    },
+    {
+      "name": "home_empty_title",
+      "value": "從第一件事開始"
+    },
+    {
+      "name": "home_empty_body",
+      "value": "先填寫名稱和截止日期。補充任務或大致工時後，今日建議會更具體。"
+    },
+    {
+      "name": "home_create_first",
+      "value": "建立第一個截止事項"
+    },
+    {
+      "name": "home_today_priority",
+      "value": "今天最優先"
+    },
+    {
+      "name": "home_why",
+      "value": "為什麼先做"
+    },
+    {
+      "name": "home_next",
+      "value": "接下來做"
+    },
+    {
+      "name": "home_auto_schedule",
+      "value": "自動排程"
+    },
+    {
+      "name": "home_schedule_hint",
+      "value": "隨最新進度重新安排"
+    },
+    {
+      "name": "home_current_progress",
+      "value": "目前進度"
+    },
+    {
+      "name": "home_high_risk",
+      "value": "高風險"
+    },
+    {
+      "name": "home_later",
+      "value": "可以稍後"
+    },
+    {
+      "name": "home_all_deadlines",
+      "value": "所有截止事項"
+    },
+    {
+      "name": "home_add_deadline",
+      "value": "新增截止事項"
+    },
+    {
+      "name": "home_all_done",
+      "value": "今天沒有需要推進的事項"
+    },
+    {
+      "name": "home_all_done_desc",
+      "value": "目前事項都已完成，可以安心安排下一步。"
+    },
+    {
+      "name": "home_view_details",
+      "value": "查看詳情"
+    },
+    {
+      "name": "home_complete_task",
+      "value": "完成任務"
+    },
+    {
+      "name": "home_break_down",
+      "value": "拆解任務"
+    },
+    {
+      "name": "create_new_title",
+      "value": "新增截止事項"
+    },
+    {
+      "name": "create_edit_title",
+      "value": "編輯截止事項"
+    },
+    {
+      "name": "create_new_subtitle",
+      "value": "記下下一件重要的事"
+    },
+    {
+      "name": "create_edit_subtitle",
+      "value": "調整截止資訊"
+    },
+    {
+      "name": "field_name",
+      "value": "名稱"
+    },
+    {
+      "name": "field_type",
+      "value": "類型"
+    },
+    {
+      "name": "field_workload",
+      "value": "預估總工作量（小時）"
+    },
+    {
+      "name": "field_progress_mode",
+      "value": "進度方式"
+    },
+    {
+      "name": "field_due_date",
+      "value": "截止日期"
+    },
+    {
+      "name": "field_due_time",
+      "value": "截止時間"
+    },
+    {
+      "name": "field_reminder",
+      "value": "截止提醒"
+    },
+    {
+      "name": "field_note",
+      "value": "備註（選填）"
+    },
+    {
+      "name": "field_progress",
+      "value": "目前進度"
+    },
+    {
+      "name": "tasks_breakdown",
+      "value": "任務拆解"
+    },
+    {
+      "name": "tasks_add_top",
+      "value": "新增任務"
+    },
+    {
+      "name": "tasks_empty",
+      "value": "尚未建立任務，之後仍可補充。"
+    },
+    {
+      "name": "create_save",
+      "value": "儲存截止事項"
+    },
+    {
+      "name": "create_save_changes",
+      "value": "儲存變更"
+    },
+    {
+      "name": "type_assignment",
+      "value": "作業"
+    },
+    {
+      "name": "type_exam",
+      "value": "考試"
+    },
+    {
+      "name": "type_competition",
+      "value": "競賽"
+    },
+    {
+      "name": "type_project",
+      "value": "專案"
+    },
+    {
+      "name": "type_life",
+      "value": "生活"
+    },
+    {
+      "name": "type_other",
+      "value": "其他"
+    },
+    {
+      "name": "reminder_none",
+      "value": "不提醒"
+    },
+    {
+      "name": "reminder_hour",
+      "value": "提前 1 小時"
+    },
+    {
+      "name": "reminder_day",
+      "value": "提前 1 天"
+    },
+    {
+      "name": "reminder_three_days",
+      "value": "提前 3 天"
+    },
+    {
+      "name": "detail_title",
+      "value": "截止事項詳情"
+    },
+    {
+      "name": "detail_progress_work",
+      "value": "進度與工作量"
+    },
+    {
+      "name": "detail_schedule",
+      "value": "自動排程"
+    },
+    {
+      "name": "detail_schedule_hint",
+      "value": "任務或進度改變時會重新安排"
+    },
+    {
+      "name": "detail_tasks",
+      "value": "任務"
+    },
+    {
+      "name": "detail_note",
+      "value": "備註"
+    },
+    {
+      "name": "detail_mark_complete",
+      "value": "標示為完成"
+    },
+    {
+      "name": "detail_restore",
+      "value": "恢復為未完成"
+    },
+    {
+      "name": "detail_delete",
+      "value": "刪除截止事項"
+    },
+    {
+      "name": "detail_remaining_time",
+      "value": "剩餘時間"
+    },
+    {
+      "name": "detail_status",
+      "value": "狀態"
+    },
+    {
+      "name": "detail_no_note",
+      "value": "沒有備註"
+    },
+    {
+      "name": "detail_pending_breakdown",
+      "value": "待拆解"
+    },
+    {
+      "name": "notification_title",
+      "value": "通知策略"
+    },
+    {
+      "name": "notification_subtitle",
+      "value": "少打擾，但每次都能採取行動"
+    },
+    {
+      "name": "notification_permission",
+      "value": "通知權限"
+    },
+    {
+      "name": "notification_intensity",
+      "value": "通知強度"
+    },
+    {
+      "name": "notification_content",
+      "value": "主動提醒"
+    },
+    {
+      "name": "notification_time",
+      "value": "時間與勿擾"
+    },
+    {
+      "name": "notification_save",
+      "value": "儲存通知設定"
+    },
+    {
+      "name": "notification_daily",
+      "value": "每日行動摘要"
+    },
+    {
+      "name": "notification_risk",
+      "value": "風險升高提醒"
+    },
+    {
+      "name": "notification_replan",
+      "value": "重新排程提醒"
+    },
+    {
+      "name": "notification_quiet",
+      "value": "勿擾時段"
+    },
+    {
+      "name": "cloud_title",
+      "value": "帳號與雲端同步"
+    },
+    {
+      "name": "cloud_subtitle",
+      "value": "本機優先，離線也能正常使用"
+    },
+    {
+      "name": "cloud_local_mode",
+      "value": "僅保存在本機"
+    },
+    {
+      "name": "cloud_sign_in",
+      "value": "使用華為帳號登入"
+    },
+    {
+      "name": "cloud_sign_out",
+      "value": "關閉雲端同步"
+    },
+    {
+      "name": "cloud_sync_now",
+      "value": "立即同步"
+    },
+    {
+      "name": "cloud_current_account",
+      "value": "目前帳號"
+    },
+    {
+      "name": "cloud_last_sync",
+      "value": "最近同步"
+    },
+    {
+      "name": "cloud_sync_method",
+      "value": "同步方式"
+    },
+    {
+      "name": "risk_low",
+      "value": "低風險"
+    },
+    {
+      "name": "risk_medium",
+      "value": "中風險"
+    },
+    {
+      "name": "risk_high",
+      "value": "高風險"
+    },
+    {
+      "name": "risk_done",
+      "value": "已完成"
+    },
+    {
+      "name": "risk_overdue",
+      "value": "已超過截止時間"
+    },
+    {
+      "name": "risk_not_estimated",
+      "value": "尚未估算工作量"
+    },
+    {
+      "name": "schedule_today",
+      "value": "今天"
+    },
+    {
+      "name": "schedule_tomorrow",
+      "value": "明天"
+    },
+    {
+      "name": "schedule_buffer",
+      "value": "緩衝"
+    },
+    {
+      "name": "schedule_flex",
+      "value": "機動"
+    }
+  ]
+}

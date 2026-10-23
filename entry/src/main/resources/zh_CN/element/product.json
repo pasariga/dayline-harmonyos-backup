@@ -1,0 +1,368 @@
+{
+  "string": [
+    {
+      "name": "home_subtitle",
+      "value": "今天先做最重要的事"
+    },
+    {
+      "name": "home_loading",
+      "value": "正在整理今天的优先事项…"
+    },
+    {
+      "name": "home_empty_title",
+      "value": "从第一件事开始"
+    },
+    {
+      "name": "home_empty_body",
+      "value": "先填写名称和截止日期。补充任务或大致工时后，今日建议会更具体。"
+    },
+    {
+      "name": "home_create_first",
+      "value": "创建第一个 Deadline"
+    },
+    {
+      "name": "home_today_priority",
+      "value": "今天最优先"
+    },
+    {
+      "name": "home_why",
+      "value": "为什么先做它"
+    },
+    {
+      "name": "home_next",
+      "value": "接下来做"
+    },
+    {
+      "name": "home_auto_schedule",
+      "value": "自动倒排"
+    },
+    {
+      "name": "home_schedule_hint",
+      "value": "随最新进度实时重排"
+    },
+    {
+      "name": "home_current_progress",
+      "value": "当前进度"
+    },
+    {
+      "name": "home_high_risk",
+      "value": "高风险"
+    },
+    {
+      "name": "home_later",
+      "value": "可以稍后"
+    },
+    {
+      "name": "home_all_deadlines",
+      "value": "全部 Deadline"
+    },
+    {
+      "name": "home_add_deadline",
+      "value": "新增 Deadline"
+    },
+    {
+      "name": "home_all_done",
+      "value": "今天没有需要推进的 Deadline"
+    },
+    {
+      "name": "home_all_done_desc",
+      "value": "当前事项均已完成，可以安心安排下一步。"
+    },
+    {
+      "name": "home_view_details",
+      "value": "查看详情"
+    },
+    {
+      "name": "home_complete_task",
+      "value": "完成任务"
+    },
+    {
+      "name": "home_break_down",
+      "value": "去拆解"
+    },
+    {
+      "name": "create_new_title",
+      "value": "新建 Deadline"
+    },
+    {
+      "name": "create_edit_title",
+      "value": "编辑 Deadline"
+    },
+    {
+      "name": "create_new_subtitle",
+      "value": "记录下一件重要的事"
+    },
+    {
+      "name": "create_edit_subtitle",
+      "value": "调整 Deadline 信息"
+    },
+    {
+      "name": "field_name",
+      "value": "Deadline 名称"
+    },
+    {
+      "name": "field_type",
+      "value": "类型"
+    },
+    {
+      "name": "field_workload",
+      "value": "预计总工作量（小时）"
+    },
+    {
+      "name": "field_progress_mode",
+      "value": "进度模式"
+    },
+    {
+      "name": "field_due_date",
+      "value": "截止日期"
+    },
+    {
+      "name": "field_due_time",
+      "value": "截止时间"
+    },
+    {
+      "name": "field_reminder",
+      "value": "截止提醒"
+    },
+    {
+      "name": "field_note",
+      "value": "备注（可选）"
+    },
+    {
+      "name": "field_progress",
+      "value": "当前完成进度"
+    },
+    {
+      "name": "tasks_breakdown",
+      "value": "任务拆解"
+    },
+    {
+      "name": "tasks_add_top",
+      "value": "添加顶层任务"
+    },
+    {
+      "name": "tasks_empty",
+      "value": "尚未建立任务，之后仍可继续补充。"
+    },
+    {
+      "name": "create_save",
+      "value": "保存 Deadline"
+    },
+    {
+      "name": "create_save_changes",
+      "value": "保存修改"
+    },
+    {
+      "name": "type_assignment",
+      "value": "作业"
+    },
+    {
+      "name": "type_exam",
+      "value": "考试"
+    },
+    {
+      "name": "type_competition",
+      "value": "竞赛"
+    },
+    {
+      "name": "type_project",
+      "value": "项目"
+    },
+    {
+      "name": "type_life",
+      "value": "生活"
+    },
+    {
+      "name": "type_other",
+      "value": "其他"
+    },
+    {
+      "name": "reminder_none",
+      "value": "不提醒"
+    },
+    {
+      "name": "reminder_hour",
+      "value": "提前 1 小时"
+    },
+    {
+      "name": "reminder_day",
+      "value": "提前 1 天"
+    },
+    {
+      "name": "reminder_three_days",
+      "value": "提前 3 天"
+    },
+    {
+      "name": "detail_title",
+      "value": "Deadline 详情"
+    },
+    {
+      "name": "detail_progress_work",
+      "value": "进度与工作量"
+    },
+    {
+      "name": "detail_schedule",
+      "value": "自动倒排计划"
+    },
+    {
+      "name": "detail_schedule_hint",
+      "value": "计划会随任务和进度实时重算"
+    },
+    {
+      "name": "detail_tasks",
+      "value": "层级任务"
+    },
+    {
+      "name": "detail_note",
+      "value": "备注"
+    },
+    {
+      "name": "detail_mark_complete",
+      "value": "标记完成"
+    },
+    {
+      "name": "detail_restore",
+      "value": "恢复未完成"
+    },
+    {
+      "name": "detail_delete",
+      "value": "删除 Deadline"
+    },
+    {
+      "name": "detail_remaining_time",
+      "value": "剩余时间"
+    },
+    {
+      "name": "detail_status",
+      "value": "完成状态"
+    },
+    {
+      "name": "detail_no_note",
+      "value": "暂无备注"
+    },
+    {
+      "name": "detail_pending_breakdown",
+      "value": "待拆解"
+    },
+    {
+      "name": "notification_title",
+      "value": "通知策略"
+    },
+    {
+      "name": "notification_subtitle",
+      "value": "少打扰，但每次都有行动价值"
+    },
+    {
+      "name": "notification_permission",
+      "value": "通知权限"
+    },
+    {
+      "name": "notification_intensity",
+      "value": "通知强度"
+    },
+    {
+      "name": "notification_content",
+      "value": "主动提醒内容"
+    },
+    {
+      "name": "notification_time",
+      "value": "时间与免打扰"
+    },
+    {
+      "name": "notification_save",
+      "value": "保存通知设置"
+    },
+    {
+      "name": "notification_daily",
+      "value": "每日行动摘要"
+    },
+    {
+      "name": "notification_risk",
+      "value": "风险升高提醒"
+    },
+    {
+      "name": "notification_replan",
+      "value": "计划重排提醒"
+    },
+    {
+      "name": "notification_quiet",
+      "value": "免打扰时段"
+    },
+    {
+      "name": "cloud_title",
+      "value": "账号与云同步"
+    },
+    {
+      "name": "cloud_subtitle",
+      "value": "本地优先，离线也能正常使用"
+    },
+    {
+      "name": "cloud_local_mode",
+      "value": "本机模式"
+    },
+    {
+      "name": "cloud_sign_in",
+      "value": "华为账号登录"
+    },
+    {
+      "name": "cloud_sign_out",
+      "value": "退出云同步"
+    },
+    {
+      "name": "cloud_sync_now",
+      "value": "立即同步"
+    },
+    {
+      "name": "cloud_current_account",
+      "value": "当前账号"
+    },
+    {
+      "name": "cloud_last_sync",
+      "value": "最近同步"
+    },
+    {
+      "name": "cloud_sync_method",
+      "value": "同步方式"
+    },
+    {
+      "name": "risk_low",
+      "value": "低风险"
+    },
+    {
+      "name": "risk_medium",
+      "value": "中风险"
+    },
+    {
+      "name": "risk_high",
+      "value": "高风险"
+    },
+    {
+      "name": "risk_done",
+      "value": "任务已完成"
+    },
+    {
+      "name": "risk_overdue",
+      "value": "已经超过截止时间"
+    },
+    {
+      "name": "risk_not_estimated",
+      "value": "尚未估算工作量"
+    },
+    {
+      "name": "schedule_today",
+      "value": "今天"
+    },
+    {
+      "name": "schedule_tomorrow",
+      "value": "明天"
+    },
+    {
+      "name": "schedule_buffer",
+      "value": "缓冲"
+    },
+    {
+      "name": "schedule_flex",
+      "value": "机动"
+    }
+  ]
+}

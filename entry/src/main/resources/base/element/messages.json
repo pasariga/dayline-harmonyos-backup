@@ -1,0 +1,1751 @@
+{
+  "string": [
+    {
+      "name": "common_enabled",
+      "value": "On"
+    },
+    {
+      "name": "common_disabled",
+      "value": "Off"
+    },
+    {
+      "name": "common_remove",
+      "value": "Remove"
+    },
+    {
+      "name": "common_updating",
+      "value": "Updating…"
+    },
+    {
+      "name": "common_about_hours",
+      "value": "About {0} hr"
+    },
+    {
+      "name": "common_hours_short",
+      "value": "{0}h"
+    },
+    {
+      "name": "message_open_settings_failed",
+      "value": "Settings couldn't be opened. Try again."
+    },
+    {
+      "name": "message_load_deadlines_failed",
+      "value": "Your deadlines couldn't be loaded. Try again."
+    },
+    {
+      "name": "message_task_changed",
+      "value": "That task changed. Refreshing today's plan…"
+    },
+    {
+      "name": "message_task_update_failed",
+      "value": "The task couldn't be updated. Try again."
+    },
+    {
+      "name": "message_open_detail_failed",
+      "value": "This deadline couldn't be opened."
+    },
+    {
+      "name": "message_open_create_failed",
+      "value": "The new deadline page couldn't be opened."
+    },
+    {
+      "name": "message_deadline_not_found",
+      "value": "This deadline no longer exists."
+    },
+    {
+      "name": "message_load_deadline_failed",
+      "value": "This deadline couldn't be loaded. Go back and try again."
+    },
+    {
+      "name": "message_open_date_picker_failed",
+      "value": "The date picker couldn't be opened."
+    },
+    {
+      "name": "message_open_time_picker_failed",
+      "value": "The time picker couldn't be opened."
+    },
+    {
+      "name": "message_notifications_enabled",
+      "value": "Notifications are on"
+    },
+    {
+      "name": "message_notifications_not_enabled",
+      "value": "Notifications remain off. You can enable them later in Settings."
+    },
+    {
+      "name": "message_return_detail_failed",
+      "value": "The deadline details couldn't be reopened."
+    },
+    {
+      "name": "message_save_in_progress",
+      "value": "Saving…"
+    },
+    {
+      "name": "message_go_back_failed",
+      "value": "Couldn't go back. Try again."
+    },
+    {
+      "name": "message_open_task_remove_failed",
+      "value": "The removal confirmation couldn't be opened."
+    },
+    {
+      "name": "message_deadline_updated",
+      "value": "Deadline updated"
+    },
+    {
+      "name": "message_deadline_saved",
+      "value": "Deadline saved"
+    },
+    {
+      "name": "message_saved_reminder_retry",
+      "value": "{0}. The reminder is not scheduled yet. Open Dayline later to check."
+    },
+    {
+      "name": "message_save_failed",
+      "value": "Couldn’t save the deadline. Your entries are still here; try again."
+    },
+    {
+      "name": "message_detail_missing_id",
+      "value": "This deadline can't be opened because required information is missing."
+    },
+    {
+      "name": "message_progress_saved",
+      "value": "Progress saved"
+    },
+    {
+      "name": "message_progress_save_failed",
+      "value": "Progress couldn't be saved. Try again."
+    },
+    {
+      "name": "message_task_save_failed",
+      "value": "The task wasn’t saved. Your text is still here; try again."
+    },
+    {
+      "name": "message_task_status_failed",
+      "value": "Task change wasn’t saved. Check its current state and try again."
+    },
+    {
+      "name": "message_open_delete_confirm_failed",
+      "value": "The delete confirmation couldn't be opened."
+    },
+    {
+      "name": "message_task_delete_failed",
+      "value": "The task wasn’t deleted. Try again."
+    },
+    {
+      "name": "message_open_edit_failed",
+      "value": "The edit page couldn't be opened."
+    },
+    {
+      "name": "message_status_updated_reminder_retry",
+      "value": "Status saved. Reminders have not updated yet. Open Dayline later to check."
+    },
+    {
+      "name": "message_status_update_failed",
+      "value": "The deadline status wasn’t changed. Try again."
+    },
+    {
+      "name": "message_deadline_deleted",
+      "value": "Deadline deleted"
+    },
+    {
+      "name": "message_deadline_deleted_reminder_retry",
+      "value": "Deadline deleted. System reminder cancellation is not confirmed yet. Reopen Dayline later."
+    },
+    {
+      "name": "message_delete_failed",
+      "value": "The deadline wasn’t deleted. Try again."
+    },
+    {
+      "name": "message_processing",
+      "value": "Working on it…"
+    },
+    {
+      "name": "work_remaining_hours",
+      "value": "{0} hr left"
+    },
+    {
+      "name": "work_not_estimated",
+      "value": "Workload not estimated"
+    },
+    {
+      "name": "progress_auto_pending_meta",
+      "value": "Automatic · Needs breakdown · {0}"
+    },
+    {
+      "name": "progress_meta",
+      "value": "{0} {1}% · {2}"
+    },
+    {
+      "name": "later_with_hours",
+      "value": "{0} · {1} hr left"
+    },
+    {
+      "name": "later_low_risk",
+      "value": "{0} · Low risk for now"
+    },
+    {
+      "name": "deadline_card_due",
+      "value": "{0} · Due {1}"
+    },
+    {
+      "name": "task_breakdown_mark",
+      "value": "Plan"
+    },
+    {
+      "name": "schedule_flex_buffer",
+      "value": "Flexible / buffer"
+    },
+    {
+      "name": "schedule_open_day",
+      "value": "Nothing fixed today. Use the time to catch up, review, or rest."
+    },
+    {
+      "name": "schedule_more_items_one",
+      "value": "1 more item is included in today's workload"
+    },
+    {
+      "name": "schedule_more_items_other",
+      "value": "{0} more items are included in today's workload"
+    },
+    {
+      "name": "home_empty_tagline",
+      "value": "Know what to do today, not just when it's due"
+    },
+    {
+      "name": "home_empty_progress_desc",
+      "value": "Complete tasks and overall progress updates automatically"
+    },
+    {
+      "name": "home_empty_risk_title",
+      "value": "Delay risk"
+    },
+    {
+      "name": "home_empty_risk_desc",
+      "value": "Spot risk early from time left and remaining work"
+    },
+    {
+      "name": "home_empty_action_desc",
+      "value": "Work backward from the due date and surface today's next step"
+    },
+    {
+      "name": "home_empty_hint",
+      "value": "Start with your next assignment, exam, or project"
+    },
+    {
+      "name": "home_action_count_one",
+      "value": "1 suggestion for today"
+    },
+    {
+      "name": "home_action_count_other",
+      "value": "{0} suggestions for today"
+    },
+    {
+      "name": "home_overall_progress",
+      "value": "Deadlines completed {0}%"
+    },
+    {
+      "name": "home_deadline_count_one",
+      "value": "1 deadline"
+    },
+    {
+      "name": "home_deadline_count_other",
+      "value": "{0} deadlines"
+    },
+    {
+      "name": "home_other_risks",
+      "value": "Other risks"
+    },
+    {
+      "name": "home_risk_count_one",
+      "value": "1 needs attention"
+    },
+    {
+      "name": "home_risk_count_other",
+      "value": "{0} need attention"
+    },
+    {
+      "name": "home_later_hint",
+      "value": "Keep your attention on the more urgent work"
+    },
+    {
+      "name": "home_sorted_by_risk",
+      "value": "Highest risk first"
+    },
+    {
+      "name": "home_first_items",
+      "value": "Showing the first {0}"
+    },
+    {
+      "name": "home_collapse_list",
+      "value": "Show less"
+    },
+    {
+      "name": "home_view_all_one",
+      "value": "View 1 item"
+    },
+    {
+      "name": "home_view_all_other",
+      "value": "View all {0}"
+    },
+    {
+      "name": "notification_permission_prompt_title",
+      "value": "Enable deadline reminders?"
+    },
+    {
+      "name": "notification_permission_prompt_body",
+      "value": "Dayline can notify you as a deadline approaches. Enable system notifications now?"
+    },
+    {
+      "name": "notification_not_now",
+      "value": "Not now"
+    },
+    {
+      "name": "notification_enable",
+      "value": "Enable notifications"
+    },
+    {
+      "name": "task_edit_name_hint",
+      "value": "Edit task name"
+    },
+    {
+      "name": "task_add_to_hint",
+      "value": "Add under “{0}”"
+    },
+    {
+      "name": "task_add_top_hint",
+      "value": "Add a top-level task"
+    },
+    {
+      "name": "task_remove_title",
+      "value": "Remove task"
+    },
+    {
+      "name": "task_remove_children_confirm_one",
+      "value": "Remove “{1}” and its 1 subtask?"
+    },
+    {
+      "name": "task_remove_children_confirm_other",
+      "value": "Remove “{1}” and its {0} subtasks?"
+    },
+    {
+      "name": "task_remove_confirm",
+      "value": "Remove “{0}”?"
+    },
+    {
+      "name": "validation_name_required",
+      "value": "Enter a deadline name"
+    },
+    {
+      "name": "validation_date_required",
+      "value": "Choose a due date"
+    },
+    {
+      "name": "validation_hours_range",
+      "value": "Enter a valid workload between 0 and 10,000 hours"
+    },
+    {
+      "name": "tasks_empty_save_later",
+      "value": "No tasks yet. You can add them later."
+    },
+    {
+      "name": "tasks_created_progress_one",
+      "value": "1 task · Automatic progress {1}%"
+    },
+    {
+      "name": "tasks_created_progress_other",
+      "value": "{0} tasks · Automatic progress {1}%"
+    },
+    {
+      "name": "task_editing",
+      "value": "Editing “{0}”"
+    },
+    {
+      "name": "task_adding_child",
+      "value": "Adding a subtask under “{0}”"
+    },
+    {
+      "name": "task_add_child",
+      "value": "Add subtask"
+    },
+    {
+      "name": "tasks_collapse",
+      "value": "Show fewer tasks"
+    },
+    {
+      "name": "tasks_view_all_one",
+      "value": "View 1 task"
+    },
+    {
+      "name": "tasks_view_all_other",
+      "value": "View all {0} tasks"
+    },
+    {
+      "name": "create_edit_helper",
+      "value": "Saving updates the existing deadline."
+    },
+    {
+      "name": "create_new_helper",
+      "value": "Add the essentials now. You can adjust them later."
+    },
+    {
+      "name": "create_loading",
+      "value": "Loading deadline…"
+    },
+    {
+      "name": "create_name_placeholder",
+      "value": "e.g. Computer architecture assignment"
+    },
+    {
+      "name": "create_hours_placeholder",
+      "value": "e.g. 10 (leave blank if unknown)"
+    },
+    {
+      "name": "create_auto_progress_desc",
+      "value": "Task progress counts completed leaf tasks, not hours worked."
+    },
+    {
+      "name": "create_manual_progress_desc",
+      "value": "Set the deadline's overall progress yourself."
+    },
+    {
+      "name": "create_choose_date",
+      "value": "Choose a date"
+    },
+    {
+      "name": "create_reminder_on_desc",
+      "value": "Dayline attempts to schedule the selected time. Delivery is subject to system limits; check the due date in the app."
+    },
+    {
+      "name": "create_reminder_off_desc",
+      "value": "Off by default. Enable a reminder when you need one."
+    },
+    {
+      "name": "create_note_placeholder",
+      "value": "Requirements, location, or preparation notes"
+    },
+    {
+      "name": "create_edit_footer",
+      "value": "Changes appear on this deadline immediately after saving."
+    },
+    {
+      "name": "create_new_footer",
+      "value": "Saved on this device and available after you reopen Dayline."
+    },
+    {
+      "name": "task_delete_title",
+      "value": "Delete task"
+    },
+    {
+      "name": "task_delete_children_confirm_one",
+      "value": "Delete “{1}” and its 1 subtask?"
+    },
+    {
+      "name": "task_delete_children_confirm_other",
+      "value": "Delete “{1}” and its {0} subtasks?"
+    },
+    {
+      "name": "task_delete_confirm",
+      "value": "Delete “{0}”?"
+    },
+    {
+      "name": "deadline_delete_title",
+      "value": "Delete deadline"
+    },
+    {
+      "name": "deadline_delete_confirm",
+      "value": "Delete “{0}”? This can't be undone."
+    },
+    {
+      "name": "deadline_untitled",
+      "value": "Untitled deadline"
+    },
+    {
+      "name": "schedule_specific_tasks_one",
+      "value": "1 specific task"
+    },
+    {
+      "name": "schedule_specific_tasks_other",
+      "value": "{0} specific tasks"
+    },
+    {
+      "name": "schedule_work",
+      "value": "Work"
+    },
+    {
+      "name": "detail_tasks_pending_desc",
+      "value": "Break this deadline into tasks to start automatic progress."
+    },
+    {
+      "name": "detail_total_work",
+      "value": "Total estimate"
+    },
+    {
+      "name": "schedule_feasible",
+      "value": "Manageable pace"
+    },
+    {
+      "name": "schedule_tight",
+      "value": "Tight pace"
+    },
+    {
+      "name": "schedule_completed_empty",
+      "value": "This deadline is complete. No further schedule is needed."
+    },
+    {
+      "name": "schedule_no_remaining",
+      "value": "There is no remaining work to schedule."
+    },
+    {
+      "name": "schedule_planned_work",
+      "value": "Planned work"
+    },
+    {
+      "name": "schedule_work_days",
+      "value": "Work days"
+    },
+    {
+      "name": "schedule_daily_average",
+      "value": "Average per work day"
+    },
+    {
+      "name": "schedule_rolling_hint",
+      "value": "Showing the next 14 days. Later dates adjust as your progress changes."
+    },
+    {
+      "name": "detail_created_at",
+      "value": "Created"
+    },
+    {
+      "name": "detail_manual_update",
+      "value": "Update progress manually"
+    },
+    {
+      "name": "detail_progress_saved",
+      "value": "Progress saved"
+    },
+    {
+      "name": "detail_save_progress",
+      "value": "Save progress"
+    },
+    {
+      "name": "detail_completed_progress_hint",
+      "value": "Completed deadlines show 100%. Restore it to keep adjusting progress."
+    },
+    {
+      "name": "detail_equal_weight",
+      "value": "Progress counts completed leaf tasks; it does not measure hours."
+    },
+    {
+      "name": "detail_tasks_empty",
+      "value": "Add a top-level task, then break it into subtasks as needed."
+    },
+    {
+      "name": "detail_loading",
+      "value": "Loading deadline…"
+    },
+    {
+      "name": "notification_load_failed",
+      "value": "Notification settings couldn’t be loaded. Saved choices are unchanged; retry."
+    },
+    {
+      "name": "notification_saved",
+      "value": "Notification settings saved"
+    },
+    {
+      "name": "notification_save_failed",
+      "value": "Notification choices weren’t saved. Your changes are still here; try again."
+    },
+    {
+      "name": "notification_permission_declined",
+      "value": "Notifications remain off. Allow Dayline in device settings, or continue without reminders."
+    },
+    {
+      "name": "notification_open_system_failed",
+      "value": "Couldn’t enable notifications. You can allow Dayline notifications in system settings."
+    },
+    {
+      "name": "notification_intensity_concise",
+      "value": "Minimal"
+    },
+    {
+      "name": "notification_intensity_standard",
+      "value": "Standard"
+    },
+    {
+      "name": "notification_intensity_active",
+      "value": "Proactive"
+    },
+    {
+      "name": "notification_intensity_custom",
+      "value": "Custom"
+    },
+    {
+      "name": "notification_intensity_concise_desc",
+      "value": "Only reminders you explicitly set for individual deadlines."
+    },
+    {
+      "name": "notification_intensity_standard_desc",
+      "value": "A daily summary when there is something to do, with extra alerts when risk clearly rises."
+    },
+    {
+      "name": "notification_intensity_active_desc",
+      "value": "Schedules summaries further ahead and checks in sooner when risk rises, without repeating the same alert."
+    },
+    {
+      "name": "notification_intensity_custom_desc",
+      "value": "Uses the options and times below."
+    },
+    {
+      "name": "notification_save_in_progress",
+      "value": "Saving notification settings…"
+    },
+    {
+      "name": "notification_loading",
+      "value": "Loading notification settings…"
+    },
+    {
+      "name": "notification_daily_desc",
+      "value": "Combines today's top tasks and suggested effort into one summary."
+    },
+    {
+      "name": "notification_risk_desc",
+      "value": "Only alerts when high risk clearly develops, combining similar deadlines."
+    },
+    {
+      "name": "notification_replan_desc",
+      "value": "Adds plan changes to the next daily summary. Requires daily summaries."
+    },
+    {
+      "name": "notification_summary_time",
+      "value": "Action summary time"
+    },
+    {
+      "name": "notification_quiet_off",
+      "value": "No quiet hours"
+    },
+    {
+      "name": "notification_quiet_desc",
+      "value": "Summaries and risk alerts avoid quiet hours. Due reminders move earlier when possible; urgent cutoffs are not delayed."
+    },
+    {
+      "name": "cloud_login_retry",
+      "value": "Sign-in wasn't completed. Try again."
+    },
+    {
+      "name": "cloud_status_local_only",
+      "value": "Saved only on this device"
+    },
+    {
+      "name": "cloud_status_waiting_first_sync",
+      "value": "Signed in and waiting for the first sync"
+    },
+    {
+      "name": "cloud_status_synced",
+      "value": "Last sync completed"
+    },
+    {
+      "name": "cloud_status_sync_incomplete",
+      "value": "Sync didn't finish. Your on-device data is safe."
+    },
+    {
+      "name": "cloud_status_unavailable",
+      "value": "Sync status is temporarily unavailable"
+    },
+    {
+      "name": "cloud_login_unavailable",
+      "value": "Huawei ID sign-in is temporarily unavailable. Try again later."
+    },
+    {
+      "name": "cloud_login_update_required",
+      "value": "This installed version can't sign in. Update Dayline and try again."
+    },
+    {
+      "name": "cloud_login_device_account",
+      "value": "Sign in to a Huawei ID on this device first."
+    },
+    {
+      "name": "cloud_network_unavailable",
+      "value": "You're offline. Try again when you're connected."
+    },
+    {
+      "name": "cloud_authorization_incomplete",
+      "value": "Account authorization wasn't completed. Try again."
+    },
+    {
+      "name": "cloud_privacy_required",
+      "value": "Accept the required privacy terms to sign in."
+    },
+    {
+      "name": "cloud_login_incomplete",
+      "value": "Sign-in wasn't completed. Try again later."
+    },
+    {
+      "name": "cloud_enable_failed",
+      "value": "Cloud sync couldn't be enabled."
+    },
+    {
+      "name": "cloud_switch_account_title",
+      "value": "Switch cloud sync account"
+    },
+    {
+      "name": "cloud_switch_account_body",
+      "value": "On-device data will be merged with the new account's cloud data. Duplicates are removed and local data isn't cleared. Continue?"
+    },
+    {
+      "name": "cloud_merge_and_sync",
+      "value": "Merge and sync"
+    },
+    {
+      "name": "cloud_switch_confirm_failed",
+      "value": "The account switch couldn't be confirmed."
+    },
+    {
+      "name": "cloud_status_merging",
+      "value": "Merging on-device and cloud data…"
+    },
+    {
+      "name": "cloud_status_permission_local",
+      "value": "Sync permission wasn't granted. Dayline remains in on-device mode."
+    },
+    {
+      "name": "cloud_syncing",
+      "value": "Syncing…"
+    },
+    {
+      "name": "cloud_sign_out_title",
+      "value": "Turn off cloud sync"
+    },
+    {
+      "name": "cloud_sign_out_body",
+      "value": "Dayline will still work offline. On-device data is kept, and existing cloud data isn't deleted."
+    },
+    {
+      "name": "cloud_sign_out_confirm_failed",
+      "value": "The sign-out confirmation couldn't be opened."
+    },
+    {
+      "name": "cloud_signed_out",
+      "value": "Cloud sync is off. On-device data was kept."
+    },
+    {
+      "name": "cloud_sign_out_failed",
+      "value": "Sign-out didn’t finish. Your local data is still available. Try again later."
+    },
+    {
+      "name": "cloud_never_synced",
+      "value": "Never synced"
+    },
+    {
+      "name": "cloud_enabled",
+      "value": "Cloud sync on"
+    },
+    {
+      "name": "cloud_connected",
+      "value": "Connected"
+    },
+    {
+      "name": "cloud_not_signed_in",
+      "value": "Not signed in"
+    },
+    {
+      "name": "cloud_sync_scope",
+      "value": "• Deadlines, task hierarchy, progress, and completion state sync through Huawei Cloud."
+    },
+    {
+      "name": "cloud_merge_desc",
+      "value": "• First sign-in merges on-device and cloud data, removes duplicates, and never clears the device first."
+    },
+    {
+      "name": "cloud_offline_desc",
+      "value": "• Changes are saved on this device while offline and sync automatically when the connection returns."
+    },
+    {
+      "name": "cloud_offline_footer",
+      "value": "Your on-device data stays available if you're offline or cloud sync is off."
+    },
+    {
+      "name": "cloud_optional_footer",
+      "value": "Signing in is optional. Every feature works on this device without an account."
+    },
+    {
+      "name": "cloud_result_synced",
+      "value": "Synced with Huawei Cloud"
+    },
+    {
+      "name": "cloud_result_network",
+      "value": "You're offline. On-device changes will sync when the connection returns."
+    },
+    {
+      "name": "cloud_result_enable_in_settings",
+      "value": "Enable Dayline sync in Settings > Huawei ID > Cloud."
+    },
+    {
+      "name": "cloud_result_data_limit",
+      "value": "Cloud data has reached its limit. Free up space and try again."
+    },
+    {
+      "name": "cloud_result_storage_full",
+      "value": "Huawei Cloud storage is full. Manage your cloud storage first."
+    },
+    {
+      "name": "cloud_result_network_policy",
+      "value": "This network doesn't match your cloud sync policy. Dayline will retry later."
+    },
+    {
+      "name": "cloud_result_failed",
+      "value": "Sync didn't finish. Your on-device data is safe."
+    },
+    {
+      "name": "risk_reason_completed",
+      "value": "This deadline is complete"
+    },
+    {
+      "name": "risk_reason_overdue",
+      "value": "The due time has passed"
+    },
+    {
+      "name": "availability_daily",
+      "value": "about {0} hr each day"
+    },
+    {
+      "name": "availability_weekday_weekend",
+      "value": "about {0} hr on weekdays and {1} hr on weekends"
+    },
+    {
+      "name": "risk_reason_on_track",
+      "value": "Progress fits the time and work remaining"
+    },
+    {
+      "name": "risk_reason_capacity_shortfall",
+      "value": "{0} hr remain. At {1}, only about {2} hr are available"
+    },
+    {
+      "name": "risk_reason_due_hours_progress",
+      "value": "About {0} hr left, with {1}% complete"
+    },
+    {
+      "name": "risk_reason_progress_lag",
+      "value": "Progress is about {0}% behind the elapsed time"
+    },
+    {
+      "name": "risk_reason_daily_load_high",
+      "value": "{0} hr remain, requiring a heavier daily workload"
+    },
+    {
+      "name": "risk_reason_due_days_progress",
+      "value": "About {0} days left, with {1}% complete"
+    },
+    {
+      "name": "schedule_task_summary_one",
+      "value": "{1}"
+    },
+    {
+      "name": "schedule_task_summary_other",
+      "value": "{1}, {2}, and {0} tasks total"
+    },
+    {
+      "name": "schedule_review_and_complete",
+      "value": "Review the result and mark the deadline complete"
+    },
+    {
+      "name": "schedule_tasks_done",
+      "value": "All tasks are done, so no extra buffer is needed"
+    },
+    {
+      "name": "schedule_estimate_per_task",
+      "value": "No workload estimate. Planning about 1 hour per concrete task."
+    },
+    {
+      "name": "schedule_estimate_per_quarter",
+      "value": "No workload estimate. Planning about 1 hour per 25% of progress."
+    },
+    {
+      "name": "schedule_buffer_summary",
+      "value": "Review, catch omissions, and prepare the final submission"
+    },
+    {
+      "name": "schedule_flex_summary",
+      "value": "Flexible time for catching up or resting early"
+    },
+    {
+      "name": "schedule_break_down_start",
+      "value": "Break down the work and start"
+    },
+    {
+      "name": "schedule_advance_deadline",
+      "value": "Move “{0}” forward"
+    },
+    {
+      "name": "schedule_advance_progress",
+      "value": "Reach about {0}% progress"
+    },
+    {
+      "name": "schedule_buffer_overdue",
+      "value": "This deadline is overdue, so no buffer can be reserved. The plan restarts today."
+    },
+    {
+      "name": "schedule_buffer_days",
+      "value": "{0} days before the deadline are reserved for review, fixes, and submission."
+    },
+    {
+      "name": "schedule_no_safe_buffer",
+      "value": "The remaining workload is too large to reserve a safe buffer day."
+    },
+    {
+      "name": "schedule_no_buffer_near_due",
+      "value": "The deadline is too close for a separate buffer day."
+    },
+    {
+      "name": "action_overdue_progress",
+      "value": "Overdue, with {0}% still incomplete"
+    },
+    {
+      "name": "action_remaining_hours",
+      "value": "{0}; about {1} hr still needed"
+    },
+    {
+      "name": "action_current_progress",
+      "value": "{0}; currently {1}% complete"
+    },
+    {
+      "name": "action_due_hours",
+      "value": "About {0} hr until the deadline"
+    },
+    {
+      "name": "action_due_days",
+      "value": "{0} days until the deadline"
+    },
+    {
+      "name": "action_review_complete",
+      "value": "Review the result and mark the deadline complete"
+    },
+    {
+      "name": "action_schedule_hours_progress",
+      "value": "Today's plan: spend {0} hr and reach about {1}%"
+    },
+    {
+      "name": "action_schedule_hours",
+      "value": "Today's plan: spend about {0} hr"
+    },
+    {
+      "name": "action_focus_then_update",
+      "value": "Start with one focused session, then update progress"
+    },
+    {
+      "name": "action_suggest_hours_progress",
+      "value": "Spend {0} hr today and aim for about {1}%"
+    },
+    {
+      "name": "action_advance_deadline",
+      "value": "Move “{0}” forward"
+    },
+    {
+      "name": "action_break_down_deadline",
+      "value": "Break down “{0}”"
+    },
+    {
+      "name": "action_no_tasks_reason",
+      "value": "Automatic progress has no tasks yet, so specific progress can't be assessed"
+    },
+    {
+      "name": "action_break_down_with_hours",
+      "value": "Break down the work first, then spend about {0} hr today"
+    },
+    {
+      "name": "action_create_tasks_suggestion",
+      "value": "Create 2–3 actionable tasks so Dayline can track progress automatically"
+    },
+    {
+      "name": "action_complete_task",
+      "value": "Complete “{0}”"
+    },
+    {
+      "name": "action_today_schedule_recalculates",
+      "value": "About {0} hr in today's plan; later days recalculate when this is done"
+    },
+    {
+      "name": "action_tasks_left_one",
+      "value": "Progress recalculates automatically; 1 concrete task remains"
+    },
+    {
+      "name": "action_tasks_left_other",
+      "value": "Progress recalculates automatically; {0} concrete tasks remain"
+    },
+    {
+      "name": "action_review_deadline",
+      "value": "Review and finish “{0}”"
+    },
+    {
+      "name": "action_all_tasks_done_reason",
+      "value": "Every concrete task in the breakdown is complete"
+    },
+    {
+      "name": "action_mark_deadline_complete",
+      "value": "Review the result, then mark the whole deadline complete"
+    },
+    {
+      "name": "reminder_due_minutes",
+      "value": "Due in about {0} min"
+    },
+    {
+      "name": "reminder_due_hours",
+      "value": "Due in about {0} hr"
+    },
+    {
+      "name": "reminder_due_days",
+      "value": "Due in about {0} days"
+    },
+    {
+      "name": "reminder_content_no_tasks",
+      "value": "{0} · No task breakdown yet"
+    },
+    {
+      "name": "reminder_content_tasks_one",
+      "value": "{1} · {2}% complete · 1 task left"
+    },
+    {
+      "name": "reminder_content_tasks_other",
+      "value": "{1} · {2}% complete · {0} tasks left"
+    },
+    {
+      "name": "reminder_content_hours",
+      "value": "{0} · {1}% complete · about {2} hr left"
+    },
+    {
+      "name": "reminder_content_progress",
+      "value": "{0} · {1}% complete"
+    },
+    {
+      "name": "notification_slot_desc",
+      "value": "Dayline deadline, daily action, and risk alerts"
+    },
+    {
+      "name": "notification_action_done",
+      "value": "Dismiss"
+    },
+    {
+      "name": "notification_action_snooze",
+      "value": "In 30 min"
+    },
+    {
+      "name": "notification_snooze_content",
+      "value": "Review this Dayline action later"
+    },
+    {
+      "name": "notification_deadline_expired",
+      "value": "This deadline reminder has ended"
+    },
+    {
+      "name": "notification_action_summary",
+      "value": "{0}. {1}"
+    },
+    {
+      "name": "notification_action_summary_more_one",
+      "value": "{1}. {2} One more suggestion."
+    },
+    {
+      "name": "notification_action_summary_more_other",
+      "value": "{1}. {2} {0} more suggestions."
+    },
+    {
+      "name": "notification_daily_title",
+      "value": "Dayline · Today's actions"
+    },
+    {
+      "name": "notification_daily_title_risk",
+      "value": "Dayline · Today's actions · High risk"
+    },
+    {
+      "name": "notification_replan_title",
+      "value": "Dayline · Plan adjusted"
+    },
+    {
+      "name": "notification_replan_prefix_one",
+      "value": "1 item from yesterday is unfinished, so later work was adjusted. {1}"
+    },
+    {
+      "name": "notification_replan_prefix_other",
+      "value": "{0} items from yesterday are unfinished, so later work was adjusted. {1}"
+    },
+    {
+      "name": "notification_daily_expired",
+      "value": "Today's action summary has ended"
+    },
+    {
+      "name": "notification_risk_title",
+      "value": "Dayline · Risk is rising"
+    },
+    {
+      "name": "notification_risk_content",
+      "value": "{0}: {1}"
+    },
+    {
+      "name": "notification_risk_content_more_one",
+      "value": "{1}: {2}. One more high-risk deadline."
+    },
+    {
+      "name": "notification_risk_content_more_other",
+      "value": "{1}: {2}. {0} more high-risk deadlines."
+    },
+    {
+      "name": "notification_risk_expired",
+      "value": "This risk alert has ended"
+    },
+    {
+      "name": "notification_replan_content_one",
+      "value": "1 item from yesterday is unfinished. Do first today: {1}. {2}"
+    },
+    {
+      "name": "notification_replan_content_other",
+      "value": "{0} items from yesterday are unfinished. Do first today: {1}. {2}"
+    },
+    {
+      "name": "notification_replan_expired",
+      "value": "This plan adjustment alert has ended"
+    },
+    {
+      "name": "reminder_result_permission_disabled",
+      "value": "Notifications are off. Your reminder setting was saved."
+    },
+    {
+      "name": "reminder_result_not_needed",
+      "value": "No deadline reminder is needed right now."
+    },
+    {
+      "name": "reminder_result_queued",
+      "value": "Reminder preferences saved. This reminder has not yet been scheduled."
+    },
+    {
+      "name": "reminder_result_scheduled",
+      "value": "Reminder scheduled"
+    },
+    {
+      "name": "reminder_result_failed",
+      "value": "The reminder couldn't be scheduled. Dayline will retry automatically."
+    },
+    {
+      "name": "action_risk_with_remaining",
+      "value": "{0}. {1}"
+    },
+    {
+      "name": "schedule_two_tasks",
+      "value": "{0} and {1}"
+    },
+    {
+      "name": "message_edit_conflict",
+      "value": "This deadline changed on another device. Reload it before saving again."
+    },
+    {
+      "name": "message_task_conflict",
+      "value": "Tasks changed elsewhere. The latest version is loading."
+    },
+    {
+      "name": "risk_unknown",
+      "value": "Needs an estimate"
+    },
+    {
+      "name": "risk_reason_missing_workload",
+      "value": "Confirm roughly how much work remains to assess the risk."
+    },
+    {
+      "name": "risk_reason_rough_workload",
+      "value": "{0} Task completion does not measure hours worked."
+    },
+    {
+      "name": "risk_reason_shared_unknown",
+      "value": "Another earlier deadline has no work estimate, so shared capacity cannot be judged yet."
+    },
+    {
+      "name": "risk_reason_shared_shortfall",
+      "value": "Deadlines due by then need about {0} hr, but shared capacity is {1} hr."
+    },
+    {
+      "name": "schedule_rough_workload",
+      "value": "Hours are approximate because task completion does not measure effort."
+    },
+    {
+      "name": "schedule_need_workload",
+      "value": "Add an estimated workload before Dayline can plan hours."
+    },
+    {
+      "name": "schedule_unallocated",
+      "value": "Work could not be allocated before this deadline."
+    },
+    {
+      "name": "schedule_unallocated_hours",
+      "value": "{0}h unallocated"
+    },
+    {
+      "name": "schedule_shared_capacity_note",
+      "value": "Days share one time budget across all deadlines. {0}"
+    },
+    {
+      "name": "work_remaining_rough",
+      "value": "About {0} hr remain; task progress does not reduce this estimate."
+    },
+    {
+      "name": "work_uncertain",
+      "value": "Hours uncertain"
+    },
+    {
+      "name": "action_rough_remaining",
+      "value": "{0}; about {1} hr may remain."
+    },
+    {
+      "name": "work_not_tracked",
+      "value": "Not tracked"
+    },
+    {
+      "name": "schedule_required_work",
+      "value": "Work still required"
+    },
+    {
+      "name": "risk_reason_unmeasured_work",
+      "value": "Confirm remaining work before judging whether your time can meet the deadline."
+    },
+    {
+      "name": "schedule_unmeasured_work",
+      "value": "Confirm remaining work for an hourly plan. Today's actions remain available."
+    },
+    {
+      "name": "work_remaining_unknown",
+      "value": "Remaining hours unknown"
+    },
+    {
+      "name": "workload_total_create_hint",
+      "value": "At creation, this is also the initial remaining estimate. Update it in Details when needed."
+    },
+    {
+      "name": "workload_total_edit_hint",
+      "value": "This is the original total estimate. Update remaining work separately in Details."
+    },
+    {
+      "name": "work_remaining_pending",
+      "value": "Remaining work needs confirmation"
+    },
+    {
+      "name": "remaining_status_stale",
+      "value": "Last confirmed over two weeks ago. Confirm again for hourly risk and plans."
+    },
+    {
+      "name": "remaining_status_unknown",
+      "value": "Due dates and unfinished tasks can still guide today. Hourly risk needs an estimate."
+    },
+    {
+      "name": "remaining_status_initial",
+      "value": "Initial estimate. Confirm it when your view changes after starting."
+    },
+    {
+      "name": "remaining_status_confirmed",
+      "value": "Based on your latest rough estimate. Update it when your view changes."
+    },
+    {
+      "name": "remaining_update_button",
+      "value": "Update remaining estimate"
+    },
+    {
+      "name": "remaining_editor_hint",
+      "value": "Remaining work (hours)"
+    },
+    {
+      "name": "remaining_hours_placeholder",
+      "value": "For example: 6 hours"
+    },
+    {
+      "name": "remaining_keep_button",
+      "value": "Keep last estimate"
+    },
+    {
+      "name": "remaining_save_button",
+      "value": "Save new estimate"
+    },
+    {
+      "name": "remaining_unknown_button",
+      "value": "Not sure yet"
+    },
+    {
+      "name": "remaining_no_previous_estimate",
+      "value": "No earlier estimate to keep"
+    },
+    {
+      "name": "message_remaining_unknown_saved",
+      "value": "Marked as unknown. Today's actions remain available."
+    },
+    {
+      "name": "message_remaining_saved",
+      "value": "Remaining estimate updated"
+    },
+    {
+      "name": "message_remaining_save_failed",
+      "value": "Remaining estimate wasn’t saved. Your input is still here; try again."
+    },
+    {
+      "name": "risk_reason_stale_work",
+      "value": "Remaining work estimate is outdated. Confirm it to assess capacity risk."
+    },
+    {
+      "name": "task_progress_label",
+      "value": "Task progress"
+    },
+    {
+      "name": "task_just_completed",
+      "value": "Completed “{0}”"
+    },
+    {
+      "name": "task_just_reopened",
+      "value": "Marked “{0}” as not done"
+    },
+    {
+      "name": "editor_discard_title",
+      "value": "Discard unsaved changes?"
+    },
+    {
+      "name": "editor_discard_body",
+      "value": "Your edits on this page have not been saved. Keep editing or discard them and leave."
+    },
+    {
+      "name": "editor_discard_action",
+      "value": "Discard changes"
+    },
+    {
+      "name": "settings_saved",
+      "value": "Settings saved"
+    },
+    {
+      "name": "notification_permission_off_hint",
+      "value": "Notifications are off. You can allow Dayline notifications in device settings."
+    },
+    {
+      "name": "notification_more_settings",
+      "value": "More notification settings"
+    },
+    {
+      "name": "notification_less_settings",
+      "value": "Fewer notification settings"
+    },
+    {
+      "name": "settings_load_failed",
+      "value": "Could not load settings. Your saved choices are unchanged. Try again."
+    },
+    {
+      "name": "cloud_enable_failed_safe",
+      "value": "Cloud sync could not start. Your local data is still available. Try again."
+    },
+    {
+      "name": "notification_refresh_failed",
+      "value": "Settings saved, but reminders could not refresh. Try saving again."
+    },
+    {
+      "name": "settings_sync_failed",
+      "value": "Sync needs a retry"
+    },
+    {
+      "name": "task_just_removed",
+      "value": "Removed “{0}” from this draft"
+    },
+    {
+      "name": "settings_language_system_saved",
+      "value": "Saved. Close Dayline from recent apps and reopen it to use the device language."
+    },
+    {
+      "name": "cloud_account_verify_failed",
+      "value": "Unable to verify your current account. Sync has not started. Your local data is safe; check your network and system account, then retry."
+    },
+    {
+      "name": "cloud_account_mismatch",
+      "value": "This device’s data is linked to another Huawei account. Sync has not started. Switch back to that account; your local data is still available."
+    },
+    {
+      "name": "cloud_status_save_failed",
+      "value": "Could not save the result of this sync attempt. Your local data is available; retry to check the sync status."
+    },
+    {
+      "name": "cloud_stop_failed",
+      "value": "Could not confirm that sync has stopped. Your local data is available; try signing out again."
+    },
+    {
+      "name": "cloud_data_held",
+      "value": "Some saved changes need review or are not yet complete. Your previous data is kept. Open Review changes to decide what to keep or check what is missing."
+    },
+    {
+      "name": "cloud_protocol_pending",
+      "value": "Cloud sync is paused. Your saved data is kept. Compatibility checks and updates on all devices are needed before sync can resume."
+    },
+    {
+      "name": "detail_next_action",
+      "value": "下一步"
+    },
+    {
+      "name": "task_actions_label",
+      "value": "任务操作"
+    },
+    {
+      "name": "review_title",
+      "value": "Review changes"
+    },
+    {
+      "name": "review_needed",
+      "value": "Needs review"
+    },
+    {
+      "name": "review_open",
+      "value": "Review"
+    },
+    {
+      "name": "review_home_status",
+      "value": "Changes to review: {0}"
+    },
+    {
+      "name": "review_intro",
+      "value": "This Deadline has different saved changes. Your last complete data and both versions are kept. Choose what to keep; nothing will be overwritten until you save. Other Deadlines remain available."
+    },
+    {
+      "name": "review_current",
+      "value": "Saved on this device"
+    },
+    {
+      "name": "review_alternative",
+      "value": "Saved version {0}"
+    },
+    {
+      "name": "review_step",
+      "value": "{0} of {1}"
+    },
+    {
+      "name": "review_previous",
+      "value": "Previous"
+    },
+    {
+      "name": "review_next",
+      "value": "Next"
+    },
+    {
+      "name": "review_save",
+      "value": "Save choices"
+    },
+    {
+      "name": "review_later",
+      "value": "Decide later"
+    },
+    {
+      "name": "review_reload",
+      "value": "Reload saved changes"
+    },
+    {
+      "name": "review_working",
+      "value": "Please wait…"
+    },
+    {
+      "name": "review_success",
+      "value": "Your decision has been saved."
+    },
+    {
+      "name": "review_none",
+      "value": "No changes need review."
+    },
+    {
+      "name": "review_waiting",
+      "value": "Waiting for complete data"
+    },
+    {
+      "name": "review_incomplete",
+      "value": "Some received data is incomplete or cannot be verified. Your last complete data is kept and can be viewed. Choosing a version cannot safely fix this yet. You can return and use other Deadlines; keep the app data and do not reinstall."
+    },
+    {
+      "name": "review_load_failed",
+      "value": "Could not load the saved changes. Your data is kept. Try loading again."
+    },
+    {
+      "name": "review_save_failed",
+      "value": "Your choices were not saved. The previous complete data and versions are kept. Retry, or choose a different combination if the task structure does not fit."
+    },
+    {
+      "name": "review_changed",
+      "value": "New changes arrived while you were deciding. Nothing was overwritten. Reload and choose again."
+    },
+    {
+      "name": "review_removed",
+      "value": "Deletion applied"
+    },
+    {
+      "name": "review_deleted_explanation",
+      "value": "This Deadline was deleted while another version was being edited. The deletion is kept, including its tasks, so older edits cannot bring it back. The edits remain saved in the records."
+    },
+    {
+      "name": "review_tasks_deleted_explanation",
+      "value": "These tasks were deleted while another version was being edited. The deletion is kept, including subtasks. Older edits cannot restore them. The rest of this Deadline remains available."
+    },
+    {
+      "name": "review_understood",
+      "value": "Understood"
+    },
+    {
+      "name": "review_tree_choice",
+      "value": "Choose one complete task list. Only the selected list will remain; tasks absent from it will stay removed. Other safe changes will be kept."
+    },
+    {
+      "name": "review_show_tasks",
+      "value": "Show full task list"
+    },
+    {
+      "name": "review_collapse",
+      "value": "Collapse"
+    },
+    {
+      "name": "review_task_count",
+      "value": "{0} tasks"
+    },
+    {
+      "name": "review_task_position",
+      "value": "Position {0}"
+    },
+    {
+      "name": "review_root_task",
+      "value": "Top-level task"
+    },
+    {
+      "name": "review_other_task",
+      "value": "Another parent task"
+    },
+    {
+      "name": "review_unfinished",
+      "value": "Not completed"
+    },
+    {
+      "name": "review_unknown",
+      "value": "Remaining work unknown"
+    },
+    {
+      "name": "review_hours",
+      "value": "About {0} hours"
+    },
+    {
+      "name": "review_initial",
+      "value": "Initial estimate, not a new confirmation"
+    },
+    {
+      "name": "review_confirmed_at",
+      "value": "Confirmed: {0}"
+    },
+    {
+      "name": "review_auto",
+      "value": "Automatic task progress"
+    },
+    {
+      "name": "review_manual",
+      "value": "Manual progress"
+    },
+    {
+      "name": "review_percent",
+      "value": "Manual progress: {0}%"
+    },
+    {
+      "name": "review_no_reminder",
+      "value": "No reminder"
+    },
+    {
+      "name": "review_reminder_minutes",
+      "value": "{0} minutes before the deadline"
+    },
+    {
+      "name": "review_empty",
+      "value": "Empty"
+    },
+    {
+      "name": "review_field_name",
+      "value": "Name"
+    },
+    {
+      "name": "review_field_due",
+      "value": "Deadline"
+    },
+    {
+      "name": "review_field_remaining",
+      "value": "Current remaining work"
+    },
+    {
+      "name": "review_field_task",
+      "value": "Task"
+    },
+    {
+      "name": "review_field_tasks",
+      "value": "Task list"
+    },
+    {
+      "name": "review_field_type",
+      "value": "Type"
+    },
+    {
+      "name": "review_field_note",
+      "value": "Notes"
+    },
+    {
+      "name": "review_field_created",
+      "value": "Created"
+    },
+    {
+      "name": "review_field_completed",
+      "value": "Completion status"
+    },
+    {
+      "name": "review_field_total",
+      "value": "Initial total work"
+    },
+    {
+      "name": "review_field_mode",
+      "value": "Progress mode"
+    },
+    {
+      "name": "review_field_progress",
+      "value": "Manual progress"
+    },
+    {
+      "name": "review_field_reminder",
+      "value": "Reminder"
+    },
+    {
+      "name": "review_upgrade",
+      "value": "Update Dayline on your other devices before syncing again. Older edits have not replaced your saved data. Keep the original devices and their data, then update and try again."
+    },
+    {
+      "name": "cloud_legacy_pending",
+      "value": "Some older data could not yet be imported safely. Your saved data is still available. Keep your original devices and update Dayline."
+    },
+    {
+      "name": "overdue_pending",
+      "value": "已逾期 · 需要处理"
+    },
+    {
+      "name": "overdue_continue",
+      "value": "已逾期 · 继续完成"
+    },
+    {
+      "name": "overdue_stopped",
+      "value": "不再追踪"
+    },
+    {
+      "name": "overdue_no_forecast",
+      "value": "原截止时间已过。调整截止时间后才能重新倒排，不预测仍能按时完成。"
+    },
+    {
+      "name": "overdue_capacity_unknown",
+      "value": "仍有逾期项目继续进行，但没有新的截止时间。暂不能判断所有工作能否按时完成。"
+    },
+    {
+      "name": "overdue_continue_reason",
+      "value": "原截止时间已过，仍可推进任务；暂不预测完工时间。"
+    },
+    {
+      "name": "overdue_review_action",
+      "value": "处理已逾期的「{0}」"
+    },
+    {
+      "name": "overdue_choose_hint",
+      "value": "决定是否继续，或调整截止时间。"
+    },
+    {
+      "name": "overdue_continue_button",
+      "value": "继续完成"
+    },
+    {
+      "name": "overdue_edit_button",
+      "value": "调整截止时间"
+    },
+    {
+      "name": "overdue_stop_button",
+      "value": "不再追踪"
+    },
+    {
+      "name": "overdue_reconsider_button",
+      "value": "重新处理"
+    },
+    {
+      "name": "overdue_stopped_hint",
+      "value": "本机不再推荐此项目。原记录与任务保留，可以重新处理。"
+    },
+    {
+      "name": "overdue_save_failed",
+      "value": "选择未保存，原记录仍在。请重试。"
+    },
+    {
+      "name": "overdue_less_hour",
+      "value": "逾期不足 1 小时"
+    },
+    {
+      "name": "overdue_hours_one",
+      "value": "已逾期 {0} 小时"
+    },
+    {
+      "name": "overdue_hours_other",
+      "value": "已逾期 {0} 小时"
+    },
+    {
+      "name": "overdue_days_one",
+      "value": "已逾期 {0} 天"
+    },
+    {
+      "name": "overdue_days_other",
+      "value": "已逾期 {0} 天"
+    },
+    {
+      "name": "overdue_complete_button",
+      "value": "标记完成"
+    },
+    {
+      "name": "overdue_no_actions",
+      "value": "今天没有待推荐的行动。保留的项目可在全部 Deadline 中查看。"
+    },
+    {
+      "name": "overdue_decide_label",
+      "value": "需要处理"
+    },
+    {
+      "name": "validation_time_past",
+      "value": "这个时间已过去，请选择未来的截止时间。输入内容已保留。"
+    },
+    {
+      "name": "validation_time_missing",
+      "value": "这一天没有所选时间，请选择另一个时间。"
+    },
+    {
+      "name": "validation_time_ambiguous",
+      "value": "这一天所选时间会出现两次，请选择不重复的时间。"
+    },
+    {"name": "cloud_release_unavailable", "value": "Cloud sync is not available yet. Your saved data remains usable on this device."},
+    {"name": "notification_delivery_notice", "value": "Reminder delivery depends on system permission, the device and background scheduling. Check due dates in the app."},
+    {"name": "experience_today", "value": "Today"},
+    {"name": "experience_deadlines", "value": "Deadlines"},
+    {"name": "experience_now", "value": "Start with this"},
+    {"name": "experience_start", "value": "Start here"},
+    {"name": "experience_decide", "value": "Decide what to do"},
+    {"name": "experience_after", "value": "After that"},
+    {"name": "experience_upcoming", "value": "The next few days"},
+    {"name": "experience_objects_hint", "value": "Open a deadline to pick up where you left off."},
+    {"name": "experience_planned_today", "value": "About {0} hr scheduled today"},
+    {"name": "experience_partial_plan", "value": "some estimates still need checking"},
+    {"name": "experience_hours_pending", "value": "Today’s hours need an estimate"},
+    {"name": "experience_short_plan", "value": "A short work session is scheduled"},
+    {"name": "experience_action", "value": "Action"},
+    {"name": "experience_plan", "value": "Workload & plan"},
+    {"name": "experience_calibrate", "value": "Re-estimate"},
+    {"name": "experience_calibration_hint", "value": "When your judgment changes, check how much time you still need. No daily time log required."},
+    {"name": "experience_record", "value": "Deadline details"},
+    {"name": "experience_task_count", "value": "Tasks: {0} / {1} done"},
+    {"name": "experience_name", "value": "What needs doing?"},
+    {"name": "experience_due", "value": "When is it due?"},
+    {"name": "experience_tomorrow", "value": "Tomorrow"},
+    {"name": "experience_due_clock", "value": "Due at {0} · Change"},
+    {"name": "experience_add_details", "value": "Add workload or tasks (optional)"},
+    {"name": "experience_hide_details", "value": "Hide optional details"},
+    {"name": "experience_create_hint", "value": "A name and due date are enough to start."},
+    {"name": "experience_created", "value": "Saved: {0}"},
+    {"name": "experience_pending_task", "value": "Add the task you are typing, or clear it before saving."},
+    {"name": "experience_task_options", "value": "Tasks & progress"},
+    {"name": "experience_advanced_options", "value": "Type, reminders & notes"},
+    {"name": "experience_empty_title", "value": "Today starts with one thing."},
+    {"name": "experience_empty_body", "value": "What is the next thing you need to hand in or finish?"},
+    {"name": "experience_remaining", "value": "About {0} hr left"},
+    {"name": "experience_unsaved", "value": "Changes not saved"}
+  ]
+}

@@ -1,0 +1,388 @@
+{
+    "string":  [
+                   {
+                       "name":  "module_desc",
+                       "value":  "Dayline Deadline 进度与风险管理"
+                   },
+                   {
+                       "name":  "EntryAbility_desc",
+                       "value":  "管理 Deadline、进度与今日行动"
+                   },
+                   {
+                       "name":  "EntryAbility_label",
+                       "value":  "Dayline"
+                   },
+                   {
+                       "name":  "data_sync_permission_reason",
+                       "value":  "用于登录后通过华为云空间同步 Deadline 和任务数据"
+                   },
+                   {
+                       "name":  "common_back",
+                       "value":  "返回"
+                   },
+                   {
+                       "name":  "common_retry",
+                       "value":  "重新加载"
+                   },
+                   {
+                       "name":  "common_save",
+                       "value":  "保存"
+                   },
+                   {
+                       "name":  "common_saving",
+                       "value":  "正在保存…"
+                   },
+                   {
+                       "name":  "common_cancel",
+                       "value":  "取消"
+                   },
+                   {
+                       "name":  "common_add",
+                       "value":  "添加"
+                   },
+                   {
+                       "name":  "common_edit",
+                       "value":  "编辑"
+                   },
+                   {
+                       "name":  "common_delete",
+                       "value":  "删除"
+                   },
+                   {
+                       "name":  "common_completed",
+                       "value":  "已完成"
+                   },
+                   {
+                       "name":  "common_incomplete",
+                       "value":  "未完成"
+                   },
+                   {
+                       "name":  "common_overdue",
+                       "value":  "已过期"
+                   },
+                   {
+                       "name":  "common_today",
+                       "value":  "今天"
+                   },
+                   {
+                       "name":  "common_tomorrow",
+                       "value":  "明天"
+                   },
+                   {
+                       "name":  "common_hours_value",
+                       "value":  "%s 小时"
+                   },
+                   {
+                       "name":  "common_status_unavailable",
+                       "value":  "状态暂不可用 · 点击查看"
+                   },
+                   {
+                       "name":  "common_error_retry",
+                       "value":  "暂时无法完成，请稍后重试"
+                   },
+                   {
+                       "name":  "core_deadline",
+                       "value":  "Deadline"
+                   },
+                   {
+                       "name":  "core_today_action",
+                       "value":  "今日行动"
+                   },
+                   {
+                       "name":  "core_automatic_progress",
+                       "value":  "自动进度"
+                   },
+                   {
+                       "name":  "core_manual_progress",
+                       "value":  "手动进度"
+                   },
+                   {
+                       "name":  "core_risk_level",
+                       "value":  "风险等级"
+                   },
+                   {
+                       "name":  "core_reverse_plan",
+                       "value":  "自动倒排"
+                   },
+                   {
+                       "name":  "core_replan",
+                       "value":  "计划重排"
+                   },
+                   {
+                       "name":  "core_remaining_work",
+                       "value":  "剩余工作量"
+                   },
+                   {
+                       "name":  "core_available_time",
+                       "value":  "可投入时间"
+                   },
+                   {
+                       "name":  "core_notification_policy",
+                       "value":  "通知策略"
+                   },
+                   {
+                       "name":  "core_cloud_sync",
+                       "value":  "云同步"
+                   },
+                   {
+                       "name":  "settings_title",
+                       "value":  "设置"
+                   },
+                   {
+                       "name":  "settings_subtitle",
+                       "value":  "按你的习惯使用 Dayline"
+                   },
+                   {
+                       "name":  "settings_loading",
+                       "value":  "正在读取设置…"
+                   },
+                   {
+                       "name":  "settings_save_failed",
+                       "value":  "设置没有保存成功，请稍后重试"
+                   },
+                   {
+                       "name":  "settings_account_title",
+                       "value":  "账户与云同步"
+                   },
+                   {
+                       "name":  "settings_account_desc",
+                       "value":  "不登录也可以正常使用，数据默认留在当前设备。"
+                   },
+                   {
+                       "name":  "settings_huawei_account",
+                       "value":  "华为账号与云同步"
+                   },
+                   {
+                       "name":  "settings_signed_out",
+                       "value":  "未登录 · 数据保存在本机"
+                   },
+                   {
+                       "name":  "settings_sync_waiting",
+                       "value":  "已登录 · 等待同步"
+                   },
+                   {
+                       "name":  "settings_sync_ok",
+                       "value":  "已登录 · 云同步正常"
+                   },
+                   {
+                       "name":  "settings_local_data",
+                       "value":  "数据保存在本机"
+                   },
+                   {
+                       "name":  "settings_open_account_failed",
+                       "value":  "暂时无法打开账号与云同步"
+                   },
+                   {
+                       "name":  "settings_appearance",
+                       "value":  "外观"
+                   },
+                   {
+                       "name":  "settings_appearance_desc",
+                       "value":  "默认跟随系统，也可以固定为浅色或深色。"
+                   },
+                   {
+                       "name":  "settings_theme_system",
+                       "value":  "跟随系统"
+                   },
+                   {
+                       "name":  "settings_theme_light",
+                       "value":  "浅色"
+                   },
+                   {
+                       "name":  "settings_theme_dark",
+                       "value":  "深色"
+                   },
+                   {
+                       "name":  "settings_language_region",
+                       "value":  "语言与地区"
+                   },
+                   {
+                       "name":  "settings_language_desc",
+                       "value":  "切换后 Dayline 会重新打开并加载完整的本地化内容。"
+                   },
+                   {
+                       "name":  "settings_app_language",
+                       "value":  "应用语言"
+                   },
+                   {
+                       "name":  "settings_language_saved_restart",
+                       "value":  "语言已保存，下次打开 Dayline 时生效"
+                   },
+                   {
+                       "name":  "settings_language_save_failed",
+                       "value":  "语言设置没有保存成功，请稍后重试"
+                   },
+                   {
+                       "name":  "settings_notifications",
+                       "value":  "通知与提醒"
+                   },
+                   {
+                       "name":  "settings_notifications_desc",
+                       "value":  "截止提醒、每日行动摘要和免打扰集中在这里管理。"
+                   },
+                   {
+                       "name":  "settings_open_notifications_failed",
+                       "value":  "暂时无法打开通知设置"
+                   },
+                   {
+                       "name":  "settings_permission_on",
+                       "value":  "系统通知已开启"
+                   },
+                   {
+                       "name":  "settings_permission_off",
+                       "value":  "系统通知未开启"
+                   },
+                   {
+                       "name":  "settings_intensity_concise",
+                       "value":  "精简提醒"
+                   },
+                   {
+                       "name":  "settings_intensity_standard",
+                       "value":  "标准提醒"
+                   },
+                   {
+                       "name":  "settings_intensity_active",
+                       "value":  "积极提醒"
+                   },
+                   {
+                       "name":  "settings_intensity_custom",
+                       "value":  "自定义提醒"
+                   },
+                   {
+                       "name":  "settings_tasks_plans",
+                       "value":  "任务与计划"
+                   },
+                   {
+                       "name":  "settings_tasks_desc",
+                       "value":  "默认进度模式只影响新建；可投入时间会立即用于风险和倒排计算。"
+                   },
+                   {
+                       "name":  "settings_default_progress",
+                       "value":  "默认进度"
+                   },
+                   {
+                       "name":  "settings_progress_hint",
+                       "value":  "自动进度适合需要拆解的作业或项目；简单事项使用手动进度更省步骤。"
+                   },
+                   {
+                       "name":  "settings_weekday",
+                       "value":  "平日"
+                   },
+                   {
+                       "name":  "settings_weekend",
+                       "value":  "周末"
+                   },
+                   {
+                       "name":  "settings_time_hint",
+                       "value":  "不用逐日维护。Dayline 会按实际星期分配工作量，今天剩余时间也会纳入判断。"
+                   },
+                   {
+                       "name":  "settings_home_schedule",
+                       "value":  "首页展示自动倒排"
+                   },
+                   {
+                       "name":  "settings_home_schedule_desc",
+                       "value":  "关闭后详情页中的完整计划仍会保留。"
+                   },
+                   {
+                       "name":  "settings_default_deadline_time",
+                       "value":  "默认截止时间"
+                   },
+                   {
+                       "name":  "settings_default_deadline_time_desc",
+                       "value":  "仅作为新建时的默认值，仍可单独修改。"
+                   },
+                   {
+                       "name":  "settings_privacy",
+                       "value":  "数据与隐私"
+                   },
+                   {
+                       "name":  "settings_privacy_desc",
+                       "value":  "Deadline、任务和设置保存在本机。本版本不提供账号登录或应用云同步。若设备开启系统备份，系统可能备份应用数据，具体取决于设备设置。通知是可选的，关闭通知不影响本地使用。卸载或清除应用数据可能丢失记录。"
+                   },
+                   {
+                       "name":  "settings_privacy_local",
+                       "value":  "Dayline 无需登录即可完整使用本地功能。"
+                   },
+                   {
+                       "name":  "settings_about_tagline",
+                       "value":  "把截止日期变成今天可执行的计划"
+                   },
+                   {
+                       "name":  "settings_version",
+                       "value":  "版本 1.0.0"
+                   },
+                   {
+                       "name":  "settings_preferences",
+                       "value":  "偏好设置"
+                   },
+                   {
+                       "name":  "settings_general",
+                       "value":  "通用"
+                   },
+                   {
+                       "name":  "settings_appearance_language",
+                       "value":  "外观与语言"
+                   },
+                   {
+                       "name":  "settings_language_system",
+                       "value":  "跟随系统"
+                   },
+                   {
+                       "name":  "settings_summary_pair",
+                       "value":  "{0} · {1}"
+                   },
+                   {
+                       "name":  "settings_hours_day",
+                       "value":  "每天 {0} 小时"
+                   },
+                   {
+                       "name":  "settings_open_appearance_failed",
+                       "value":  "无法打开外观与语言设置"
+                   },
+                   {
+                       "name":  "settings_open_planning_failed",
+                       "value":  "无法打开任务与计划设置"
+                   },
+                   {
+                       "name":  "settings_privacy_summary",
+                       "value":  "保存在本机；系统备份取决于设备设置"
+                   },
+                   {
+                       "name":  "settings_about",
+                       "value":  "关于 Dayline"
+                   },
+                   {
+                       "name":  "settings_planning_defaults",
+                       "value":  "默认设置"
+                   },
+                   {
+                       "name":  "settings_planning_time",
+                       "value":  "可投入时间"
+                   },
+                   {
+                       "name":  "settings_planning_home",
+                       "value":  "首页"
+                   },
+                   {
+                       "name":  "common_days_value",
+                       "value":  "%s 天"
+                   },
+                   {
+                       "name":  "common_items_value",
+                       "value":  "%s 项"
+                   },
+                   {
+                       "name":  "create_more_options",
+                       "value":  "更多选项（可选）"
+                   },
+                   {
+                       "name":  "create_fewer_options",
+                       "value":  "收起选项"
+                   },
+    {"name": "common_undo", "value": "撤销"},
+    {"name": "detail_more_info", "value": "查看计划与详情"},
+    {"name": "detail_less_info", "value": "收起详情"},
+    {"name": "detail_workload_summary", "value": "工作量估计"}
+]
+}

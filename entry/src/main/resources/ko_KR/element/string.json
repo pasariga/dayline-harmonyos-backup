@@ -1,0 +1,388 @@
+{
+    "string":  [
+                   {
+                       "name":  "module_desc",
+                       "value":  "Dayline 마감·진행률·위험 관리"
+                   },
+                   {
+                       "name":  "EntryAbility_desc",
+                       "value":  "마감, 진행률, 오늘의 우선순위 관리"
+                   },
+                   {
+                       "name":  "EntryAbility_label",
+                       "value":  "Dayline"
+                   },
+                   {
+                       "name":  "data_sync_permission_reason",
+                       "value":  "로그인 후 마감과 작업을 HUAWEI Cloud에 동기화합니다"
+                   },
+                   {
+                       "name":  "common_back",
+                       "value":  "뒤로"
+                   },
+                   {
+                       "name":  "common_retry",
+                       "value":  "다시 불러오기"
+                   },
+                   {
+                       "name":  "common_save",
+                       "value":  "저장"
+                   },
+                   {
+                       "name":  "common_saving",
+                       "value":  "저장 중…"
+                   },
+                   {
+                       "name":  "common_cancel",
+                       "value":  "취소"
+                   },
+                   {
+                       "name":  "common_add",
+                       "value":  "추가"
+                   },
+                   {
+                       "name":  "common_edit",
+                       "value":  "편집"
+                   },
+                   {
+                       "name":  "common_delete",
+                       "value":  "삭제"
+                   },
+                   {
+                       "name":  "common_completed",
+                       "value":  "완료"
+                   },
+                   {
+                       "name":  "common_incomplete",
+                       "value":  "미완료"
+                   },
+                   {
+                       "name":  "common_overdue",
+                       "value":  "기한 지남"
+                   },
+                   {
+                       "name":  "common_today",
+                       "value":  "오늘"
+                   },
+                   {
+                       "name":  "common_tomorrow",
+                       "value":  "내일"
+                   },
+                   {
+                       "name":  "common_hours_value",
+                       "value":  "%s시간"
+                   },
+                   {
+                       "name":  "common_status_unavailable",
+                       "value":  "상태를 확인할 수 없음 · 탭하여 보기"
+                   },
+                   {
+                       "name":  "common_error_retry",
+                       "value":  "처리하지 못했습니다. 잠시 후 다시 시도하세요."
+                   },
+                   {
+                       "name":  "core_deadline",
+                       "value":  "마감"
+                   },
+                   {
+                       "name":  "core_today_action",
+                       "value":  "오늘 할 일"
+                   },
+                   {
+                       "name":  "core_automatic_progress",
+                       "value":  "작업 기반 진행률"
+                   },
+                   {
+                       "name":  "core_manual_progress",
+                       "value":  "수동 진행률"
+                   },
+                   {
+                       "name":  "core_risk_level",
+                       "value":  "위험도"
+                   },
+                   {
+                       "name":  "core_reverse_plan",
+                       "value":  "자동 일정"
+                   },
+                   {
+                       "name":  "core_replan",
+                       "value":  "일정 재조정"
+                   },
+                   {
+                       "name":  "core_remaining_work",
+                       "value":  "남은 작업량"
+                   },
+                   {
+                       "name":  "core_available_time",
+                       "value":  "투입 가능 시간"
+                   },
+                   {
+                       "name":  "core_notification_policy",
+                       "value":  "알림 정책"
+                   },
+                   {
+                       "name":  "core_cloud_sync",
+                       "value":  "클라우드 동기화"
+                   },
+                   {
+                       "name":  "settings_title",
+                       "value":  "설정"
+                   },
+                   {
+                       "name":  "settings_subtitle",
+                       "value":  "Dayline을 내 방식에 맞게"
+                   },
+                   {
+                       "name":  "settings_loading",
+                       "value":  "설정을 불러오는 중…"
+                   },
+                   {
+                       "name":  "settings_save_failed",
+                       "value":  "설정을 저장하지 못했습니다. 잠시 후 다시 시도하세요."
+                   },
+                   {
+                       "name":  "settings_account_title",
+                       "value":  "계정 및 동기화"
+                   },
+                   {
+                       "name":  "settings_account_desc",
+                       "value":  "로그인은 선택 사항이며 데이터는 기본적으로 이 기기에 저장됩니다."
+                   },
+                   {
+                       "name":  "settings_huawei_account",
+                       "value":  "HUAWEI ID 및 클라우드 동기화"
+                   },
+                   {
+                       "name":  "settings_signed_out",
+                       "value":  "로그인 안 함 · 이 기기에 저장"
+                   },
+                   {
+                       "name":  "settings_sync_waiting",
+                       "value":  "로그인됨 · 동기화 대기"
+                   },
+                   {
+                       "name":  "settings_sync_ok",
+                       "value":  "로그인됨 · 동기화 완료"
+                   },
+                   {
+                       "name":  "settings_local_data",
+                       "value":  "이 기기에 저장"
+                   },
+                   {
+                       "name":  "settings_open_account_failed",
+                       "value":  "계정 및 동기화 설정을 열 수 없습니다"
+                   },
+                   {
+                       "name":  "settings_appearance",
+                       "value":  "화면 모드"
+                   },
+                   {
+                       "name":  "settings_appearance_desc",
+                       "value":  "기기 테마를 따르거나 라이트/다크 모드를 고정할 수 있습니다."
+                   },
+                   {
+                       "name":  "settings_theme_system",
+                       "value":  "기기 설정 사용"
+                   },
+                   {
+                       "name":  "settings_theme_light",
+                       "value":  "라이트"
+                   },
+                   {
+                       "name":  "settings_theme_dark",
+                       "value":  "다크"
+                   },
+                   {
+                       "name":  "settings_language_region",
+                       "value":  "언어 및 지역"
+                   },
+                   {
+                       "name":  "settings_language_desc",
+                       "value":  "선택한 언어를 전체에 적용하기 위해 Dayline이 다시 시작됩니다."
+                   },
+                   {
+                       "name":  "settings_app_language",
+                       "value":  "앱 언어"
+                   },
+                   {
+                       "name":  "settings_language_saved_restart",
+                       "value":  "언어를 저장했습니다. 다음 실행부터 적용됩니다."
+                   },
+                   {
+                       "name":  "settings_language_save_failed",
+                       "value":  "언어 설정을 저장하지 못했습니다. 잠시 후 다시 시도하세요."
+                   },
+                   {
+                       "name":  "settings_notifications",
+                       "value":  "알림"
+                   },
+                   {
+                       "name":  "settings_notifications_desc",
+                       "value":  "마감 알림, 일일 요약, 방해 금지 시간을 관리합니다."
+                   },
+                   {
+                       "name":  "settings_open_notifications_failed",
+                       "value":  "알림 설정을 열 수 없습니다"
+                   },
+                   {
+                       "name":  "settings_permission_on",
+                       "value":  "시스템 알림 켜짐"
+                   },
+                   {
+                       "name":  "settings_permission_off",
+                       "value":  "시스템 알림 꺼짐"
+                   },
+                   {
+                       "name":  "settings_intensity_concise",
+                       "value":  "필수만"
+                   },
+                   {
+                       "name":  "settings_intensity_standard",
+                       "value":  "표준"
+                   },
+                   {
+                       "name":  "settings_intensity_active",
+                       "value":  "적극적"
+                   },
+                   {
+                       "name":  "settings_intensity_custom",
+                       "value":  "사용자 설정"
+                   },
+                   {
+                       "name":  "settings_tasks_plans",
+                       "value":  "작업 및 계획"
+                   },
+                   {
+                       "name":  "settings_tasks_desc",
+                       "value":  "진행률 기본값은 새 마감에만 적용됩니다. 투입 가능 시간은 위험도와 일정에 즉시 반영됩니다."
+                   },
+                   {
+                       "name":  "settings_default_progress",
+                       "value":  "기본 진행 방식"
+                   },
+                   {
+                       "name":  "settings_progress_hint",
+                       "value":  "큰 과제는 작업 기반 진행률이, 간단한 일정은 수동 진행률이 더 편합니다."
+                   },
+                   {
+                       "name":  "settings_weekday",
+                       "value":  "평일"
+                   },
+                   {
+                       "name":  "settings_weekend",
+                       "value":  "주말"
+                   },
+                   {
+                       "name":  "settings_time_hint",
+                       "value":  "매일 입력할 필요 없이 요일과 오늘 남은 시간에 맞춰 배분합니다."
+                   },
+                   {
+                       "name":  "settings_home_schedule",
+                       "value":  "홈에 자동 일정 표시"
+                   },
+                   {
+                       "name":  "settings_home_schedule_desc",
+                       "value":  "꺼도 상세 화면에서 전체 일정을 볼 수 있습니다."
+                   },
+                   {
+                       "name":  "settings_default_deadline_time",
+                       "value":  "기본 마감 시각"
+                   },
+                   {
+                       "name":  "settings_default_deadline_time_desc",
+                       "value":  "새로 만들 때만 사용되며 매번 바꿀 수 있습니다."
+                   },
+                   {
+                       "name":  "settings_privacy",
+                       "value":  "데이터 및 개인정보"
+                   },
+                   {
+                       "name":  "settings_privacy_desc",
+                       "value":  "Deadline, 작업, 설정은 이 기기에 저장됩니다. 이 버전에서는 계정 로그인이나 앱 클라우드 동기화를 제공하지 않습니다. 시스템 백업이 켜져 있으면 기기 설정에 따라 앱 데이터가 백업될 수 있습니다. 알림은 선택 사항이며 꺼도 기기 내 사용에는 영향이 없습니다. 앱을 삭제하거나 데이터를 지우면 기록이 사라질 수 있습니다."
+                   },
+                   {
+                       "name":  "settings_privacy_local",
+                       "value":  "로그인하지 않아도 모든 오프라인 기능을 사용할 수 있습니다."
+                   },
+                   {
+                       "name":  "settings_about_tagline",
+                       "value":  "마감일을 오늘의 실행 계획으로"
+                   },
+                   {
+                       "name":  "settings_version",
+                       "value":  "버전 1.0.0"
+                   },
+                   {
+                       "name":  "settings_preferences",
+                       "value":  "환경설정"
+                   },
+                   {
+                       "name":  "settings_general",
+                       "value":  "일반"
+                   },
+                   {
+                       "name":  "settings_appearance_language",
+                       "value":  "화면 및 언어"
+                   },
+                   {
+                       "name":  "settings_language_system",
+                       "value":  "시스템 설정 따르기"
+                   },
+                   {
+                       "name":  "settings_summary_pair",
+                       "value":  "{0} · {1}"
+                   },
+                   {
+                       "name":  "settings_hours_day",
+                       "value":  "하루 {0}시간"
+                   },
+                   {
+                       "name":  "settings_open_appearance_failed",
+                       "value":  "화면 및 언어 설정을 열 수 없습니다"
+                   },
+                   {
+                       "name":  "settings_open_planning_failed",
+                       "value":  "작업 및 계획 설정을 열 수 없습니다"
+                   },
+                   {
+                       "name":  "settings_privacy_summary",
+                       "value":  "기기에 저장 · 시스템 백업은 기기 설정에 따름"
+                   },
+                   {
+                       "name":  "settings_about",
+                       "value":  "Dayline 정보"
+                   },
+                   {
+                       "name":  "settings_planning_defaults",
+                       "value":  "기본값"
+                   },
+                   {
+                       "name":  "settings_planning_time",
+                       "value":  "사용 가능 시간"
+                   },
+                   {
+                       "name":  "settings_planning_home",
+                       "value":  "홈"
+                   },
+                   {
+                       "name":  "common_days_value",
+                       "value":  "%s일"
+                   },
+                   {
+                       "name":  "common_items_value",
+                       "value":  "%s개"
+                   },
+                   {
+                       "name":  "create_more_options",
+                       "value":  "추가 옵션(선택)"
+                   },
+                   {
+                       "name":  "create_fewer_options",
+                       "value":  "옵션 접기"
+                   },
+    {"name": "common_undo", "value": "실행 취소"},
+    {"name": "detail_more_info", "value": "계획 및 세부 정보"},
+    {"name": "detail_less_info", "value": "세부 정보 접기"},
+    {"name": "detail_workload_summary", "value": "예상 작업량"}
+]
+}

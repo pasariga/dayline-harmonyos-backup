@@ -1,0 +1,1751 @@
+{
+  "string": [
+    {
+      "name": "common_enabled",
+      "value": "Activado"
+    },
+    {
+      "name": "common_disabled",
+      "value": "Desactivado"
+    },
+    {
+      "name": "common_remove",
+      "value": "Quitar"
+    },
+    {
+      "name": "common_updating",
+      "value": "Actualizando…"
+    },
+    {
+      "name": "common_about_hours",
+      "value": "Unas {0} h"
+    },
+    {
+      "name": "common_hours_short",
+      "value": "{0} h"
+    },
+    {
+      "name": "work_remaining_hours",
+      "value": "Quedan {0} h"
+    },
+    {
+      "name": "work_not_estimated",
+      "value": "Esfuerzo sin estimar"
+    },
+    {
+      "name": "progress_auto_pending_meta",
+      "value": "Automático · Por desglosar · {0}"
+    },
+    {
+      "name": "progress_meta",
+      "value": "{0} {1} % · {2}"
+    },
+    {
+      "name": "later_with_hours",
+      "value": "{0} · Quedan {1} h"
+    },
+    {
+      "name": "later_low_risk",
+      "value": "{0} · Riesgo bajo por ahora"
+    },
+    {
+      "name": "deadline_card_due",
+      "value": "{0} · Vence {1}"
+    },
+    {
+      "name": "task_breakdown_mark",
+      "value": "Plan"
+    },
+    {
+      "name": "schedule_flex_buffer",
+      "value": "Flexible / margen"
+    },
+    {
+      "name": "schedule_open_day",
+      "value": "No hay nada fijo. Aprovecha para ponerte al día, repasar o descansar."
+    },
+    {
+      "name": "schedule_more_items_one",
+      "value": "Se incluye 1 elemento más en la carga de hoy"
+    },
+    {
+      "name": "schedule_more_items_other",
+      "value": "Se incluyen {0} elementos más en la carga de hoy"
+    },
+    {
+      "name": "home_empty_tagline",
+      "value": "No solo cuándo vence: también qué hacer hoy"
+    },
+    {
+      "name": "home_empty_progress_desc",
+      "value": "Completa tareas y deja que el progreso total se actualice solo"
+    },
+    {
+      "name": "home_empty_risk_title",
+      "value": "Riesgo de retraso"
+    },
+    {
+      "name": "home_empty_risk_desc",
+      "value": "Detecta riesgos con tiempo según el trabajo pendiente"
+    },
+    {
+      "name": "home_empty_action_desc",
+      "value": "Planifica desde la fecha límite y destaca el siguiente paso de hoy"
+    },
+    {
+      "name": "home_empty_hint",
+      "value": "Empieza por tu próxima entrega, examen o proyecto"
+    },
+    {
+      "name": "home_action_count_one",
+      "value": "1 sugerencia para hoy"
+    },
+    {
+      "name": "home_action_count_other",
+      "value": "{0} sugerencias para hoy"
+    },
+    {
+      "name": "home_overall_progress",
+      "value": "Plazos completados {0}%"
+    },
+    {
+      "name": "home_deadline_count_one",
+      "value": "1 plazo"
+    },
+    {
+      "name": "home_deadline_count_other",
+      "value": "{0} plazos"
+    },
+    {
+      "name": "home_other_risks",
+      "value": "Otros riesgos"
+    },
+    {
+      "name": "home_risk_count_one",
+      "value": "1 requiere atención"
+    },
+    {
+      "name": "home_risk_count_other",
+      "value": "{0} requieren atención"
+    },
+    {
+      "name": "home_later_hint",
+      "value": "Reserva tu atención para lo más urgente"
+    },
+    {
+      "name": "home_sorted_by_risk",
+      "value": "Mayor riesgo primero"
+    },
+    {
+      "name": "home_first_items",
+      "value": "Primeros {0} elementos"
+    },
+    {
+      "name": "home_collapse_list",
+      "value": "Ver menos"
+    },
+    {
+      "name": "home_view_all_one",
+      "value": "Ver 1 elemento"
+    },
+    {
+      "name": "home_view_all_other",
+      "value": "Ver los {0}"
+    },
+    {
+      "name": "notification_permission_prompt_title",
+      "value": "¿Activar recordatorios?"
+    },
+    {
+      "name": "notification_permission_prompt_body",
+      "value": "Dayline puede avisarte cuando se acerque un plazo. ¿Activar las notificaciones del sistema?"
+    },
+    {
+      "name": "notification_not_now",
+      "value": "Ahora no"
+    },
+    {
+      "name": "notification_enable",
+      "value": "Activar notificaciones"
+    },
+    {
+      "name": "task_edit_name_hint",
+      "value": "Editar nombre de la tarea"
+    },
+    {
+      "name": "task_add_to_hint",
+      "value": "Añadir debajo de «{0}»"
+    },
+    {
+      "name": "task_add_top_hint",
+      "value": "Añadir tarea principal"
+    },
+    {
+      "name": "task_remove_title",
+      "value": "Quitar tarea"
+    },
+    {
+      "name": "task_remove_children_confirm_one",
+      "value": "¿Quitar «{1}» y su subtarea?"
+    },
+    {
+      "name": "task_remove_children_confirm_other",
+      "value": "¿Quitar «{1}» y sus {0} subtareas?"
+    },
+    {
+      "name": "task_remove_confirm",
+      "value": "¿Quitar «{0}»?"
+    },
+    {
+      "name": "validation_name_required",
+      "value": "Escribe un nombre"
+    },
+    {
+      "name": "validation_date_required",
+      "value": "Elige una fecha límite"
+    },
+    {
+      "name": "validation_hours_range",
+      "value": "Indica un esfuerzo válido entre 0 y 10.000 horas"
+    },
+    {
+      "name": "tasks_empty_save_later",
+      "value": "Aún no hay tareas. Puedes añadirlas después."
+    },
+    {
+      "name": "tasks_created_progress_one",
+      "value": "1 tarea · Progreso automático {1} %"
+    },
+    {
+      "name": "tasks_created_progress_other",
+      "value": "{0} tareas · Progreso automático {1} %"
+    },
+    {
+      "name": "task_editing",
+      "value": "Editando «{0}»"
+    },
+    {
+      "name": "task_adding_child",
+      "value": "Añadiendo una subtarea a «{0}»"
+    },
+    {
+      "name": "task_add_child",
+      "value": "Añadir subtarea"
+    },
+    {
+      "name": "tasks_collapse",
+      "value": "Ver menos tareas"
+    },
+    {
+      "name": "tasks_view_all_one",
+      "value": "Ver 1 tarea"
+    },
+    {
+      "name": "tasks_view_all_other",
+      "value": "Ver las {0} tareas"
+    },
+    {
+      "name": "create_edit_helper",
+      "value": "Al guardar se actualizará el plazo existente."
+    },
+    {
+      "name": "create_new_helper",
+      "value": "Añade lo esencial ahora y ajústalo más adelante."
+    },
+    {
+      "name": "create_loading",
+      "value": "Cargando plazo…"
+    },
+    {
+      "name": "create_name_placeholder",
+      "value": "p. ej., trabajo de Arquitectura de computadores"
+    },
+    {
+      "name": "create_hours_placeholder",
+      "value": "p. ej., 10 (déjalo vacío si no lo sabes)"
+    },
+    {
+      "name": "create_auto_progress_desc",
+      "value": "El progreso cuenta las tareas finales completadas, no las horas trabajadas."
+    },
+    {
+      "name": "create_manual_progress_desc",
+      "value": "Ajusta tú mismo el progreso total."
+    },
+    {
+      "name": "create_choose_date",
+      "value": "Elegir fecha"
+    },
+    {
+      "name": "create_reminder_on_desc",
+      "value": "Dayline intenta programar la hora elegida. La entrega depende de los límites del sistema; consulta el plazo en la app."
+    },
+    {
+      "name": "create_reminder_off_desc",
+      "value": "Desactivado de forma predeterminada. Actívalo cuando lo necesites."
+    },
+    {
+      "name": "create_note_placeholder",
+      "value": "Requisitos, lugar o preparación"
+    },
+    {
+      "name": "create_edit_footer",
+      "value": "Los cambios aparecerán al guardar."
+    },
+    {
+      "name": "create_new_footer",
+      "value": "Se guarda en este dispositivo y seguirá disponible al volver a abrir Dayline."
+    },
+    {
+      "name": "task_delete_title",
+      "value": "Eliminar tarea"
+    },
+    {
+      "name": "task_delete_children_confirm_one",
+      "value": "¿Eliminar «{1}» y su subtarea?"
+    },
+    {
+      "name": "task_delete_children_confirm_other",
+      "value": "¿Eliminar «{1}» y sus {0} subtareas?"
+    },
+    {
+      "name": "task_delete_confirm",
+      "value": "¿Eliminar «{0}»?"
+    },
+    {
+      "name": "deadline_delete_title",
+      "value": "Eliminar plazo"
+    },
+    {
+      "name": "deadline_delete_confirm",
+      "value": "¿Eliminar «{0}»? No se puede deshacer."
+    },
+    {
+      "name": "deadline_untitled",
+      "value": "Plazo sin título"
+    },
+    {
+      "name": "schedule_specific_tasks_one",
+      "value": "1 tarea concreta"
+    },
+    {
+      "name": "schedule_specific_tasks_other",
+      "value": "{0} tareas concretas"
+    },
+    {
+      "name": "schedule_work",
+      "value": "Trabajo"
+    },
+    {
+      "name": "detail_tasks_pending_desc",
+      "value": "Divide este plazo en tareas para activar el progreso automático."
+    },
+    {
+      "name": "detail_total_work",
+      "value": "Estimación total"
+    },
+    {
+      "name": "schedule_feasible",
+      "value": "Ritmo viable"
+    },
+    {
+      "name": "schedule_tight",
+      "value": "Ritmo ajustado"
+    },
+    {
+      "name": "schedule_completed_empty",
+      "value": "Este plazo está completado. No hace falta seguir planificando."
+    },
+    {
+      "name": "schedule_no_remaining",
+      "value": "No queda trabajo que planificar."
+    },
+    {
+      "name": "schedule_planned_work",
+      "value": "Trabajo planificado"
+    },
+    {
+      "name": "schedule_work_days",
+      "value": "Días de trabajo"
+    },
+    {
+      "name": "schedule_daily_average",
+      "value": "Media por día"
+    },
+    {
+      "name": "schedule_rolling_hint",
+      "value": "Se muestran los próximos 14 días. El resto se ajustará a medida que avances."
+    },
+    {
+      "name": "detail_created_at",
+      "value": "Creado"
+    },
+    {
+      "name": "detail_manual_update",
+      "value": "Actualizar progreso manualmente"
+    },
+    {
+      "name": "detail_progress_saved",
+      "value": "Progreso guardado"
+    },
+    {
+      "name": "detail_save_progress",
+      "value": "Guardar progreso"
+    },
+    {
+      "name": "detail_completed_progress_hint",
+      "value": "Los plazos completados muestran el 100 %. Restáuralos para seguir ajustando el progreso."
+    },
+    {
+      "name": "detail_equal_weight",
+      "value": "El avance cuenta tareas finales terminadas; no mide horas trabajadas."
+    },
+    {
+      "name": "detail_tasks_empty",
+      "value": "Añade una tarea principal y divídela en subtareas si hace falta."
+    },
+    {
+      "name": "detail_loading",
+      "value": "Cargando plazo…"
+    },
+    {
+      "name": "notification_intensity_concise",
+      "value": "Mínima"
+    },
+    {
+      "name": "notification_intensity_standard",
+      "value": "Estándar"
+    },
+    {
+      "name": "notification_intensity_active",
+      "value": "Activa"
+    },
+    {
+      "name": "notification_intensity_custom",
+      "value": "Personalizada"
+    },
+    {
+      "name": "notification_intensity_concise_desc",
+      "value": "Solo los recordatorios que configures en cada plazo."
+    },
+    {
+      "name": "notification_intensity_standard_desc",
+      "value": "Un resumen diario si hay algo que hacer, con avisos adicionales cuando el riesgo aumenta claramente."
+    },
+    {
+      "name": "notification_intensity_active_desc",
+      "value": "Programa resúmenes con más antelación y avisa antes si aumenta el riesgo, sin repetir el mismo aviso."
+    },
+    {
+      "name": "notification_intensity_custom_desc",
+      "value": "Usa las opciones y horas siguientes."
+    },
+    {
+      "name": "notification_daily_desc",
+      "value": "Reúne las tareas prioritarias y el esfuerzo recomendado para hoy."
+    },
+    {
+      "name": "notification_risk_desc",
+      "value": "Avisa solo cuando aparece un riesgo alto y agrupa plazos similares."
+    },
+    {
+      "name": "notification_replan_desc",
+      "value": "Los cambios del plan se incluyen en el próximo resumen diario. Requiere activar los resúmenes."
+    },
+    {
+      "name": "notification_summary_time",
+      "value": "Hora del resumen diario"
+    },
+    {
+      "name": "notification_quiet_off",
+      "value": "Sin horario de silencio"
+    },
+    {
+      "name": "notification_quiet_desc",
+      "value": "Los resúmenes y avisos de riesgo respetan el silencio. Los avisos de vencimiento se adelantan si es posible; los urgentes no se retrasan."
+    },
+    {
+      "name": "risk_reason_completed",
+      "value": "Este plazo está completado"
+    },
+    {
+      "name": "risk_reason_overdue",
+      "value": "La fecha límite ya ha pasado"
+    },
+    {
+      "name": "availability_daily",
+      "value": "unas {0} h al día"
+    },
+    {
+      "name": "availability_weekday_weekend",
+      "value": "unas {0} h entre semana y {1} h el fin de semana"
+    },
+    {
+      "name": "risk_reason_on_track",
+      "value": "El progreso encaja con el tiempo y el trabajo restantes"
+    },
+    {
+      "name": "risk_reason_capacity_shortfall",
+      "value": "Quedan {0} h. Con {1}, solo hay unas {2} h disponibles"
+    },
+    {
+      "name": "risk_reason_due_hours_progress",
+      "value": "Quedan unas {0} h y llevas el {1} %"
+    },
+    {
+      "name": "risk_reason_progress_lag",
+      "value": "El progreso va aproximadamente un {0} % por detrás del tiempo transcurrido"
+    },
+    {
+      "name": "risk_reason_daily_load_high",
+      "value": "Quedan {0} h y la carga diaria será alta"
+    },
+    {
+      "name": "risk_reason_due_days_progress",
+      "value": "Quedan unos {0} días y llevas el {1} %"
+    },
+    {
+      "name": "schedule_review_and_complete",
+      "value": "Revisar el resultado y marcar el plazo como completado"
+    },
+    {
+      "name": "schedule_tasks_done",
+      "value": "Todas las tareas están listas; no hace falta margen adicional"
+    },
+    {
+      "name": "schedule_estimate_per_task",
+      "value": "Sin estimación: se planifica aproximadamente 1 hora por tarea concreta."
+    },
+    {
+      "name": "schedule_estimate_per_quarter",
+      "value": "Sin estimación: se planifica aproximadamente 1 hora por cada 25 % de progreso."
+    },
+    {
+      "name": "schedule_buffer_summary",
+      "value": "Revisar, corregir omisiones y preparar la entrega"
+    },
+    {
+      "name": "schedule_flex_summary",
+      "value": "Tiempo flexible para ponerse al día o descansar antes"
+    },
+    {
+      "name": "schedule_break_down_start",
+      "value": "Dividir el trabajo y empezar"
+    },
+    {
+      "name": "schedule_advance_deadline",
+      "value": "Avanzar «{0}»"
+    },
+    {
+      "name": "schedule_advance_progress",
+      "value": "Llegar aproximadamente al {0} %"
+    },
+    {
+      "name": "schedule_buffer_overdue",
+      "value": "El plazo ha vencido y no puede reservarse margen. El plan se reinicia hoy."
+    },
+    {
+      "name": "schedule_buffer_days",
+      "value": "Se reservan {0} días antes del plazo para revisar, corregir y entregar."
+    },
+    {
+      "name": "schedule_no_safe_buffer",
+      "value": "Queda demasiado trabajo para reservar un día de margen seguro."
+    },
+    {
+      "name": "schedule_no_buffer_near_due",
+      "value": "La fecha está demasiado cerca para reservar un día de margen."
+    },
+    {
+      "name": "action_overdue_progress",
+      "value": "Fuera de plazo, con un {0} % aún pendiente"
+    },
+    {
+      "name": "action_remaining_hours",
+      "value": "{0}; aún hacen falta unas {1} h"
+    },
+    {
+      "name": "action_current_progress",
+      "value": "{0}; progreso actual: {1} %"
+    },
+    {
+      "name": "action_due_hours",
+      "value": "Unas {0} h hasta el plazo"
+    },
+    {
+      "name": "action_due_days",
+      "value": "{0} días hasta el plazo"
+    },
+    {
+      "name": "action_review_complete",
+      "value": "Revisar el resultado y completar el plazo"
+    },
+    {
+      "name": "action_schedule_hours_progress",
+      "value": "Plan de hoy: dedicar {0} h y llegar aproximadamente al {1} %"
+    },
+    {
+      "name": "action_schedule_hours",
+      "value": "Plan de hoy: dedicar unas {0} h"
+    },
+    {
+      "name": "action_focus_then_update",
+      "value": "Empieza con una sesión de concentración y actualiza el progreso al terminar"
+    },
+    {
+      "name": "action_suggest_hours_progress",
+      "value": "Dedica {0} h hoy e intenta llegar aproximadamente al {1} %"
+    },
+    {
+      "name": "action_advance_deadline",
+      "value": "Avanzar «{0}»"
+    },
+    {
+      "name": "action_break_down_deadline",
+      "value": "Desglosar «{0}»"
+    },
+    {
+      "name": "action_no_tasks_reason",
+      "value": "El progreso automático aún no tiene tareas; no puede medirse el avance concreto"
+    },
+    {
+      "name": "action_break_down_with_hours",
+      "value": "Primero divide el trabajo y dedica unas {0} h hoy"
+    },
+    {
+      "name": "action_create_tasks_suggestion",
+      "value": "Crea 2 o 3 tareas realizables para calcular el progreso automáticamente"
+    },
+    {
+      "name": "action_complete_task",
+      "value": "Completar «{0}»"
+    },
+    {
+      "name": "action_today_schedule_recalculates",
+      "value": "Unas {0} h en el plan de hoy; después se recalcularán los días siguientes"
+    },
+    {
+      "name": "action_tasks_left_one",
+      "value": "El progreso se recalcula automáticamente; queda 1 tarea concreta"
+    },
+    {
+      "name": "action_tasks_left_other",
+      "value": "El progreso se recalcula automáticamente; quedan {0} tareas concretas"
+    },
+    {
+      "name": "action_review_deadline",
+      "value": "Revisar y completar «{0}»"
+    },
+    {
+      "name": "action_all_tasks_done_reason",
+      "value": "Todas las tareas concretas están completadas"
+    },
+    {
+      "name": "action_mark_deadline_complete",
+      "value": "Revisa el resultado y marca todo el plazo como completado"
+    },
+    {
+      "name": "reminder_due_minutes",
+      "value": "Vence en unos {0} min"
+    },
+    {
+      "name": "reminder_due_hours",
+      "value": "Vence en unas {0} h"
+    },
+    {
+      "name": "reminder_due_days",
+      "value": "Vence en unos {0} días"
+    },
+    {
+      "name": "reminder_content_no_tasks",
+      "value": "{0} · Aún sin desglose"
+    },
+    {
+      "name": "reminder_content_tasks_one",
+      "value": "{1} · {2} % completado · queda 1 tarea"
+    },
+    {
+      "name": "reminder_content_tasks_other",
+      "value": "{1} · {2} % completado · quedan {0} tareas"
+    },
+    {
+      "name": "reminder_content_hours",
+      "value": "{0} · {1} % completado · quedan unas {2} h"
+    },
+    {
+      "name": "reminder_content_progress",
+      "value": "{0} · {1} % completado"
+    },
+    {
+      "name": "notification_slot_desc",
+      "value": "Avisos de Dayline sobre plazos, acciones y riesgos"
+    },
+    {
+      "name": "notification_action_done",
+      "value": "Cerrar"
+    },
+    {
+      "name": "notification_action_snooze",
+      "value": "En 30 min"
+    },
+    {
+      "name": "notification_snooze_content",
+      "value": "Revisar esta acción de Dayline más tarde"
+    },
+    {
+      "name": "notification_daily_title",
+      "value": "Dayline · Acciones de hoy"
+    },
+    {
+      "name": "notification_daily_title_risk",
+      "value": "Dayline · Acciones de hoy · Riesgo alto"
+    },
+    {
+      "name": "notification_replan_title",
+      "value": "Dayline · Plan ajustado"
+    },
+    {
+      "name": "notification_risk_title",
+      "value": "Dayline · El riesgo aumenta"
+    },
+    {
+      "name": "notification_risk_content",
+      "value": "{0}: {1}"
+    },
+    {
+      "name": "notification_replan_content_one",
+      "value": "Quedó 1 tarea de ayer. Haz primero hoy: {1}. {2}"
+    },
+    {
+      "name": "notification_replan_content_other",
+      "value": "Quedaron {0} tareas de ayer. Haz primero hoy: {1}. {2}"
+    },
+    {
+      "name": "message_open_settings_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_load_deadlines_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_task_changed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_task_update_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_open_detail_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_open_create_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_deadline_not_found",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_load_deadline_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_open_date_picker_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_open_time_picker_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_notifications_enabled",
+      "value": "Notificaciones activadas"
+    },
+    {
+      "name": "message_notifications_not_enabled",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_return_detail_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_save_in_progress",
+      "value": "Guardando…"
+    },
+    {
+      "name": "message_go_back_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_open_task_remove_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_deadline_updated",
+      "value": "Plazo actualizado"
+    },
+    {
+      "name": "message_deadline_saved",
+      "value": "Plazo guardado"
+    },
+    {
+      "name": "message_saved_reminder_retry",
+      "value": "{0}. El aviso aún no está programado. Abre Dayline más tarde para comprobarlo."
+    },
+    {
+      "name": "message_save_failed",
+      "value": "No se pudo guardar el Deadline. Tus datos siguen aquí; inténtalo de nuevo."
+    },
+    {
+      "name": "message_detail_missing_id",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_progress_saved",
+      "value": "Progreso guardado"
+    },
+    {
+      "name": "message_progress_save_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_task_save_failed",
+      "value": "No se guardó la tarea. El texto sigue aquí; inténtalo de nuevo."
+    },
+    {
+      "name": "message_task_status_failed",
+      "value": "No se guardó el cambio de la tarea. Revisa su estado actual e inténtalo de nuevo."
+    },
+    {
+      "name": "message_open_delete_confirm_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_task_delete_failed",
+      "value": "No se eliminó la tarea. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_open_edit_failed",
+      "value": "No se ha podido completar la acción. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_status_updated_reminder_retry",
+      "value": "Estado guardado. Los avisos aún no se han actualizado. Abre Dayline más tarde para comprobarlo."
+    },
+    {
+      "name": "message_status_update_failed",
+      "value": "No se cambió el estado del Deadline. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_deadline_deleted",
+      "value": "Plazo eliminado"
+    },
+    {
+      "name": "message_deadline_deleted_reminder_retry",
+      "value": "Plazo eliminado. La cancelación del aviso del sistema aún no está confirmada. Vuelve a abrir Dayline más tarde."
+    },
+    {
+      "name": "message_delete_failed",
+      "value": "No se eliminó el Deadline. Inténtalo de nuevo."
+    },
+    {
+      "name": "message_processing",
+      "value": "Procesando…"
+    },
+    {
+      "name": "notification_load_failed",
+      "value": "No se han podido cargar las notificaciones. Los ajustes guardados no han cambiado; inténtalo de nuevo."
+    },
+    {
+      "name": "notification_saved",
+      "value": "Ajustes de notificaciones guardados"
+    },
+    {
+      "name": "notification_save_failed",
+      "value": "No se han guardado las notificaciones. Tus cambios siguen aquí; inténtalo de nuevo."
+    },
+    {
+      "name": "notification_permission_declined",
+      "value": "Las notificaciones siguen desactivadas. Permite Dayline en los ajustes o sigue usando la app sin avisos."
+    },
+    {
+      "name": "notification_open_system_failed",
+      "value": "No se han podido activar las notificaciones. Puedes permitir las de Dayline en los ajustes del sistema."
+    },
+    {
+      "name": "notification_save_in_progress",
+      "value": "Guardando ajustes de notificaciones…"
+    },
+    {
+      "name": "notification_loading",
+      "value": "Cargando ajustes de notificaciones…"
+    },
+    {
+      "name": "cloud_login_retry",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_status_local_only",
+      "value": "Guardado solo en este dispositivo"
+    },
+    {
+      "name": "cloud_status_waiting_first_sync",
+      "value": "Sesión iniciada · esperando la primera sincronización"
+    },
+    {
+      "name": "cloud_status_synced",
+      "value": "Última sincronización completada"
+    },
+    {
+      "name": "cloud_status_sync_incomplete",
+      "value": "La sincronización no terminó. Los datos del dispositivo están seguros"
+    },
+    {
+      "name": "cloud_status_unavailable",
+      "value": "Estado de sincronización no disponible temporalmente"
+    },
+    {
+      "name": "cloud_login_unavailable",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_login_update_required",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_login_device_account",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_network_unavailable",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_authorization_incomplete",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_privacy_required",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_login_incomplete",
+      "value": "No se completó el inicio de sesión. Inténtalo más tarde"
+    },
+    {
+      "name": "cloud_enable_failed",
+      "value": "No se pudo activar la sincronización en la nube"
+    },
+    {
+      "name": "cloud_switch_account_title",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_switch_account_body",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_merge_and_sync",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_switch_confirm_failed",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_status_merging",
+      "value": "Combinando datos del dispositivo y la nube…"
+    },
+    {
+      "name": "cloud_status_permission_local",
+      "value": "No se concedió permiso para sincronizar. Dayline seguirá en modo local"
+    },
+    {
+      "name": "cloud_syncing",
+      "value": "Sincronizando…"
+    },
+    {
+      "name": "cloud_sign_out_title",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_sign_out_body",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_sign_out_confirm_failed",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_signed_out",
+      "value": "La sincronización está desactivada. Los datos del dispositivo se conservan"
+    },
+    {
+      "name": "cloud_sign_out_failed",
+      "value": "No se ha completado el cierre de sesión. Tus datos locales siguen disponibles. Inténtalo más tarde."
+    },
+    {
+      "name": "cloud_never_synced",
+      "value": "Aún no se ha sincronizado"
+    },
+    {
+      "name": "cloud_enabled",
+      "value": "Sincronización en la nube activada"
+    },
+    {
+      "name": "cloud_connected",
+      "value": "Conectado"
+    },
+    {
+      "name": "cloud_not_signed_in",
+      "value": "Sin sesión iniciada con HUAWEI ID"
+    },
+    {
+      "name": "cloud_sync_scope",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_merge_desc",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_offline_desc",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_offline_footer",
+      "value": "Tus datos siguen disponibles en este dispositivo sin conexión o con la sincronización desactivada."
+    },
+    {
+      "name": "cloud_optional_footer",
+      "value": "Iniciar sesión es opcional. Puedes usar Dayline en este dispositivo sin cuenta."
+    },
+    {
+      "name": "cloud_result_synced",
+      "value": "Sincronizado con Huawei Cloud"
+    },
+    {
+      "name": "cloud_result_network",
+      "value": "No hay conexión. Los cambios se sincronizarán cuando vuelvas a conectarte"
+    },
+    {
+      "name": "cloud_result_enable_in_settings",
+      "value": "Activa Dayline Sync en Ajustes, HUAWEI ID y nube"
+    },
+    {
+      "name": "cloud_result_data_limit",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_result_storage_full",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_result_network_policy",
+      "value": "La sincronización en la nube no está disponible."
+    },
+    {
+      "name": "cloud_result_failed",
+      "value": "La sincronización no terminó. Los datos del dispositivo están seguros"
+    },
+    {
+      "name": "schedule_task_summary_one",
+      "value": "{1}"
+    },
+    {
+      "name": "schedule_task_summary_other",
+      "value": "{1}, {2} y {0} tareas en total"
+    },
+    {
+      "name": "notification_deadline_expired",
+      "value": "Este aviso de plazo ha finalizado"
+    },
+    {
+      "name": "notification_action_summary",
+      "value": "{0}. {1}"
+    },
+    {
+      "name": "notification_action_summary_more_one",
+      "value": "{1}. {2} Hay una sugerencia más."
+    },
+    {
+      "name": "notification_action_summary_more_other",
+      "value": "{1}. {2} Hay {0} sugerencias más."
+    },
+    {
+      "name": "notification_replan_prefix_one",
+      "value": "Quedó una tarea de ayer. Se ha reajustado el plan posterior. {1}"
+    },
+    {
+      "name": "notification_replan_prefix_other",
+      "value": "Quedaron {0} tareas de ayer. Se ha reajustado el plan posterior. {1}"
+    },
+    {
+      "name": "notification_daily_expired",
+      "value": "El resumen de acciones de hoy ha finalizado"
+    },
+    {
+      "name": "notification_risk_content_more_one",
+      "value": "{1}: {2}. Hay otro plazo de riesgo alto."
+    },
+    {
+      "name": "notification_risk_content_more_other",
+      "value": "{1}: {2}. Hay otros {0} plazos de riesgo alto."
+    },
+    {
+      "name": "notification_risk_expired",
+      "value": "Este aviso de riesgo ha finalizado"
+    },
+    {
+      "name": "notification_replan_expired",
+      "value": "Este aviso de reajuste del plan ha finalizado"
+    },
+    {
+      "name": "reminder_result_permission_disabled",
+      "value": "Las notificaciones están desactivadas. Se guardó el recordatorio."
+    },
+    {
+      "name": "reminder_result_not_needed",
+      "value": "Ahora mismo no hace falta un recordatorio de plazo."
+    },
+    {
+      "name": "reminder_result_queued",
+      "value": "Los ajustes se guardaron, pero el recordatorio aún no está programado en el sistema."
+    },
+    {
+      "name": "reminder_result_scheduled",
+      "value": "Recordatorio programado"
+    },
+    {
+      "name": "reminder_result_failed",
+      "value": "No se pudo programar el recordatorio. Dayline volverá a intentarlo automáticamente."
+    },
+    {
+      "name": "action_risk_with_remaining",
+      "value": "{0}. {1}"
+    },
+    {
+      "name": "schedule_two_tasks",
+      "value": "{0} y {1}"
+    },
+    {
+      "name": "message_edit_conflict",
+      "value": "Este plazo cambió en otro dispositivo. Vuelve a cargarlo antes de guardar."
+    },
+    {
+      "name": "message_task_conflict",
+      "value": "Las tareas cambiaron en otro lugar. Se carga la versión más reciente."
+    },
+    {
+      "name": "risk_unknown",
+      "value": "Falta estimación"
+    },
+    {
+      "name": "risk_reason_missing_workload",
+      "value": "Confirma cuánto tiempo necesitas aún para evaluar el riesgo."
+    },
+    {
+      "name": "risk_reason_rough_workload",
+      "value": "{0} El porcentaje de tareas terminadas no mide las horas trabajadas."
+    },
+    {
+      "name": "risk_reason_shared_unknown",
+      "value": "Falta la carga de un plazo anterior; aún no se puede evaluar el tiempo compartido."
+    },
+    {
+      "name": "risk_reason_shared_shortfall",
+      "value": "Hasta entonces hacen falta unas {0} h, pero solo hay {1} h compartidas."
+    },
+    {
+      "name": "schedule_rough_workload",
+      "value": "Las horas son aproximadas; terminar tareas no mide el tiempo invertido."
+    },
+    {
+      "name": "schedule_need_workload",
+      "value": "Estima el trabajo para crear un plan por horas."
+    },
+    {
+      "name": "schedule_unallocated",
+      "value": "Queda trabajo sin asignar antes de este plazo."
+    },
+    {
+      "name": "schedule_unallocated_hours",
+      "value": "{0} h sin asignar"
+    },
+    {
+      "name": "schedule_shared_capacity_note",
+      "value": "Todos los plazos comparten el tiempo disponible cada día. {0}"
+    },
+    {
+      "name": "work_remaining_rough",
+      "value": "Quedan unas {0} h; el avance de tareas no reduce esta estimación."
+    },
+    {
+      "name": "work_uncertain",
+      "value": "Horas inciertas"
+    },
+    {
+      "name": "action_rough_remaining",
+      "value": "{0}; podrían quedar unas {1} h."
+    },
+    {
+      "name": "work_not_tracked",
+      "value": "Sin registrar"
+    },
+    {
+      "name": "schedule_required_work",
+      "value": "Trabajo necesario"
+    },
+    {
+      "name": "risk_reason_unmeasured_work",
+      "value": "Confirma el trabajo restante antes de evaluar si tu tiempo alcanza para la fecha límite."
+    },
+    {
+      "name": "schedule_unmeasured_work",
+      "value": "Confirma el trabajo restante para obtener un plan por horas. Las acciones de hoy siguen disponibles."
+    },
+    {
+      "name": "work_remaining_unknown",
+      "value": "Horas restantes desconocidas"
+    },
+    {
+      "name": "workload_total_create_hint",
+      "value": "Al crearla, también sirve como primera estimación de lo que queda. Actualízala en Detalles si cambia tu cálculo."
+    },
+    {
+      "name": "workload_total_edit_hint",
+      "value": "Esta es la estimación total inicial. Actualiza por separado el tiempo restante en Detalles."
+    },
+    {
+      "name": "work_remaining_pending",
+      "value": "Confirma el trabajo restante"
+    },
+    {
+      "name": "remaining_status_stale",
+      "value": "Han pasado más de dos semanas desde la última confirmación. Confirma de nuevo para ver riesgos y planes por horas."
+    },
+    {
+      "name": "remaining_status_unknown",
+      "value": "Aún puedes elegir qué hacer hoy según la fecha límite y las tareas pendientes. El riesgo por horas requiere una estimación."
+    },
+    {
+      "name": "remaining_status_initial",
+      "value": "Estimación inicial. Confírmala cuando cambie tu cálculo tras empezar."
+    },
+    {
+      "name": "remaining_status_confirmed",
+      "value": "Según tu última estimación aproximada. Actualízala cuando cambie tu cálculo."
+    },
+    {
+      "name": "remaining_update_button",
+      "value": "Actualizar tiempo restante"
+    },
+    {
+      "name": "remaining_editor_hint",
+      "value": "Trabajo restante (horas)"
+    },
+    {
+      "name": "remaining_hours_placeholder",
+      "value": "Por ejemplo: 6 horas"
+    },
+    {
+      "name": "remaining_keep_button",
+      "value": "Mantener estimación"
+    },
+    {
+      "name": "remaining_save_button",
+      "value": "Guardar nueva estimación"
+    },
+    {
+      "name": "remaining_unknown_button",
+      "value": "No estoy seguro"
+    },
+    {
+      "name": "remaining_no_previous_estimate",
+      "value": "No hay una estimación anterior"
+    },
+    {
+      "name": "message_remaining_unknown_saved",
+      "value": "Marcado como incierto. Las acciones de hoy siguen disponibles."
+    },
+    {
+      "name": "message_remaining_saved",
+      "value": "Estimación restante actualizada"
+    },
+    {
+      "name": "message_remaining_save_failed",
+      "value": "No se ha guardado el tiempo restante. Lo que escribiste sigue aquí; inténtalo de nuevo."
+    },
+    {
+      "name": "risk_reason_stale_work",
+      "value": "La estimación del trabajo restante está desactualizada. Confírmala para evaluar el riesgo."
+    },
+    {
+      "name": "task_progress_label",
+      "value": "Progreso de tareas"
+    },
+    {
+      "name": "task_just_completed",
+      "value": "«{0}» completada"
+    },
+    {
+      "name": "task_just_reopened",
+      "value": "«{0}» marcada como pendiente"
+    },
+    {
+      "name": "editor_discard_title",
+      "value": "¿Descartar los cambios sin guardar?"
+    },
+    {
+      "name": "editor_discard_body",
+      "value": "Lo que escribiste en esta pantalla aún no se ha guardado. Sigue editando o descártalo y vuelve."
+    },
+    {
+      "name": "editor_discard_action",
+      "value": "Descartar cambios"
+    },
+    {
+      "name": "settings_saved",
+      "value": "Ajustes guardados"
+    },
+    {
+      "name": "notification_permission_off_hint",
+      "value": "Las notificaciones están desactivadas. Puedes permitir las de Dayline en los ajustes del dispositivo."
+    },
+    {
+      "name": "notification_more_settings",
+      "value": "Más ajustes de notificaciones"
+    },
+    {
+      "name": "notification_less_settings",
+      "value": "Menos ajustes de notificaciones"
+    },
+    {
+      "name": "settings_load_failed",
+      "value": "No se pudieron cargar los ajustes. Los valores guardados siguen intactos. Inténtalo de nuevo."
+    },
+    {
+      "name": "cloud_enable_failed_safe",
+      "value": "No se pudo iniciar la sincronización. Tus datos locales siguen disponibles. Inténtalo de nuevo."
+    },
+    {
+      "name": "notification_refresh_failed",
+      "value": "Los ajustes se guardaron, pero los recordatorios no se actualizaron. Guarda de nuevo para reintentarlo."
+    },
+    {
+      "name": "settings_sync_failed",
+      "value": "Reintentar sincronización"
+    },
+    {
+      "name": "task_just_removed",
+      "value": "Se ha quitado «{0}» del borrador"
+    },
+    {
+      "name": "settings_language_system_saved",
+      "value": "Guardado. Cierra Dayline desde las apps recientes y vuelve a abrirla para usar el idioma del dispositivo."
+    },
+    {
+      "name": "cloud_account_verify_failed",
+      "value": "No se pudo verificar la cuenta actual. La sincronización no ha comenzado. Tus datos locales siguen guardados. Revisa la red y la cuenta del sistema e inténtalo de nuevo."
+    },
+    {
+      "name": "cloud_account_mismatch",
+      "value": "Los datos de este dispositivo están vinculados a otra cuenta de Huawei. La sincronización no ha comenzado. Vuelve a la cuenta original; tus datos locales siguen disponibles."
+    },
+    {
+      "name": "cloud_status_save_failed",
+      "value": "No se pudo guardar el resultado de esta sincronización. Tus datos locales siguen disponibles. Vuelve a intentarlo para comprobar el estado."
+    },
+    {
+      "name": "cloud_stop_failed",
+      "value": "No se pudo confirmar que la sincronización se haya detenido. Tus datos locales siguen guardados. Intenta cerrar sesión de nuevo."
+    },
+    {
+      "name": "cloud_data_held",
+      "value": "Algunos cambios necesitan revisión o aún están incompletos. Conservamos tus datos anteriores. Abre «Revisar cambios» para elegir qué conservar o ver el motivo."
+    },
+    {
+      "name": "cloud_protocol_pending",
+      "value": "La sincronización en la nube está en pausa. Tus datos guardados se conservan. Para reanudarla, deben completarse las comprobaciones de compatibilidad y actualizarse todos los dispositivos."
+    },
+    {
+      "name": "detail_next_action",
+      "value": "Siguiente paso"
+    },
+    {
+      "name": "task_actions_label",
+      "value": "Acciones de la tarea"
+    },
+    {
+      "name": "review_title",
+      "value": "Revisar cambios"
+    },
+    {
+      "name": "review_needed",
+      "value": "Por revisar"
+    },
+    {
+      "name": "review_open",
+      "value": "Revisar"
+    },
+    {
+      "name": "review_home_status",
+      "value": "Cambios por revisar: {0}"
+    },
+    {
+      "name": "review_intro",
+      "value": "Esta fecha límite tiene cambios distintos. Conservamos los últimos datos completos y todas las versiones. Elige qué conservar; nada se sobrescribirá hasta que guardes. Las demás fechas límite siguen disponibles."
+    },
+    {
+      "name": "review_current",
+      "value": "Guardado en este dispositivo"
+    },
+    {
+      "name": "review_alternative",
+      "value": "Versión guardada {0}"
+    },
+    {
+      "name": "review_step",
+      "value": "{0} de {1}"
+    },
+    {
+      "name": "review_previous",
+      "value": "Anterior"
+    },
+    {
+      "name": "review_next",
+      "value": "Siguiente"
+    },
+    {
+      "name": "review_save",
+      "value": "Guardar selección"
+    },
+    {
+      "name": "review_later",
+      "value": "Decidir más tarde"
+    },
+    {
+      "name": "review_reload",
+      "value": "Volver a cargar los cambios"
+    },
+    {
+      "name": "review_working",
+      "value": "Espera un momento…"
+    },
+    {
+      "name": "review_success",
+      "value": "Tu decisión se ha guardado."
+    },
+    {
+      "name": "review_none",
+      "value": "No hay cambios por revisar."
+    },
+    {
+      "name": "review_waiting",
+      "value": "Faltan datos completos"
+    },
+    {
+      "name": "review_incomplete",
+      "value": "Los datos recibidos están incompletos o no se pueden verificar. Conservamos el último estado completo para consultarlo. Elegir una versión aún no permite repararlo con seguridad. Puedes usar otras fechas límite; conserva los datos y no reinstales."
+    },
+    {
+      "name": "review_load_failed",
+      "value": "No se pudieron cargar los cambios guardados. Tus datos siguen guardados. Inténtalo de nuevo."
+    },
+    {
+      "name": "review_save_failed",
+      "value": "No se guardó tu selección. Se conservan los datos completos anteriores y todas las versiones. Reintenta o elige otra combinación si la estructura de tareas no encaja."
+    },
+    {
+      "name": "review_changed",
+      "value": "Llegaron nuevos cambios mientras decidías. No se sobrescribió nada. Vuelve a cargar y elige de nuevo."
+    },
+    {
+      "name": "review_removed",
+      "value": "Eliminación aplicada"
+    },
+    {
+      "name": "review_deleted_explanation",
+      "value": "Esta fecha límite se eliminó mientras se editaba otra versión. Se mantiene la eliminación, incluidas sus tareas; los cambios antiguos no lo recuperarán. Las modificaciones siguen guardadas."
+    },
+    {
+      "name": "review_tasks_deleted_explanation",
+      "value": "Estas tareas se eliminaron mientras se editaba otra versión. Se mantiene la eliminación, incluidas las subtareas. Los cambios antiguos no las recuperarán. El resto de esta fecha límite sigue disponible."
+    },
+    {
+      "name": "review_understood",
+      "value": "Entendido"
+    },
+    {
+      "name": "review_tree_choice",
+      "value": "Elige una lista completa de tareas. Solo se conservará esa lista; las tareas que no incluya quedarán eliminadas. Se conservarán los demás cambios compatibles."
+    },
+    {
+      "name": "review_show_tasks",
+      "value": "Ver todas las tareas"
+    },
+    {
+      "name": "review_collapse",
+      "value": "Contraer"
+    },
+    {
+      "name": "review_task_count",
+      "value": "Tareas: {0}"
+    },
+    {
+      "name": "review_task_position",
+      "value": "Posición {0}"
+    },
+    {
+      "name": "review_root_task",
+      "value": "Tarea principal"
+    },
+    {
+      "name": "review_other_task",
+      "value": "Otra tarea principal"
+    },
+    {
+      "name": "review_unfinished",
+      "value": "Sin completar"
+    },
+    {
+      "name": "review_unknown",
+      "value": "Trabajo restante incierto"
+    },
+    {
+      "name": "review_hours",
+      "value": "Unas {0} horas"
+    },
+    {
+      "name": "review_initial",
+      "value": "Estimación inicial, sin nueva confirmación"
+    },
+    {
+      "name": "review_confirmed_at",
+      "value": "Confirmado: {0}"
+    },
+    {
+      "name": "review_auto",
+      "value": "Progreso automático de tareas"
+    },
+    {
+      "name": "review_manual",
+      "value": "Progreso manual"
+    },
+    {
+      "name": "review_percent",
+      "value": "Progreso manual: {0}%"
+    },
+    {
+      "name": "review_no_reminder",
+      "value": "Sin recordatorio"
+    },
+    {
+      "name": "review_reminder_minutes",
+      "value": "{0} minutos antes del plazo"
+    },
+    {
+      "name": "review_empty",
+      "value": "Sin contenido"
+    },
+    {
+      "name": "review_field_name",
+      "value": "Nombre"
+    },
+    {
+      "name": "review_field_due",
+      "value": "Fecha límite"
+    },
+    {
+      "name": "review_field_remaining",
+      "value": "Trabajo restante actual"
+    },
+    {
+      "name": "review_field_task",
+      "value": "Tarea"
+    },
+    {
+      "name": "review_field_tasks",
+      "value": "Lista de tareas"
+    },
+    {
+      "name": "review_field_type",
+      "value": "Tipo"
+    },
+    {
+      "name": "review_field_note",
+      "value": "Notas"
+    },
+    {
+      "name": "review_field_created",
+      "value": "Creado"
+    },
+    {
+      "name": "review_field_completed",
+      "value": "Estado de finalización"
+    },
+    {
+      "name": "review_field_total",
+      "value": "Trabajo total inicial"
+    },
+    {
+      "name": "review_field_mode",
+      "value": "Modo de progreso"
+    },
+    {
+      "name": "review_field_progress",
+      "value": "Progreso manual"
+    },
+    {
+      "name": "review_field_reminder",
+      "value": "Recordatorio"
+    },
+    {
+      "name": "review_upgrade",
+      "value": "Actualiza Dayline en los demás dispositivos antes de volver a sincronizar. Los cambios de versiones antiguas no han sustituido tus datos guardados. Conserva los dispositivos originales y sus datos, actualiza y vuelve a intentarlo."
+    },
+    {
+      "name": "cloud_legacy_pending",
+      "value": "Todavía no se han podido importar algunos datos antiguos de forma segura. Tus datos guardados siguen disponibles. Conserva los dispositivos originales y actualiza Dayline."
+    },
+    {
+      "name": "overdue_pending",
+      "value": "Vencido · Decidir qué hacer"
+    },
+    {
+      "name": "overdue_continue",
+      "value": "Vencido · En curso"
+    },
+    {
+      "name": "overdue_stopped",
+      "value": "Dejar de seguir"
+    },
+    {
+      "name": "overdue_no_forecast",
+      "value": "La fecha ya pasó. Cambia el plazo para volver a planificar; no se puede prever una entrega a tiempo."
+    },
+    {
+      "name": "overdue_capacity_unknown",
+      "value": "Sigues trabajando en proyectos vencidos sin una nueva fecha. No se puede saber si todo cabe dentro de los plazos."
+    },
+    {
+      "name": "overdue_continue_reason",
+      "value": "La fecha ya pasó. Puedes seguir con las tareas, sin una previsión de finalización."
+    },
+    {
+      "name": "overdue_review_action",
+      "value": "Decide qué hacer con «{0}», ya vencido"
+    },
+    {
+      "name": "overdue_choose_hint",
+      "value": "Sigue trabajando o cambia la fecha."
+    },
+    {
+      "name": "overdue_continue_button",
+      "value": "Seguir trabajando"
+    },
+    {
+      "name": "overdue_edit_button",
+      "value": "Cambiar fecha"
+    },
+    {
+      "name": "overdue_stop_button",
+      "value": "Dejar de seguir"
+    },
+    {
+      "name": "overdue_reconsider_button",
+      "value": "Revisar decisión"
+    },
+    {
+      "name": "overdue_stopped_hint",
+      "value": "Este dispositivo ya no recomienda este proyecto. Se conservan el registro y las tareas; puedes revisar la decisión."
+    },
+    {
+      "name": "overdue_save_failed",
+      "value": "No se guardó tu elección. El registro sigue intacto. Inténtalo de nuevo."
+    },
+    {
+      "name": "overdue_less_hour",
+      "value": "Vencido hace menos de 1 hora"
+    },
+    {
+      "name": "overdue_hours_one",
+      "value": "Vencido hace {0} hora"
+    },
+    {
+      "name": "overdue_hours_other",
+      "value": "Vencido hace {0} horas"
+    },
+    {
+      "name": "overdue_days_one",
+      "value": "Vencido hace {0} día"
+    },
+    {
+      "name": "overdue_days_other",
+      "value": "Vencido hace {0} días"
+    },
+    {
+      "name": "overdue_complete_button",
+      "value": "Marcar como completado"
+    },
+    {
+      "name": "overdue_no_actions",
+      "value": "Hoy no hay acciones que recomendar. Los proyectos conservados están en la lista completa de Deadline."
+    },
+    {
+      "name": "overdue_decide_label",
+      "value": "Decidir qué hacer"
+    },
+    {
+      "name": "validation_time_past",
+      "value": "Esta hora ya pasó. Elige una fecha futura; se conservan tus datos."
+    },
+    {
+      "name": "validation_time_missing",
+      "value": "Esta hora no existe en esa fecha. Elige otra hora."
+    },
+    {
+      "name": "validation_time_ambiguous",
+      "value": "Esta hora se repite en esa fecha. Elige una hora que no se repita."
+    },
+    {"name": "cloud_release_unavailable", "value": "La sincronización en la nube aún no está disponible. Los datos guardados siguen disponibles en este dispositivo."},
+    {"name": "notification_delivery_notice", "value": "La entrega de avisos depende de los permisos, el dispositivo y la programación en segundo plano. Consulta los plazos en la app."},
+    {"name": "experience_today", "value": "Hoy"},
+    {"name": "experience_deadlines", "value": "Deadlines"},
+    {"name": "experience_now", "value": "Empieza por aquí"},
+    {"name": "experience_start", "value": "Empezar"},
+    {"name": "experience_decide", "value": "Decidir qué hacer"},
+    {"name": "experience_after", "value": "Después"},
+    {"name": "experience_upcoming", "value": "Los próximos días"},
+    {"name": "experience_objects_hint", "value": "Abre un Deadline para seguir avanzando."},
+    {"name": "experience_planned_today", "value": "Unas {0} h programadas hoy"},
+    {"name": "experience_partial_plan", "value": "hay otras estimaciones pendientes"},
+    {"name": "experience_hours_pending", "value": "Falta estimar el tiempo de hoy"},
+    {"name": "experience_short_plan", "value": "Hay una sesión breve programada"},
+    {"name": "experience_action", "value": "Acción"},
+    {"name": "experience_plan", "value": "Trabajo y plan"},
+    {"name": "experience_calibrate", "value": "Revisar tiempo restante"},
+    {"name": "experience_calibration_hint", "value": "Si cambia tu previsión, confirma cuánto tiempo falta. No hace falta registrar horas a diario."},
+    {"name": "experience_record", "value": "Datos del Deadline"},
+    {"name": "experience_task_count", "value": "Tareas: {0} / {1} completadas"},
+    {"name": "experience_name", "value": "¿Qué hay que hacer?"},
+    {"name": "experience_due", "value": "¿Para cuándo?"},
+    {"name": "experience_tomorrow", "value": "Mañana"},
+    {"name": "experience_due_clock", "value": "Vence a las {0} · Cambiar"},
+    {"name": "experience_add_details", "value": "Añadir tiempo o tareas (opcional)"},
+    {"name": "experience_hide_details", "value": "Ocultar datos opcionales"},
+    {"name": "experience_create_hint", "value": "Un nombre y una fecha bastan para empezar."},
+    {"name": "experience_created", "value": "Guardado: {0}"},
+    {"name": "experience_pending_task", "value": "Añade la tarea que estás escribiendo o borra el texto antes de guardar."},
+    {"name": "experience_task_options", "value": "Tareas y progreso"},
+    {"name": "experience_advanced_options", "value": "Tipo, recordatorios y notas"},
+    {"name": "experience_empty_title", "value": "Hoy empieza con una cosa."},
+    {"name": "experience_empty_body", "value": "¿Qué es lo próximo que tienes que entregar o terminar?"},
+    {"name": "experience_remaining", "value": "Quedan unas {0} h"},
+    {"name": "experience_unsaved", "value": "Cambios sin guardar"}
+  ]
+}

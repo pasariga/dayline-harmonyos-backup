@@ -1,0 +1,388 @@
+{
+    "string":  [
+                   {
+                       "name":  "module_desc",
+                       "value":  "Dayline 截止進度與風險管理"
+                   },
+                   {
+                       "name":  "EntryAbility_desc",
+                       "value":  "管理截止事項、進度與今日行動"
+                   },
+                   {
+                       "name":  "EntryAbility_label",
+                       "value":  "Dayline"
+                   },
+                   {
+                       "name":  "data_sync_permission_reason",
+                       "value":  "登入後透過華為雲空間同步截止事項與任務資料"
+                   },
+                   {
+                       "name":  "common_back",
+                       "value":  "返回"
+                   },
+                   {
+                       "name":  "common_retry",
+                       "value":  "重新載入"
+                   },
+                   {
+                       "name":  "common_save",
+                       "value":  "儲存"
+                   },
+                   {
+                       "name":  "common_saving",
+                       "value":  "正在儲存…"
+                   },
+                   {
+                       "name":  "common_cancel",
+                       "value":  "取消"
+                   },
+                   {
+                       "name":  "common_add",
+                       "value":  "新增"
+                   },
+                   {
+                       "name":  "common_edit",
+                       "value":  "編輯"
+                   },
+                   {
+                       "name":  "common_delete",
+                       "value":  "刪除"
+                   },
+                   {
+                       "name":  "common_completed",
+                       "value":  "已完成"
+                   },
+                   {
+                       "name":  "common_incomplete",
+                       "value":  "未完成"
+                   },
+                   {
+                       "name":  "common_overdue",
+                       "value":  "已逾期"
+                   },
+                   {
+                       "name":  "common_today",
+                       "value":  "今天"
+                   },
+                   {
+                       "name":  "common_tomorrow",
+                       "value":  "明天"
+                   },
+                   {
+                       "name":  "common_hours_value",
+                       "value":  "%s 小時"
+                   },
+                   {
+                       "name":  "common_status_unavailable",
+                       "value":  "暫時無法取得狀態 · 點一下查看"
+                   },
+                   {
+                       "name":  "common_error_retry",
+                       "value":  "暫時無法完成，請稍後再試"
+                   },
+                   {
+                       "name":  "core_deadline",
+                       "value":  "截止事項"
+                   },
+                   {
+                       "name":  "core_today_action",
+                       "value":  "今日行動"
+                   },
+                   {
+                       "name":  "core_automatic_progress",
+                       "value":  "任務自動進度"
+                   },
+                   {
+                       "name":  "core_manual_progress",
+                       "value":  "手動進度"
+                   },
+                   {
+                       "name":  "core_risk_level",
+                       "value":  "風險"
+                   },
+                   {
+                       "name":  "core_reverse_plan",
+                       "value":  "自動排程"
+                   },
+                   {
+                       "name":  "core_replan",
+                       "value":  "重新排程"
+                   },
+                   {
+                       "name":  "core_remaining_work",
+                       "value":  "剩餘工作量"
+                   },
+                   {
+                       "name":  "core_available_time",
+                       "value":  "可投入時間"
+                   },
+                   {
+                       "name":  "core_notification_policy",
+                       "value":  "通知策略"
+                   },
+                   {
+                       "name":  "core_cloud_sync",
+                       "value":  "雲端同步"
+                   },
+                   {
+                       "name":  "settings_title",
+                       "value":  "設定"
+                   },
+                   {
+                       "name":  "settings_subtitle",
+                       "value":  "依照你的習慣使用 Dayline"
+                   },
+                   {
+                       "name":  "settings_loading",
+                       "value":  "正在讀取設定…"
+                   },
+                   {
+                       "name":  "settings_save_failed",
+                       "value":  "設定未能儲存，請稍後再試"
+                   },
+                   {
+                       "name":  "settings_account_title",
+                       "value":  "帳號與雲端同步"
+                   },
+                   {
+                       "name":  "settings_account_desc",
+                       "value":  "不登入也能正常使用，資料預設保留在這部裝置。"
+                   },
+                   {
+                       "name":  "settings_huawei_account",
+                       "value":  "華為帳號與雲端同步"
+                   },
+                   {
+                       "name":  "settings_signed_out",
+                       "value":  "未登入 · 資料保存在本機"
+                   },
+                   {
+                       "name":  "settings_sync_waiting",
+                       "value":  "已登入 · 等待同步"
+                   },
+                   {
+                       "name":  "settings_sync_ok",
+                       "value":  "已登入 · 已完成同步"
+                   },
+                   {
+                       "name":  "settings_local_data",
+                       "value":  "資料保存在本機"
+                   },
+                   {
+                       "name":  "settings_open_account_failed",
+                       "value":  "暫時無法開啟帳號與同步設定"
+                   },
+                   {
+                       "name":  "settings_appearance",
+                       "value":  "外觀"
+                   },
+                   {
+                       "name":  "settings_appearance_desc",
+                       "value":  "預設跟隨系統，也可以固定使用淺色或深色。"
+                   },
+                   {
+                       "name":  "settings_theme_system",
+                       "value":  "跟隨系統"
+                   },
+                   {
+                       "name":  "settings_theme_light",
+                       "value":  "淺色"
+                   },
+                   {
+                       "name":  "settings_theme_dark",
+                       "value":  "深色"
+                   },
+                   {
+                       "name":  "settings_language_region",
+                       "value":  "語言與地區"
+                   },
+                   {
+                       "name":  "settings_language_desc",
+                       "value":  "切換後 Dayline 會重新開啟並套用完整語言內容。"
+                   },
+                   {
+                       "name":  "settings_app_language",
+                       "value":  "App 語言"
+                   },
+                   {
+                       "name":  "settings_language_saved_restart",
+                       "value":  "語言已儲存，下次開啟 Dayline 時生效"
+                   },
+                   {
+                       "name":  "settings_language_save_failed",
+                       "value":  "語言設定未能儲存，請稍後再試"
+                   },
+                   {
+                       "name":  "settings_notifications",
+                       "value":  "通知與提醒"
+                   },
+                   {
+                       "name":  "settings_notifications_desc",
+                       "value":  "集中管理截止提醒、每日行動摘要與勿擾時段。"
+                   },
+                   {
+                       "name":  "settings_open_notifications_failed",
+                       "value":  "暫時無法開啟通知設定"
+                   },
+                   {
+                       "name":  "settings_permission_on",
+                       "value":  "系統通知已開啟"
+                   },
+                   {
+                       "name":  "settings_permission_off",
+                       "value":  "系統通知未開啟"
+                   },
+                   {
+                       "name":  "settings_intensity_concise",
+                       "value":  "精簡"
+                   },
+                   {
+                       "name":  "settings_intensity_standard",
+                       "value":  "標準"
+                   },
+                   {
+                       "name":  "settings_intensity_active",
+                       "value":  "積極"
+                   },
+                   {
+                       "name":  "settings_intensity_custom",
+                       "value":  "自訂"
+                   },
+                   {
+                       "name":  "settings_tasks_plans",
+                       "value":  "任務與計畫"
+                   },
+                   {
+                       "name":  "settings_tasks_desc",
+                       "value":  "預設進度只影響新項目；可投入時間會立即更新風險與排程。"
+                   },
+                   {
+                       "name":  "settings_default_progress",
+                       "value":  "預設進度"
+                   },
+                   {
+                       "name":  "settings_progress_hint",
+                       "value":  "大型作業或專案適合任務自動進度；簡單事項使用手動進度更省步驟。"
+                   },
+                   {
+                       "name":  "settings_weekday",
+                       "value":  "平日"
+                   },
+                   {
+                       "name":  "settings_weekend",
+                       "value":  "週末"
+                   },
+                   {
+                       "name":  "settings_time_hint",
+                       "value":  "不用每天維護。Dayline 會依星期與今天剩餘時間安排工作量。"
+                   },
+                   {
+                       "name":  "settings_home_schedule",
+                       "value":  "首頁顯示自動排程"
+                   },
+                   {
+                       "name":  "settings_home_schedule_desc",
+                       "value":  "關閉後，詳情頁仍會保留完整排程。"
+                   },
+                   {
+                       "name":  "settings_default_deadline_time",
+                       "value":  "預設截止時間"
+                   },
+                   {
+                       "name":  "settings_default_deadline_time_desc",
+                       "value":  "只套用到新項目，每次仍可修改。"
+                   },
+                   {
+                       "name":  "settings_privacy",
+                       "value":  "資料與隱私"
+                   },
+                   {
+                       "name":  "settings_privacy_desc",
+                       "value":  "Deadline、任務與設定儲存在此裝置。本版本不提供帳號登入或應用程式雲端同步。若裝置開啟系統備份，系統可能備份應用程式資料，依裝置設定而定。通知為選用功能，關閉不影響本機使用。解除安裝或清除應用程式資料可能遺失紀錄。"
+                   },
+                   {
+                       "name":  "settings_privacy_local",
+                       "value":  "不登入也能使用 Dayline 的完整本機功能。"
+                   },
+                   {
+                       "name":  "settings_about_tagline",
+                       "value":  "把截止日期變成今天能執行的計畫"
+                   },
+                   {
+                       "name":  "settings_version",
+                       "value":  "版本 1.0.0"
+                   },
+                   {
+                       "name":  "settings_preferences",
+                       "value":  "偏好設定"
+                   },
+                   {
+                       "name":  "settings_general",
+                       "value":  "一般"
+                   },
+                   {
+                       "name":  "settings_appearance_language",
+                       "value":  "外觀與語言"
+                   },
+                   {
+                       "name":  "settings_language_system",
+                       "value":  "跟隨系統"
+                   },
+                   {
+                       "name":  "settings_summary_pair",
+                       "value":  "{0} · {1}"
+                   },
+                   {
+                       "name":  "settings_hours_day",
+                       "value":  "每天 {0} 小時"
+                   },
+                   {
+                       "name":  "settings_open_appearance_failed",
+                       "value":  "無法開啟外觀與語言設定"
+                   },
+                   {
+                       "name":  "settings_open_planning_failed",
+                       "value":  "無法開啟任務與計劃設定"
+                   },
+                   {
+                       "name":  "settings_privacy_summary",
+                       "value":  "儲存在此裝置；系統備份依裝置設定"
+                   },
+                   {
+                       "name":  "settings_about",
+                       "value":  "關於 Dayline"
+                   },
+                   {
+                       "name":  "settings_planning_defaults",
+                       "value":  "預設設定"
+                   },
+                   {
+                       "name":  "settings_planning_time",
+                       "value":  "可投入時間"
+                   },
+                   {
+                       "name":  "settings_planning_home",
+                       "value":  "首頁"
+                   },
+                   {
+                       "name":  "common_days_value",
+                       "value":  "%s 天"
+                   },
+                   {
+                       "name":  "common_items_value",
+                       "value":  "%s 項"
+                   },
+                   {
+                       "name":  "create_more_options",
+                       "value":  "更多選項（選填）"
+                   },
+                   {
+                       "name":  "create_fewer_options",
+                       "value":  "收起選項"
+                   },
+    {"name": "common_undo", "value": "復原"},
+    {"name": "detail_more_info", "value": "查看計劃與詳情"},
+    {"name": "detail_less_info", "value": "收起詳情"},
+    {"name": "detail_workload_summary", "value": "工作量估計"}
+]
+}

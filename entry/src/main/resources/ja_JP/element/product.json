@@ -1,0 +1,368 @@
+{
+  "string": [
+    {
+      "name": "home_subtitle",
+      "value": "今日いちばん大切なことから"
+    },
+    {
+      "name": "home_loading",
+      "value": "今日の優先順位を整理しています…"
+    },
+    {
+      "name": "home_empty_title",
+      "value": "最初の締切を追加しましょう"
+    },
+    {
+      "name": "home_empty_body",
+      "value": "まず名前と期限を入力。タスクや大まかな所要時間を追加すると、今日の提案がより具体的になります。"
+    },
+    {
+      "name": "home_create_first",
+      "value": "最初の締切を作成"
+    },
+    {
+      "name": "home_today_priority",
+      "value": "今日の最優先"
+    },
+    {
+      "name": "home_why",
+      "value": "優先する理由"
+    },
+    {
+      "name": "home_next",
+      "value": "次にやること"
+    },
+    {
+      "name": "home_auto_schedule",
+      "value": "自動スケジュール"
+    },
+    {
+      "name": "home_schedule_hint",
+      "value": "進捗に合わせて更新"
+    },
+    {
+      "name": "home_current_progress",
+      "value": "全体の進捗"
+    },
+    {
+      "name": "home_high_risk",
+      "value": "高リスク"
+    },
+    {
+      "name": "home_later",
+      "value": "あとでよいもの"
+    },
+    {
+      "name": "home_all_deadlines",
+      "value": "すべての締切"
+    },
+    {
+      "name": "home_add_deadline",
+      "value": "締切を追加"
+    },
+    {
+      "name": "home_all_done",
+      "value": "今日進める項目はありません"
+    },
+    {
+      "name": "home_all_done_desc",
+      "value": "現在の項目はすべて完了しています。次の予定を立てられます。"
+    },
+    {
+      "name": "home_view_details",
+      "value": "詳細を見る"
+    },
+    {
+      "name": "home_complete_task",
+      "value": "タスクを完了"
+    },
+    {
+      "name": "home_break_down",
+      "value": "タスクに分ける"
+    },
+    {
+      "name": "create_new_title",
+      "value": "新しい締切"
+    },
+    {
+      "name": "create_edit_title",
+      "value": "締切を編集"
+    },
+    {
+      "name": "create_new_subtitle",
+      "value": "次の大切な予定を記録"
+    },
+    {
+      "name": "create_edit_subtitle",
+      "value": "締切の内容を更新"
+    },
+    {
+      "name": "field_name",
+      "value": "名前"
+    },
+    {
+      "name": "field_type",
+      "value": "種類"
+    },
+    {
+      "name": "field_workload",
+      "value": "合計見積もり時間"
+    },
+    {
+      "name": "field_progress_mode",
+      "value": "進捗の管理方法"
+    },
+    {
+      "name": "field_due_date",
+      "value": "期限日"
+    },
+    {
+      "name": "field_due_time",
+      "value": "期限時刻"
+    },
+    {
+      "name": "field_reminder",
+      "value": "期限通知"
+    },
+    {
+      "name": "field_note",
+      "value": "メモ（任意）"
+    },
+    {
+      "name": "field_progress",
+      "value": "現在の進捗"
+    },
+    {
+      "name": "tasks_breakdown",
+      "value": "タスク分解"
+    },
+    {
+      "name": "tasks_add_top",
+      "value": "タスクを追加"
+    },
+    {
+      "name": "tasks_empty",
+      "value": "タスクはまだありません。あとから追加できます。"
+    },
+    {
+      "name": "create_save",
+      "value": "締切を保存"
+    },
+    {
+      "name": "create_save_changes",
+      "value": "変更を保存"
+    },
+    {
+      "name": "type_assignment",
+      "value": "課題"
+    },
+    {
+      "name": "type_exam",
+      "value": "試験"
+    },
+    {
+      "name": "type_competition",
+      "value": "コンテスト"
+    },
+    {
+      "name": "type_project",
+      "value": "プロジェクト"
+    },
+    {
+      "name": "type_life",
+      "value": "個人"
+    },
+    {
+      "name": "type_other",
+      "value": "その他"
+    },
+    {
+      "name": "reminder_none",
+      "value": "通知しない"
+    },
+    {
+      "name": "reminder_hour",
+      "value": "1時間前"
+    },
+    {
+      "name": "reminder_day",
+      "value": "1日前"
+    },
+    {
+      "name": "reminder_three_days",
+      "value": "3日前"
+    },
+    {
+      "name": "detail_title",
+      "value": "締切の詳細"
+    },
+    {
+      "name": "detail_progress_work",
+      "value": "進捗と作業量"
+    },
+    {
+      "name": "detail_schedule",
+      "value": "自動スケジュール"
+    },
+    {
+      "name": "detail_schedule_hint",
+      "value": "タスクや進捗が変わるたびに更新"
+    },
+    {
+      "name": "detail_tasks",
+      "value": "タスク"
+    },
+    {
+      "name": "detail_note",
+      "value": "メモ"
+    },
+    {
+      "name": "detail_mark_complete",
+      "value": "完了にする"
+    },
+    {
+      "name": "detail_restore",
+      "value": "未完了に戻す"
+    },
+    {
+      "name": "detail_delete",
+      "value": "締切を削除"
+    },
+    {
+      "name": "detail_remaining_time",
+      "value": "残り時間"
+    },
+    {
+      "name": "detail_status",
+      "value": "状態"
+    },
+    {
+      "name": "detail_no_note",
+      "value": "メモなし"
+    },
+    {
+      "name": "detail_pending_breakdown",
+      "value": "タスク分解待ち"
+    },
+    {
+      "name": "notification_title",
+      "value": "通知プラン"
+    },
+    {
+      "name": "notification_subtitle",
+      "value": "通知は少なく、次の行動は明確に"
+    },
+    {
+      "name": "notification_permission",
+      "value": "通知の許可"
+    },
+    {
+      "name": "notification_intensity",
+      "value": "通知レベル"
+    },
+    {
+      "name": "notification_content",
+      "value": "追加の通知"
+    },
+    {
+      "name": "notification_time",
+      "value": "時刻と通知しない時間"
+    },
+    {
+      "name": "notification_save",
+      "value": "通知設定を保存"
+    },
+    {
+      "name": "notification_daily",
+      "value": "毎日の行動まとめ"
+    },
+    {
+      "name": "notification_risk",
+      "value": "リスク上昇の通知"
+    },
+    {
+      "name": "notification_replan",
+      "value": "予定変更の通知"
+    },
+    {
+      "name": "notification_quiet",
+      "value": "通知しない時間"
+    },
+    {
+      "name": "cloud_title",
+      "value": "アカウントとクラウド同期"
+    },
+    {
+      "name": "cloud_subtitle",
+      "value": "端末優先、オフラインでも利用可能"
+    },
+    {
+      "name": "cloud_local_mode",
+      "value": "この端末のみ"
+    },
+    {
+      "name": "cloud_sign_in",
+      "value": "HUAWEI IDでサインイン"
+    },
+    {
+      "name": "cloud_sign_out",
+      "value": "クラウド同期をオフ"
+    },
+    {
+      "name": "cloud_sync_now",
+      "value": "今すぐ同期"
+    },
+    {
+      "name": "cloud_current_account",
+      "value": "現在のアカウント"
+    },
+    {
+      "name": "cloud_last_sync",
+      "value": "前回の同期"
+    },
+    {
+      "name": "cloud_sync_method",
+      "value": "同期の仕組み"
+    },
+    {
+      "name": "risk_low",
+      "value": "低リスク"
+    },
+    {
+      "name": "risk_medium",
+      "value": "中リスク"
+    },
+    {
+      "name": "risk_high",
+      "value": "高リスク"
+    },
+    {
+      "name": "risk_done",
+      "value": "完了"
+    },
+    {
+      "name": "risk_overdue",
+      "value": "期限切れ"
+    },
+    {
+      "name": "risk_not_estimated",
+      "value": "作業量未設定"
+    },
+    {
+      "name": "schedule_today",
+      "value": "今日"
+    },
+    {
+      "name": "schedule_tomorrow",
+      "value": "明日"
+    },
+    {
+      "name": "schedule_buffer",
+      "value": "予備日"
+    },
+    {
+      "name": "schedule_flex",
+      "value": "調整日"
+    }
+  ]
+}

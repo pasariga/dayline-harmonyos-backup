@@ -1,0 +1,1 @@
+SELECT 123;SELECT count(*) FROM deadlines;

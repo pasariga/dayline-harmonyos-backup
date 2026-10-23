@@ -1,0 +1,388 @@
+{
+    "string":  [
+                   {
+                       "name":  "module_desc",
+                       "value":  "Dayline 締切・進捗・リスク管理"
+                   },
+                   {
+                       "name":  "EntryAbility_desc",
+                       "value":  "締切、進捗、今日の優先事項を管理"
+                   },
+                   {
+                       "name":  "EntryAbility_label",
+                       "value":  "Dayline"
+                   },
+                   {
+                       "name":  "data_sync_permission_reason",
+                       "value":  "サインイン後、締切とタスクをHUAWEI Cloudに同期します"
+                   },
+                   {
+                       "name":  "common_back",
+                       "value":  "戻る"
+                   },
+                   {
+                       "name":  "common_retry",
+                       "value":  "再読み込み"
+                   },
+                   {
+                       "name":  "common_save",
+                       "value":  "保存"
+                   },
+                   {
+                       "name":  "common_saving",
+                       "value":  "保存中…"
+                   },
+                   {
+                       "name":  "common_cancel",
+                       "value":  "キャンセル"
+                   },
+                   {
+                       "name":  "common_add",
+                       "value":  "追加"
+                   },
+                   {
+                       "name":  "common_edit",
+                       "value":  "編集"
+                   },
+                   {
+                       "name":  "common_delete",
+                       "value":  "削除"
+                   },
+                   {
+                       "name":  "common_completed",
+                       "value":  "完了"
+                   },
+                   {
+                       "name":  "common_incomplete",
+                       "value":  "未完了"
+                   },
+                   {
+                       "name":  "common_overdue",
+                       "value":  "期限切れ"
+                   },
+                   {
+                       "name":  "common_today",
+                       "value":  "今日"
+                   },
+                   {
+                       "name":  "common_tomorrow",
+                       "value":  "明日"
+                   },
+                   {
+                       "name":  "common_hours_value",
+                       "value":  "%s時間"
+                   },
+                   {
+                       "name":  "common_status_unavailable",
+                       "value":  "状態を取得できません · タップして確認"
+                   },
+                   {
+                       "name":  "common_error_retry",
+                       "value":  "処理できませんでした。しばらくしてからもう一度お試しください。"
+                   },
+                   {
+                       "name":  "core_deadline",
+                       "value":  "締切"
+                   },
+                   {
+                       "name":  "core_today_action",
+                       "value":  "今日やること"
+                   },
+                   {
+                       "name":  "core_automatic_progress",
+                       "value":  "タスク連動の進捗"
+                   },
+                   {
+                       "name":  "core_manual_progress",
+                       "value":  "手動進捗"
+                   },
+                   {
+                       "name":  "core_risk_level",
+                       "value":  "リスク"
+                   },
+                   {
+                       "name":  "core_reverse_plan",
+                       "value":  "自動スケジュール"
+                   },
+                   {
+                       "name":  "core_replan",
+                       "value":  "予定の組み直し"
+                   },
+                   {
+                       "name":  "core_remaining_work",
+                       "value":  "残り作業"
+                   },
+                   {
+                       "name":  "core_available_time",
+                       "value":  "使える時間"
+                   },
+                   {
+                       "name":  "core_notification_policy",
+                       "value":  "通知プラン"
+                   },
+                   {
+                       "name":  "core_cloud_sync",
+                       "value":  "クラウド同期"
+                   },
+                   {
+                       "name":  "settings_title",
+                       "value":  "設定"
+                   },
+                   {
+                       "name":  "settings_subtitle",
+                       "value":  "Daylineを自分の使い方に合わせる"
+                   },
+                   {
+                       "name":  "settings_loading",
+                       "value":  "設定を読み込んでいます…"
+                   },
+                   {
+                       "name":  "settings_save_failed",
+                       "value":  "設定を保存できませんでした。あとでもう一度お試しください。"
+                   },
+                   {
+                       "name":  "settings_account_title",
+                       "value":  "アカウントと同期"
+                   },
+                   {
+                       "name":  "settings_account_desc",
+                       "value":  "サインインは任意です。データは既定でこの端末に保存されます。"
+                   },
+                   {
+                       "name":  "settings_huawei_account",
+                       "value":  "HUAWEI IDとクラウド同期"
+                   },
+                   {
+                       "name":  "settings_signed_out",
+                       "value":  "未サインイン · この端末に保存"
+                   },
+                   {
+                       "name":  "settings_sync_waiting",
+                       "value":  "サインイン済み · 同期待ち"
+                   },
+                   {
+                       "name":  "settings_sync_ok",
+                       "value":  "サインイン済み · 同期済み"
+                   },
+                   {
+                       "name":  "settings_local_data",
+                       "value":  "この端末に保存"
+                   },
+                   {
+                       "name":  "settings_open_account_failed",
+                       "value":  "アカウントと同期の設定を開けませんでした"
+                   },
+                   {
+                       "name":  "settings_appearance",
+                       "value":  "外観"
+                   },
+                   {
+                       "name":  "settings_appearance_desc",
+                       "value":  "端末のテーマに合わせるか、ライト／ダークを固定できます。"
+                   },
+                   {
+                       "name":  "settings_theme_system",
+                       "value":  "端末の設定を使用"
+                   },
+                   {
+                       "name":  "settings_theme_light",
+                       "value":  "ライト"
+                   },
+                   {
+                       "name":  "settings_theme_dark",
+                       "value":  "ダーク"
+                   },
+                   {
+                       "name":  "settings_language_region",
+                       "value":  "言語と地域"
+                   },
+                   {
+                       "name":  "settings_language_desc",
+                       "value":  "選択した言語を全体に反映するため、Daylineを再起動します。"
+                   },
+                   {
+                       "name":  "settings_app_language",
+                       "value":  "アプリの言語"
+                   },
+                   {
+                       "name":  "settings_language_saved_restart",
+                       "value":  "言語を保存しました。次回起動時に反映されます。"
+                   },
+                   {
+                       "name":  "settings_language_save_failed",
+                       "value":  "言語設定を保存できませんでした。あとでもう一度お試しください。"
+                   },
+                   {
+                       "name":  "settings_notifications",
+                       "value":  "通知"
+                   },
+                   {
+                       "name":  "settings_notifications_desc",
+                       "value":  "締切通知、毎日のまとめ、通知しない時間を管理します。"
+                   },
+                   {
+                       "name":  "settings_open_notifications_failed",
+                       "value":  "通知設定を開けませんでした"
+                   },
+                   {
+                       "name":  "settings_permission_on",
+                       "value":  "システム通知：オン"
+                   },
+                   {
+                       "name":  "settings_permission_off",
+                       "value":  "システム通知：オフ"
+                   },
+                   {
+                       "name":  "settings_intensity_concise",
+                       "value":  "必要最小限"
+                   },
+                   {
+                       "name":  "settings_intensity_standard",
+                       "value":  "標準"
+                   },
+                   {
+                       "name":  "settings_intensity_active",
+                       "value":  "積極的"
+                   },
+                   {
+                       "name":  "settings_intensity_custom",
+                       "value":  "カスタム"
+                   },
+                   {
+                       "name":  "settings_tasks_plans",
+                       "value":  "タスクと計画"
+                   },
+                   {
+                       "name":  "settings_tasks_desc",
+                       "value":  "進捗の既定値は新規作成時のみ。使える時間はリスクと予定にすぐ反映されます。"
+                   },
+                   {
+                       "name":  "settings_default_progress",
+                       "value":  "標準の進捗"
+                   },
+                   {
+                       "name":  "settings_progress_hint",
+                       "value":  "大きな課題はタスク連動、簡単な予定は手動進捗が手軽です。"
+                   },
+                   {
+                       "name":  "settings_weekday",
+                       "value":  "平日"
+                   },
+                   {
+                       "name":  "settings_weekend",
+                       "value":  "週末"
+                   },
+                   {
+                       "name":  "settings_time_hint",
+                       "value":  "毎日の入力は不要です。曜日と今日の残り時間に合わせて配分します。"
+                   },
+                   {
+                       "name":  "settings_home_schedule",
+                       "value":  "ホームに自動予定を表示"
+                   },
+                   {
+                       "name":  "settings_home_schedule_desc",
+                       "value":  "オフにしても、詳細画面では予定全体を確認できます。"
+                   },
+                   {
+                       "name":  "settings_default_deadline_time",
+                       "value":  "既定の締切時刻"
+                   },
+                   {
+                       "name":  "settings_default_deadline_time_desc",
+                       "value":  "新規作成時だけ使われ、毎回変更できます。"
+                   },
+                   {
+                       "name":  "settings_privacy",
+                       "value":  "データとプライバシー"
+                   },
+                   {
+                       "name":  "settings_privacy_desc",
+                       "value":  "Deadline、タスク、設定はこの端末に保存されます。このバージョンではログインやアプリのクラウド同期は利用できません。システムのバックアップが有効な場合、端末設定に応じてアプリのデータがバックアップされることがあります。通知は任意で、無効にしても端末での利用に影響しません。アンインストールやアプリデータの消去で記録が失われることがあります。"
+                   },
+                   {
+                       "name":  "settings_privacy_local",
+                       "value":  "サインインしなくても、すべての端末内機能を利用できます。"
+                   },
+                   {
+                       "name":  "settings_about_tagline",
+                       "value":  "締切を、今日動ける計画に"
+                   },
+                   {
+                       "name":  "settings_version",
+                       "value":  "バージョン 1.0.0"
+                   },
+                   {
+                       "name":  "settings_preferences",
+                       "value":  "環境設定"
+                   },
+                   {
+                       "name":  "settings_general",
+                       "value":  "一般"
+                   },
+                   {
+                       "name":  "settings_appearance_language",
+                       "value":  "表示と言語"
+                   },
+                   {
+                       "name":  "settings_language_system",
+                       "value":  "システムに合わせる"
+                   },
+                   {
+                       "name":  "settings_summary_pair",
+                       "value":  "{0}・{1}"
+                   },
+                   {
+                       "name":  "settings_hours_day",
+                       "value":  "1日 {0} 時間"
+                   },
+                   {
+                       "name":  "settings_open_appearance_failed",
+                       "value":  "表示と言語の設定を開けませんでした"
+                   },
+                   {
+                       "name":  "settings_open_planning_failed",
+                       "value":  "タスクと計画の設定を開けませんでした"
+                   },
+                   {
+                       "name":  "settings_privacy_summary",
+                       "value":  "端末に保存・システムのバックアップは端末設定によります"
+                   },
+                   {
+                       "name":  "settings_about",
+                       "value":  "Dayline について"
+                   },
+                   {
+                       "name":  "settings_planning_defaults",
+                       "value":  "デフォルト"
+                   },
+                   {
+                       "name":  "settings_planning_time",
+                       "value":  "使える時間"
+                   },
+                   {
+                       "name":  "settings_planning_home",
+                       "value":  "ホーム"
+                   },
+                   {
+                       "name":  "common_days_value",
+                       "value":  "%s日"
+                   },
+                   {
+                       "name":  "common_items_value",
+                       "value":  "%s件"
+                   },
+                   {
+                       "name":  "create_more_options",
+                       "value":  "その他の設定（任意）"
+                   },
+                   {
+                       "name":  "create_fewer_options",
+                       "value":  "設定を閉じる"
+                   },
+    {"name": "common_undo", "value": "元に戻す"},
+    {"name": "detail_more_info", "value": "計画と詳細を見る"},
+    {"name": "detail_less_info", "value": "詳細を閉じる"},
+    {"name": "detail_workload_summary", "value": "作業量の目安"}
+]
+}

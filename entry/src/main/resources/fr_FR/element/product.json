@@ -1,0 +1,368 @@
+{
+  "string": [
+    {
+      "name": "home_subtitle",
+      "value": "Commencez par l'essentiel aujourd'hui"
+    },
+    {
+      "name": "home_loading",
+      "value": "Calcul des priorités du jour…"
+    },
+    {
+      "name": "home_empty_title",
+      "value": "Créez votre première échéance"
+    },
+    {
+      "name": "home_empty_body",
+      "value": "Commencez par un nom et une échéance. Des tâches ou une estimation de durée rendront les suggestions du jour plus précises."
+    },
+    {
+      "name": "home_create_first",
+      "value": "Créer une première échéance"
+    },
+    {
+      "name": "home_today_priority",
+      "value": "Priorité du jour"
+    },
+    {
+      "name": "home_why",
+      "value": "Pourquoi en premier"
+    },
+    {
+      "name": "home_next",
+      "value": "Ensuite"
+    },
+    {
+      "name": "home_auto_schedule",
+      "value": "Planning automatique"
+    },
+    {
+      "name": "home_schedule_hint",
+      "value": "S'adapte à votre avancement"
+    },
+    {
+      "name": "home_current_progress",
+      "value": "Avancement global"
+    },
+    {
+      "name": "home_high_risk",
+      "value": "Risque élevé"
+    },
+    {
+      "name": "home_later",
+      "value": "Peut attendre"
+    },
+    {
+      "name": "home_all_deadlines",
+      "value": "Toutes les échéances"
+    },
+    {
+      "name": "home_add_deadline",
+      "value": "Ajouter une échéance"
+    },
+    {
+      "name": "home_all_done",
+      "value": "Rien à faire avancer aujourd'hui"
+    },
+    {
+      "name": "home_all_done_desc",
+      "value": "Tout est à jour. Vous pouvez planifier la suite."
+    },
+    {
+      "name": "home_view_details",
+      "value": "Voir les détails"
+    },
+    {
+      "name": "home_complete_task",
+      "value": "Terminer la tâche"
+    },
+    {
+      "name": "home_break_down",
+      "value": "Découper en tâches"
+    },
+    {
+      "name": "create_new_title",
+      "value": "Nouvelle échéance"
+    },
+    {
+      "name": "create_edit_title",
+      "value": "Modifier l'échéance"
+    },
+    {
+      "name": "create_new_subtitle",
+      "value": "Notez la prochaine chose importante"
+    },
+    {
+      "name": "create_edit_subtitle",
+      "value": "Mettez à jour l'échéance"
+    },
+    {
+      "name": "field_name",
+      "value": "Nom"
+    },
+    {
+      "name": "field_type",
+      "value": "Type"
+    },
+    {
+      "name": "field_workload",
+      "value": "Effort total estimé (heures)"
+    },
+    {
+      "name": "field_progress_mode",
+      "value": "Suivi de l'avancement"
+    },
+    {
+      "name": "field_due_date",
+      "value": "Date limite"
+    },
+    {
+      "name": "field_due_time",
+      "value": "Heure limite"
+    },
+    {
+      "name": "field_reminder",
+      "value": "Rappel"
+    },
+    {
+      "name": "field_note",
+      "value": "Notes (facultatif)"
+    },
+    {
+      "name": "field_progress",
+      "value": "Avancement actuel"
+    },
+    {
+      "name": "tasks_breakdown",
+      "value": "Découpage des tâches"
+    },
+    {
+      "name": "tasks_add_top",
+      "value": "Ajouter une tâche"
+    },
+    {
+      "name": "tasks_empty",
+      "value": "Aucune tâche pour le moment. Vous pourrez en ajouter plus tard."
+    },
+    {
+      "name": "create_save",
+      "value": "Enregistrer l'échéance"
+    },
+    {
+      "name": "create_save_changes",
+      "value": "Enregistrer les modifications"
+    },
+    {
+      "name": "type_assignment",
+      "value": "Devoir"
+    },
+    {
+      "name": "type_exam",
+      "value": "Examen"
+    },
+    {
+      "name": "type_competition",
+      "value": "Concours"
+    },
+    {
+      "name": "type_project",
+      "value": "Projet"
+    },
+    {
+      "name": "type_life",
+      "value": "Personnel"
+    },
+    {
+      "name": "type_other",
+      "value": "Autre"
+    },
+    {
+      "name": "reminder_none",
+      "value": "Aucun rappel"
+    },
+    {
+      "name": "reminder_hour",
+      "value": "1 heure avant"
+    },
+    {
+      "name": "reminder_day",
+      "value": "1 jour avant"
+    },
+    {
+      "name": "reminder_three_days",
+      "value": "3 jours avant"
+    },
+    {
+      "name": "detail_title",
+      "value": "Détails de l'échéance"
+    },
+    {
+      "name": "detail_progress_work",
+      "value": "Avancement et effort"
+    },
+    {
+      "name": "detail_schedule",
+      "value": "Planning automatique"
+    },
+    {
+      "name": "detail_schedule_hint",
+      "value": "Se recalcule lorsque les tâches ou l'avancement changent"
+    },
+    {
+      "name": "detail_tasks",
+      "value": "Tâches"
+    },
+    {
+      "name": "detail_note",
+      "value": "Notes"
+    },
+    {
+      "name": "detail_mark_complete",
+      "value": "Marquer comme terminé"
+    },
+    {
+      "name": "detail_restore",
+      "value": "Marquer comme non terminé"
+    },
+    {
+      "name": "detail_delete",
+      "value": "Supprimer l'échéance"
+    },
+    {
+      "name": "detail_remaining_time",
+      "value": "Temps restant"
+    },
+    {
+      "name": "detail_status",
+      "value": "État"
+    },
+    {
+      "name": "detail_no_note",
+      "value": "Aucune note"
+    },
+    {
+      "name": "detail_pending_breakdown",
+      "value": "À découper"
+    },
+    {
+      "name": "notification_title",
+      "value": "Plan de notifications"
+    },
+    {
+      "name": "notification_subtitle",
+      "value": "Moins d'alertes, toujours une prochaine étape claire"
+    },
+    {
+      "name": "notification_permission",
+      "value": "Autorisation"
+    },
+    {
+      "name": "notification_intensity",
+      "value": "Niveau d'alerte"
+    },
+    {
+      "name": "notification_content",
+      "value": "Alertes proactives"
+    },
+    {
+      "name": "notification_time",
+      "value": "Horaires et heures calmes"
+    },
+    {
+      "name": "notification_save",
+      "value": "Enregistrer les notifications"
+    },
+    {
+      "name": "notification_daily",
+      "value": "Résumé des actions"
+    },
+    {
+      "name": "notification_risk",
+      "value": "Alertes de hausse du risque"
+    },
+    {
+      "name": "notification_replan",
+      "value": "Alertes de réajustement"
+    },
+    {
+      "name": "notification_quiet",
+      "value": "Heures calmes"
+    },
+    {
+      "name": "cloud_title",
+      "value": "Compte et synchronisation"
+    },
+    {
+      "name": "cloud_subtitle",
+      "value": "D'abord local, entièrement disponible hors ligne"
+    },
+    {
+      "name": "cloud_local_mode",
+      "value": "Sur cet appareil uniquement"
+    },
+    {
+      "name": "cloud_sign_in",
+      "value": "Se connecter avec HUAWEI ID"
+    },
+    {
+      "name": "cloud_sign_out",
+      "value": "Désactiver la synchronisation"
+    },
+    {
+      "name": "cloud_sync_now",
+      "value": "Synchroniser"
+    },
+    {
+      "name": "cloud_current_account",
+      "value": "Compte actuel"
+    },
+    {
+      "name": "cloud_last_sync",
+      "value": "Dernière synchronisation"
+    },
+    {
+      "name": "cloud_sync_method",
+      "value": "Fonctionnement de la synchronisation"
+    },
+    {
+      "name": "risk_low",
+      "value": "Risque faible"
+    },
+    {
+      "name": "risk_medium",
+      "value": "Risque moyen"
+    },
+    {
+      "name": "risk_high",
+      "value": "Risque élevé"
+    },
+    {
+      "name": "risk_done",
+      "value": "Terminé"
+    },
+    {
+      "name": "risk_overdue",
+      "value": "En retard"
+    },
+    {
+      "name": "risk_not_estimated",
+      "value": "Effort non estimé"
+    },
+    {
+      "name": "schedule_today",
+      "value": "Aujourd'hui"
+    },
+    {
+      "name": "schedule_tomorrow",
+      "value": "Demain"
+    },
+    {
+      "name": "schedule_buffer",
+      "value": "Marge"
+    },
+    {
+      "name": "schedule_flex",
+      "value": "Flexible"
+    }
+  ]
+}

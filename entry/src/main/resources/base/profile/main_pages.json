@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/CreateDeadline",
+    "pages/DeadlineDetail",
+    "pages/CloudAccount",
+    "pages/NotificationSettings",
+    "pages/Settings",
+    "pages/AppearanceLanguageSettings",
+    "pages/PlanningSettings",
+    "pages/ConflictRecovery"
+  ]
+}

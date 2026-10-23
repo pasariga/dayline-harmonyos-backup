@@ -1,0 +1,388 @@
+{
+    "string":  [
+                   {
+                       "name":  "module_desc",
+                       "value":  "Dayline für Fortschritt, Fristen und Risiken"
+                   },
+                   {
+                       "name":  "EntryAbility_desc",
+                       "value":  "Fristen, Fortschritt und heutige Prioritäten verwalten"
+                   },
+                   {
+                       "name":  "EntryAbility_label",
+                       "value":  "Dayline"
+                   },
+                   {
+                       "name":  "data_sync_permission_reason",
+                       "value":  "Synchronisiert nach der Anmeldung Fristen und Aufgaben mit der HUAWEI Cloud"
+                   },
+                   {
+                       "name":  "common_back",
+                       "value":  "Zurück"
+                   },
+                   {
+                       "name":  "common_retry",
+                       "value":  "Erneut versuchen"
+                   },
+                   {
+                       "name":  "common_save",
+                       "value":  "Speichern"
+                   },
+                   {
+                       "name":  "common_saving",
+                       "value":  "Wird gespeichert…"
+                   },
+                   {
+                       "name":  "common_cancel",
+                       "value":  "Abbrechen"
+                   },
+                   {
+                       "name":  "common_add",
+                       "value":  "Hinzufügen"
+                   },
+                   {
+                       "name":  "common_edit",
+                       "value":  "Bearbeiten"
+                   },
+                   {
+                       "name":  "common_delete",
+                       "value":  "Löschen"
+                   },
+                   {
+                       "name":  "common_completed",
+                       "value":  "Erledigt"
+                   },
+                   {
+                       "name":  "common_incomplete",
+                       "value":  "Offen"
+                   },
+                   {
+                       "name":  "common_overdue",
+                       "value":  "Überfällig"
+                   },
+                   {
+                       "name":  "common_today",
+                       "value":  "Heute"
+                   },
+                   {
+                       "name":  "common_tomorrow",
+                       "value":  "Morgen"
+                   },
+                   {
+                       "name":  "common_hours_value",
+                       "value":  "%s Std."
+                   },
+                   {
+                       "name":  "common_status_unavailable",
+                       "value":  "Status nicht verfügbar · Antippen"
+                   },
+                   {
+                       "name":  "common_error_retry",
+                       "value":  "Das hat nicht geklappt. Versuche es später erneut."
+                   },
+                   {
+                       "name":  "core_deadline",
+                       "value":  "Frist"
+                   },
+                   {
+                       "name":  "core_today_action",
+                       "value":  "Heute wichtig"
+                   },
+                   {
+                       "name":  "core_automatic_progress",
+                       "value":  "Aufgabenbasierter Fortschritt"
+                   },
+                   {
+                       "name":  "core_manual_progress",
+                       "value":  "Manueller Fortschritt"
+                   },
+                   {
+                       "name":  "core_risk_level",
+                       "value":  "Risiko"
+                   },
+                   {
+                       "name":  "core_reverse_plan",
+                       "value":  "Automatischer Zeitplan"
+                   },
+                   {
+                       "name":  "core_replan",
+                       "value":  "Zeitplan angepasst"
+                   },
+                   {
+                       "name":  "core_remaining_work",
+                       "value":  "Restaufwand"
+                   },
+                   {
+                       "name":  "core_available_time",
+                       "value":  "Verfügbare Zeit"
+                   },
+                   {
+                       "name":  "core_notification_policy",
+                       "value":  "Benachrichtigungen"
+                   },
+                   {
+                       "name":  "core_cloud_sync",
+                       "value":  "Cloud-Synchronisierung"
+                   },
+                   {
+                       "name":  "settings_title",
+                       "value":  "Einstellungen"
+                   },
+                   {
+                       "name":  "settings_subtitle",
+                       "value":  "Dayline an deine Gewohnheiten anpassen"
+                   },
+                   {
+                       "name":  "settings_loading",
+                       "value":  "Einstellungen werden geladen…"
+                   },
+                   {
+                       "name":  "settings_save_failed",
+                       "value":  "Einstellungen konnten nicht gespeichert werden. Versuche es später erneut."
+                   },
+                   {
+                       "name":  "settings_account_title",
+                       "value":  "Konto und Synchronisierung"
+                   },
+                   {
+                       "name":  "settings_account_desc",
+                       "value":  "Die Anmeldung ist optional. Deine Daten bleiben standardmäßig auf diesem Gerät."
+                   },
+                   {
+                       "name":  "settings_huawei_account",
+                       "value":  "HUAWEI ID \u0026 Cloud"
+                   },
+                   {
+                       "name":  "settings_signed_out",
+                       "value":  "Nicht angemeldet · Auf diesem Gerät gespeichert"
+                   },
+                   {
+                       "name":  "settings_sync_waiting",
+                       "value":  "Angemeldet · Synchronisierung ausstehend"
+                   },
+                   {
+                       "name":  "settings_sync_ok",
+                       "value":  "Angemeldet · Aktuell"
+                   },
+                   {
+                       "name":  "settings_local_data",
+                       "value":  "Auf diesem Gerät gespeichert"
+                   },
+                   {
+                       "name":  "settings_open_account_failed",
+                       "value":  "Kontoeinstellungen konnten nicht geöffnet werden"
+                   },
+                   {
+                       "name":  "settings_appearance",
+                       "value":  "Darstellung"
+                   },
+                   {
+                       "name":  "settings_appearance_desc",
+                       "value":  "Gerätedesign verwenden oder Hell/Dunkel festlegen."
+                   },
+                   {
+                       "name":  "settings_theme_system",
+                       "value":  "Geräteeinstellung"
+                   },
+                   {
+                       "name":  "settings_theme_light",
+                       "value":  "Hell"
+                   },
+                   {
+                       "name":  "settings_theme_dark",
+                       "value":  "Dunkel"
+                   },
+                   {
+                       "name":  "settings_language_region",
+                       "value":  "Sprache und Region"
+                   },
+                   {
+                       "name":  "settings_language_desc",
+                       "value":  "Dayline wird neu gestartet, damit die Sprache überall gilt."
+                   },
+                   {
+                       "name":  "settings_app_language",
+                       "value":  "App-Sprache"
+                   },
+                   {
+                       "name":  "settings_language_saved_restart",
+                       "value":  "Sprache gespeichert. Sie gilt beim nächsten Start von Dayline."
+                   },
+                   {
+                       "name":  "settings_language_save_failed",
+                       "value":  "Die Sprache konnte nicht gespeichert werden. Versuche es später erneut."
+                   },
+                   {
+                       "name":  "settings_notifications",
+                       "value":  "Mitteilungen"
+                   },
+                   {
+                       "name":  "settings_notifications_desc",
+                       "value":  "Fristerinnerungen, Tagesübersicht und Ruhezeiten verwalten."
+                   },
+                   {
+                       "name":  "settings_open_notifications_failed",
+                       "value":  "Benachrichtigungseinstellungen konnten nicht geöffnet werden"
+                   },
+                   {
+                       "name":  "settings_permission_on",
+                       "value":  "Systemmitteilungen aktiviert"
+                   },
+                   {
+                       "name":  "settings_permission_off",
+                       "value":  "Systemmitteilungen deaktiviert"
+                   },
+                   {
+                       "name":  "settings_intensity_concise",
+                       "value":  "Nur Wichtiges"
+                   },
+                   {
+                       "name":  "settings_intensity_standard",
+                       "value":  "Standard"
+                   },
+                   {
+                       "name":  "settings_intensity_active",
+                       "value":  "Aktiv"
+                   },
+                   {
+                       "name":  "settings_intensity_custom",
+                       "value":  "Benutzerdefiniert"
+                   },
+                   {
+                       "name":  "settings_tasks_plans",
+                       "value":  "Aufgaben und Planung"
+                   },
+                   {
+                       "name":  "settings_tasks_desc",
+                       "value":  "Der Fortschrittsstandard gilt für neue Fristen. Verfügbare Zeit aktualisiert Risiko und Planung sofort."
+                   },
+                   {
+                       "name":  "settings_default_progress",
+                       "value":  "Fortschritt"
+                   },
+                   {
+                       "name":  "settings_progress_hint",
+                       "value":  "Für größere Projekte eignet sich aufgabenbasierter Fortschritt, für einfache Fristen ist manuell schneller."
+                   },
+                   {
+                       "name":  "settings_weekday",
+                       "value":  "Werktage"
+                   },
+                   {
+                       "name":  "settings_weekend",
+                       "value":  "Wochenende"
+                   },
+                   {
+                       "name":  "settings_time_hint",
+                       "value":  "Keine tägliche Pflege nötig. Dayline plant nach Wochentag und der heute verbleibenden Zeit."
+                   },
+                   {
+                       "name":  "settings_home_schedule",
+                       "value":  "Auto-Zeitplan auf Startseite"
+                   },
+                   {
+                       "name":  "settings_home_schedule_desc",
+                       "value":  "Der vollständige Zeitplan bleibt in den Fristdetails verfügbar."
+                   },
+                   {
+                       "name":  "settings_default_deadline_time",
+                       "value":  "Standard-Uhrzeit"
+                   },
+                   {
+                       "name":  "settings_default_deadline_time_desc",
+                       "value":  "Gilt nur für neue Fristen und kann jeweils geändert werden."
+                   },
+                   {
+                       "name":  "settings_privacy",
+                       "value":  "Daten und Datenschutz"
+                   },
+                   {
+                       "name":  "settings_privacy_desc",
+                       "value":  "Deadlines, Aufgaben und Einstellungen werden auf diesem Gerät gespeichert. Diese Version bietet keine Anmeldung oder Cloud-Synchronisierung der App. Bei aktivierter Systemsicherung kann das System App-Daten gemäß den Geräteeinstellungen sichern. Benachrichtigungen sind optional; ohne sie bleibt die lokale Nutzung möglich. Deinstallieren oder Löschen der App-Daten kann Ihre Einträge entfernen."
+                   },
+                   {
+                       "name":  "settings_privacy_local",
+                       "value":  "Alle Offline-Funktionen sind ohne Anmeldung verfügbar."
+                   },
+                   {
+                       "name":  "settings_about_tagline",
+                       "value":  "Aus Fristen wird ein umsetzbarer Tagesplan"
+                   },
+                   {
+                       "name":  "settings_version",
+                       "value":  "Version 1.0.0"
+                   },
+                   {
+                       "name":  "settings_preferences",
+                       "value":  "Präferenzen"
+                   },
+                   {
+                       "name":  "settings_general",
+                       "value":  "Allgemein"
+                   },
+                   {
+                       "name":  "settings_appearance_language",
+                       "value":  "Darstellung & Sprache"
+                   },
+                   {
+                       "name":  "settings_language_system",
+                       "value":  "Systemeinstellung"
+                   },
+                   {
+                       "name":  "settings_summary_pair",
+                       "value":  "{0} · {1}"
+                   },
+                   {
+                       "name":  "settings_hours_day",
+                       "value":  "{0} Std./Tag"
+                   },
+                   {
+                       "name":  "settings_open_appearance_failed",
+                       "value":  "Darstellungsoptionen konnten nicht geöffnet werden"
+                   },
+                   {
+                       "name":  "settings_open_planning_failed",
+                       "value":  "Planungseinstellungen konnten nicht geöffnet werden"
+                   },
+                   {
+                       "name":  "settings_privacy_summary",
+                       "value":  "Auf dem Gerät gespeichert; Systemsicherung nach Geräteeinstellung"
+                   },
+                   {
+                       "name":  "settings_about",
+                       "value":  "Über Dayline"
+                   },
+                   {
+                       "name":  "settings_planning_defaults",
+                       "value":  "Standardwerte"
+                   },
+                   {
+                       "name":  "settings_planning_time",
+                       "value":  "Verfügbare Zeit"
+                   },
+                   {
+                       "name":  "settings_planning_home",
+                       "value":  "Startseite"
+                   },
+                   {
+                       "name":  "common_days_value",
+                       "value":  "%s Tage"
+                   },
+                   {
+                       "name":  "common_items_value",
+                       "value":  "%s Einträge"
+                   },
+                   {
+                       "name":  "create_more_options",
+                       "value":  "Weitere Optionen (optional)"
+                   },
+                   {
+                       "name":  "create_fewer_options",
+                       "value":  "Optionen ausblenden"
+                   },
+    {"name": "common_undo", "value": "Rückgängig"},
+    {"name": "detail_more_info", "value": "Plan und Details"},
+    {"name": "detail_less_info", "value": "Details ausblenden"},
+    {"name": "detail_workload_summary", "value": "Aufwandsschätzung"}
+]
+}

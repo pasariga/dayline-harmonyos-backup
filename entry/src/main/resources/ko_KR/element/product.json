@@ -1,0 +1,368 @@
+{
+  "string": [
+    {
+      "name": "home_subtitle",
+      "value": "오늘 가장 중요한 일부터"
+    },
+    {
+      "name": "home_loading",
+      "value": "오늘의 우선순위를 정리하는 중…"
+    },
+    {
+      "name": "home_empty_title",
+      "value": "첫 마감을 추가해 보세요"
+    },
+    {
+      "name": "home_empty_body",
+      "value": "이름과 마감일만 먼저 입력하세요. 작업이나 대략적인 소요 시간을 추가하면 오늘의 제안이 더 구체적이 됩니다."
+    },
+    {
+      "name": "home_create_first",
+      "value": "첫 마감 만들기"
+    },
+    {
+      "name": "home_today_priority",
+      "value": "오늘 최우선"
+    },
+    {
+      "name": "home_why",
+      "value": "먼저 해야 하는 이유"
+    },
+    {
+      "name": "home_next",
+      "value": "다음 할 일"
+    },
+    {
+      "name": "home_auto_schedule",
+      "value": "자동 일정"
+    },
+    {
+      "name": "home_schedule_hint",
+      "value": "진행 상황에 따라 업데이트"
+    },
+    {
+      "name": "home_current_progress",
+      "value": "전체 진행률"
+    },
+    {
+      "name": "home_high_risk",
+      "value": "위험 높음"
+    },
+    {
+      "name": "home_later",
+      "value": "나중에 해도 됨"
+    },
+    {
+      "name": "home_all_deadlines",
+      "value": "모든 마감"
+    },
+    {
+      "name": "home_add_deadline",
+      "value": "마감 추가"
+    },
+    {
+      "name": "home_all_done",
+      "value": "오늘 진행할 일이 없습니다"
+    },
+    {
+      "name": "home_all_done_desc",
+      "value": "현재 항목을 모두 완료했습니다. 다음 일정을 계획해 보세요."
+    },
+    {
+      "name": "home_view_details",
+      "value": "상세 보기"
+    },
+    {
+      "name": "home_complete_task",
+      "value": "작업 완료"
+    },
+    {
+      "name": "home_break_down",
+      "value": "작업 나누기"
+    },
+    {
+      "name": "create_new_title",
+      "value": "새 마감"
+    },
+    {
+      "name": "create_edit_title",
+      "value": "마감 편집"
+    },
+    {
+      "name": "create_new_subtitle",
+      "value": "다음 중요한 일을 기록하세요"
+    },
+    {
+      "name": "create_edit_subtitle",
+      "value": "마감 정보 수정"
+    },
+    {
+      "name": "field_name",
+      "value": "이름"
+    },
+    {
+      "name": "field_type",
+      "value": "유형"
+    },
+    {
+      "name": "field_workload",
+      "value": "총 예상 작업 시간"
+    },
+    {
+      "name": "field_progress_mode",
+      "value": "진행률 관리"
+    },
+    {
+      "name": "field_due_date",
+      "value": "마감일"
+    },
+    {
+      "name": "field_due_time",
+      "value": "마감 시각"
+    },
+    {
+      "name": "field_reminder",
+      "value": "마감 알림"
+    },
+    {
+      "name": "field_note",
+      "value": "메모(선택)"
+    },
+    {
+      "name": "field_progress",
+      "value": "현재 진행률"
+    },
+    {
+      "name": "tasks_breakdown",
+      "value": "작업 나누기"
+    },
+    {
+      "name": "tasks_add_top",
+      "value": "작업 추가"
+    },
+    {
+      "name": "tasks_empty",
+      "value": "아직 작업이 없습니다. 나중에 추가할 수 있습니다."
+    },
+    {
+      "name": "create_save",
+      "value": "마감 저장"
+    },
+    {
+      "name": "create_save_changes",
+      "value": "변경 저장"
+    },
+    {
+      "name": "type_assignment",
+      "value": "과제"
+    },
+    {
+      "name": "type_exam",
+      "value": "시험"
+    },
+    {
+      "name": "type_competition",
+      "value": "대회"
+    },
+    {
+      "name": "type_project",
+      "value": "프로젝트"
+    },
+    {
+      "name": "type_life",
+      "value": "개인"
+    },
+    {
+      "name": "type_other",
+      "value": "기타"
+    },
+    {
+      "name": "reminder_none",
+      "value": "알림 없음"
+    },
+    {
+      "name": "reminder_hour",
+      "value": "1시간 전"
+    },
+    {
+      "name": "reminder_day",
+      "value": "1일 전"
+    },
+    {
+      "name": "reminder_three_days",
+      "value": "3일 전"
+    },
+    {
+      "name": "detail_title",
+      "value": "마감 상세"
+    },
+    {
+      "name": "detail_progress_work",
+      "value": "진행률 및 작업량"
+    },
+    {
+      "name": "detail_schedule",
+      "value": "자동 일정"
+    },
+    {
+      "name": "detail_schedule_hint",
+      "value": "작업이나 진행률이 바뀌면 다시 계산"
+    },
+    {
+      "name": "detail_tasks",
+      "value": "작업"
+    },
+    {
+      "name": "detail_note",
+      "value": "메모"
+    },
+    {
+      "name": "detail_mark_complete",
+      "value": "완료로 표시"
+    },
+    {
+      "name": "detail_restore",
+      "value": "미완료로 되돌리기"
+    },
+    {
+      "name": "detail_delete",
+      "value": "마감 삭제"
+    },
+    {
+      "name": "detail_remaining_time",
+      "value": "남은 시간"
+    },
+    {
+      "name": "detail_status",
+      "value": "상태"
+    },
+    {
+      "name": "detail_no_note",
+      "value": "메모 없음"
+    },
+    {
+      "name": "detail_pending_breakdown",
+      "value": "작업 나누기 필요"
+    },
+    {
+      "name": "notification_title",
+      "value": "알림 정책"
+    },
+    {
+      "name": "notification_subtitle",
+      "value": "알림은 적게, 다음 행동은 분명하게"
+    },
+    {
+      "name": "notification_permission",
+      "value": "알림 권한"
+    },
+    {
+      "name": "notification_intensity",
+      "value": "알림 수준"
+    },
+    {
+      "name": "notification_content",
+      "value": "추가 알림"
+    },
+    {
+      "name": "notification_time",
+      "value": "시간 및 방해 금지"
+    },
+    {
+      "name": "notification_save",
+      "value": "알림 설정 저장"
+    },
+    {
+      "name": "notification_daily",
+      "value": "오늘의 작업 요약"
+    },
+    {
+      "name": "notification_risk",
+      "value": "위험 상승 알림"
+    },
+    {
+      "name": "notification_replan",
+      "value": "일정 조정 알림"
+    },
+    {
+      "name": "notification_quiet",
+      "value": "방해 금지 시간"
+    },
+    {
+      "name": "cloud_title",
+      "value": "계정 및 클라우드 동기화"
+    },
+    {
+      "name": "cloud_subtitle",
+      "value": "기기 우선, 오프라인에서도 사용 가능"
+    },
+    {
+      "name": "cloud_local_mode",
+      "value": "이 기기에만 저장"
+    },
+    {
+      "name": "cloud_sign_in",
+      "value": "HUAWEI ID로 로그인"
+    },
+    {
+      "name": "cloud_sign_out",
+      "value": "클라우드 동기화 끄기"
+    },
+    {
+      "name": "cloud_sync_now",
+      "value": "지금 동기화"
+    },
+    {
+      "name": "cloud_current_account",
+      "value": "현재 계정"
+    },
+    {
+      "name": "cloud_last_sync",
+      "value": "최근 동기화"
+    },
+    {
+      "name": "cloud_sync_method",
+      "value": "동기화 방식"
+    },
+    {
+      "name": "risk_low",
+      "value": "위험 낮음"
+    },
+    {
+      "name": "risk_medium",
+      "value": "위험 중간"
+    },
+    {
+      "name": "risk_high",
+      "value": "위험 높음"
+    },
+    {
+      "name": "risk_done",
+      "value": "완료"
+    },
+    {
+      "name": "risk_overdue",
+      "value": "기한 지남"
+    },
+    {
+      "name": "risk_not_estimated",
+      "value": "작업량 미설정"
+    },
+    {
+      "name": "schedule_today",
+      "value": "오늘"
+    },
+    {
+      "name": "schedule_tomorrow",
+      "value": "내일"
+    },
+    {
+      "name": "schedule_buffer",
+      "value": "여유"
+    },
+    {
+      "name": "schedule_flex",
+      "value": "조정 가능"
+    }
+  ]
+}

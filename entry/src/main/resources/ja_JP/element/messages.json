@@ -1,0 +1,1751 @@
+{
+  "string": [
+    {
+      "name": "common_enabled",
+      "value": "オン"
+    },
+    {
+      "name": "common_disabled",
+      "value": "オフ"
+    },
+    {
+      "name": "common_remove",
+      "value": "削除"
+    },
+    {
+      "name": "common_updating",
+      "value": "更新中…"
+    },
+    {
+      "name": "common_about_hours",
+      "value": "約{0}時間"
+    },
+    {
+      "name": "common_hours_short",
+      "value": "{0}時間"
+    },
+    {
+      "name": "work_remaining_hours",
+      "value": "残り{0}時間"
+    },
+    {
+      "name": "work_not_estimated",
+      "value": "作業量は未設定"
+    },
+    {
+      "name": "progress_auto_pending_meta",
+      "value": "自動 · 未分解 · {0}"
+    },
+    {
+      "name": "progress_meta",
+      "value": "{0} {1}% · {2}"
+    },
+    {
+      "name": "later_with_hours",
+      "value": "{0} · 残り{1}時間"
+    },
+    {
+      "name": "later_low_risk",
+      "value": "{0} · 現在は低リスク"
+    },
+    {
+      "name": "deadline_card_due",
+      "value": "{0} · 期限 {1}"
+    },
+    {
+      "name": "task_breakdown_mark",
+      "value": "分"
+    },
+    {
+      "name": "schedule_flex_buffer",
+      "value": "調整 / 予備"
+    },
+    {
+      "name": "schedule_open_day",
+      "value": "固定の予定はありません。遅れの解消、復習、休息に使えます。"
+    },
+    {
+      "name": "schedule_more_items_one",
+      "value": "ほか1件を今日の作業量に含めています"
+    },
+    {
+      "name": "schedule_more_items_other",
+      "value": "ほか{0}件を今日の作業量に含めています"
+    },
+    {
+      "name": "home_empty_tagline",
+      "value": "期限だけでなく、今日やることまで見える"
+    },
+    {
+      "name": "home_empty_progress_desc",
+      "value": "タスクを完了すると全体の進捗も自動更新"
+    },
+    {
+      "name": "home_empty_risk_title",
+      "value": "遅延リスク"
+    },
+    {
+      "name": "home_empty_risk_desc",
+      "value": "残り時間と作業量から早めにリスクを把握"
+    },
+    {
+      "name": "home_empty_action_desc",
+      "value": "期限から逆算し、今日の優先タスクを提案"
+    },
+    {
+      "name": "home_empty_hint",
+      "value": "直近の課題、試験、プロジェクトから始めましょう"
+    },
+    {
+      "name": "home_action_count_one",
+      "value": "今日の提案 1件"
+    },
+    {
+      "name": "home_action_count_other",
+      "value": "今日の提案 {0}件"
+    },
+    {
+      "name": "home_overall_progress",
+      "value": "完了した締切 {0}%"
+    },
+    {
+      "name": "home_deadline_count_one",
+      "value": "期限 1件"
+    },
+    {
+      "name": "home_deadline_count_other",
+      "value": "期限 {0}件"
+    },
+    {
+      "name": "home_other_risks",
+      "value": "その他の注意事項"
+    },
+    {
+      "name": "home_risk_count_one",
+      "value": "要注意 1件"
+    },
+    {
+      "name": "home_risk_count_other",
+      "value": "要注意 {0}件"
+    },
+    {
+      "name": "home_later_hint",
+      "value": "まずは緊急度の高い作業に集中しましょう"
+    },
+    {
+      "name": "home_sorted_by_risk",
+      "value": "リスクの高い順"
+    },
+    {
+      "name": "home_first_items",
+      "value": "先頭{0}件を表示"
+    },
+    {
+      "name": "home_collapse_list",
+      "value": "折りたたむ"
+    },
+    {
+      "name": "home_view_all_one",
+      "value": "1件を表示"
+    },
+    {
+      "name": "home_view_all_other",
+      "value": "全{0}件を表示"
+    },
+    {
+      "name": "notification_permission_prompt_title",
+      "value": "期限リマインダーを有効にしますか？"
+    },
+    {
+      "name": "notification_permission_prompt_body",
+      "value": "期限が近づいたときにDaylineからお知らせできます。通知を有効にしますか？"
+    },
+    {
+      "name": "notification_not_now",
+      "value": "今はしない"
+    },
+    {
+      "name": "notification_enable",
+      "value": "通知を有効にする"
+    },
+    {
+      "name": "task_edit_name_hint",
+      "value": "タスク名を編集"
+    },
+    {
+      "name": "task_add_to_hint",
+      "value": "「{0}」の下に追加"
+    },
+    {
+      "name": "task_add_top_hint",
+      "value": "最上位タスクを追加"
+    },
+    {
+      "name": "task_remove_title",
+      "value": "タスクを削除"
+    },
+    {
+      "name": "task_remove_children_confirm_one",
+      "value": "「{1}」とサブタスク1件を削除しますか？"
+    },
+    {
+      "name": "task_remove_children_confirm_other",
+      "value": "「{1}」とサブタスク{0}件を削除しますか？"
+    },
+    {
+      "name": "task_remove_confirm",
+      "value": "「{0}」を削除しますか？"
+    },
+    {
+      "name": "validation_name_required",
+      "value": "期限の名前を入力してください"
+    },
+    {
+      "name": "validation_date_required",
+      "value": "期限日を選択してください"
+    },
+    {
+      "name": "validation_hours_range",
+      "value": "0〜10,000時間の範囲で入力してください"
+    },
+    {
+      "name": "tasks_empty_save_later",
+      "value": "タスクはまだありません。保存後にも追加できます。"
+    },
+    {
+      "name": "tasks_created_progress_one",
+      "value": "タスク1件 · 自動進捗 {1}%"
+    },
+    {
+      "name": "tasks_created_progress_other",
+      "value": "タスク{0}件 · 自動進捗 {1}%"
+    },
+    {
+      "name": "task_editing",
+      "value": "「{0}」を編集中"
+    },
+    {
+      "name": "task_adding_child",
+      "value": "「{0}」にサブタスクを追加中"
+    },
+    {
+      "name": "task_add_child",
+      "value": "サブタスクを追加"
+    },
+    {
+      "name": "tasks_collapse",
+      "value": "タスクを折りたたむ"
+    },
+    {
+      "name": "tasks_view_all_one",
+      "value": "タスク1件を表示"
+    },
+    {
+      "name": "tasks_view_all_other",
+      "value": "タスク全{0}件を表示"
+    },
+    {
+      "name": "create_edit_helper",
+      "value": "保存すると既存の期限を更新します。"
+    },
+    {
+      "name": "create_new_helper",
+      "value": "まず基本情報を入力し、あとから調整できます。"
+    },
+    {
+      "name": "create_loading",
+      "value": "期限を読み込み中…"
+    },
+    {
+      "name": "create_name_placeholder",
+      "value": "例：コンピュータ構成の課題"
+    },
+    {
+      "name": "create_hours_placeholder",
+      "value": "例：10（未定なら空欄）"
+    },
+    {
+      "name": "create_auto_progress_desc",
+      "value": "タスクの進捗は末端タスクの完了数を表し、作業時間は表しません。"
+    },
+    {
+      "name": "create_manual_progress_desc",
+      "value": "全体の進捗を自分で設定します。"
+    },
+    {
+      "name": "create_choose_date",
+      "value": "日付を選択"
+    },
+    {
+      "name": "create_reminder_on_desc",
+      "value": "選んだ時刻で通知の登録を試みます。配信はシステムの制限を受けるため、アプリ内の締切を確認してください。"
+    },
+    {
+      "name": "create_reminder_off_desc",
+      "value": "初期設定では通知しません。必要なときに有効にできます。"
+    },
+    {
+      "name": "create_note_placeholder",
+      "value": "要件、場所、準備事項など"
+    },
+    {
+      "name": "create_edit_footer",
+      "value": "保存後すぐにこの期限へ反映されます。"
+    },
+    {
+      "name": "create_new_footer",
+      "value": "この端末に保存され、Daylineを開き直しても確認できます。"
+    },
+    {
+      "name": "task_delete_title",
+      "value": "タスクを削除"
+    },
+    {
+      "name": "task_delete_children_confirm_one",
+      "value": "「{1}」とサブタスク1件を削除しますか？"
+    },
+    {
+      "name": "task_delete_children_confirm_other",
+      "value": "「{1}」とサブタスク{0}件を削除しますか？"
+    },
+    {
+      "name": "task_delete_confirm",
+      "value": "「{0}」を削除しますか？"
+    },
+    {
+      "name": "deadline_delete_title",
+      "value": "期限を削除"
+    },
+    {
+      "name": "deadline_delete_confirm",
+      "value": "「{0}」を削除しますか？この操作は元に戻せません。"
+    },
+    {
+      "name": "deadline_untitled",
+      "value": "無題の期限"
+    },
+    {
+      "name": "schedule_specific_tasks_one",
+      "value": "具体的なタスク 1件"
+    },
+    {
+      "name": "schedule_specific_tasks_other",
+      "value": "具体的なタスク {0}件"
+    },
+    {
+      "name": "schedule_work",
+      "value": "実行"
+    },
+    {
+      "name": "detail_tasks_pending_desc",
+      "value": "タスクに分けると自動進捗が始まります。"
+    },
+    {
+      "name": "detail_total_work",
+      "value": "合計見積もり"
+    },
+    {
+      "name": "schedule_feasible",
+      "value": "無理のないペース"
+    },
+    {
+      "name": "schedule_tight",
+      "value": "余裕の少ないペース"
+    },
+    {
+      "name": "schedule_completed_empty",
+      "value": "この期限は完了済みです。これ以上の計画は不要です。"
+    },
+    {
+      "name": "schedule_no_remaining",
+      "value": "計画できる残作業はありません。"
+    },
+    {
+      "name": "schedule_planned_work",
+      "value": "計画作業量"
+    },
+    {
+      "name": "schedule_work_days",
+      "value": "作業日"
+    },
+    {
+      "name": "schedule_daily_average",
+      "value": "作業日あたり"
+    },
+    {
+      "name": "schedule_rolling_hint",
+      "value": "今後14日間を表示しています。以降の日程は進捗に合わせて更新されます。"
+    },
+    {
+      "name": "detail_created_at",
+      "value": "作成日時"
+    },
+    {
+      "name": "detail_manual_update",
+      "value": "進捗を手動で更新"
+    },
+    {
+      "name": "detail_progress_saved",
+      "value": "保存済み"
+    },
+    {
+      "name": "detail_save_progress",
+      "value": "進捗を保存"
+    },
+    {
+      "name": "detail_completed_progress_hint",
+      "value": "完了済みの期限は100%で表示されます。未完了に戻すと再調整できます。"
+    },
+    {
+      "name": "detail_equal_weight",
+      "value": "進捗は末端タスクの完了数で計算し、作業時間は示しません。"
+    },
+    {
+      "name": "detail_tasks_empty",
+      "value": "最上位タスクを追加し、必要に応じてサブタスクへ分けましょう。"
+    },
+    {
+      "name": "detail_loading",
+      "value": "期限を読み込み中…"
+    },
+    {
+      "name": "notification_intensity_concise",
+      "value": "最小限"
+    },
+    {
+      "name": "notification_intensity_standard",
+      "value": "標準"
+    },
+    {
+      "name": "notification_intensity_active",
+      "value": "積極的"
+    },
+    {
+      "name": "notification_intensity_custom",
+      "value": "カスタム"
+    },
+    {
+      "name": "notification_intensity_concise_desc",
+      "value": "各期限で設定したリマインダーだけを通知します。"
+    },
+    {
+      "name": "notification_intensity_standard_desc",
+      "value": "取り組むことがある日に要約を送り、リスクが明らかに高まったときは追加でお知らせします。"
+    },
+    {
+      "name": "notification_intensity_active_desc",
+      "value": "数日先まで要約を予約し、リスクが高まったときは早めにお知らせします。同じ通知は繰り返しません。"
+    },
+    {
+      "name": "notification_intensity_custom_desc",
+      "value": "以下の項目と時刻を使用します。"
+    },
+    {
+      "name": "notification_daily_desc",
+      "value": "今日の最優先タスクと推奨作業時間を1件にまとめます。"
+    },
+    {
+      "name": "notification_risk_desc",
+      "value": "高リスクが明確になったときだけ、同種の期限をまとめて通知します。"
+    },
+    {
+      "name": "notification_replan_desc",
+      "value": "計画の変更は次の毎日の要約にまとめます。毎日の要約をオンにしてください。"
+    },
+    {
+      "name": "notification_summary_time",
+      "value": "行動要約の時刻"
+    },
+    {
+      "name": "notification_quiet_off",
+      "value": "おやすみ時間なし"
+    },
+    {
+      "name": "notification_quiet_desc",
+      "value": "要約とリスク通知はおやすみ時間を避けます。期限通知はできるだけ前倒しにしますが、直前の重要な通知は遅らせません。"
+    },
+    {
+      "name": "cloud_status_local_only",
+      "value": "この端末にのみ保存"
+    },
+    {
+      "name": "cloud_status_waiting_first_sync",
+      "value": "サインイン済み。初回同期を待っています"
+    },
+    {
+      "name": "cloud_status_synced",
+      "value": "前回の同期は完了しました"
+    },
+    {
+      "name": "cloud_status_sync_incomplete",
+      "value": "同期は完了していません。端末のデータは保持されています"
+    },
+    {
+      "name": "cloud_status_unavailable",
+      "value": "同期状態を一時的に確認できません"
+    },
+    {
+      "name": "cloud_status_merging",
+      "value": "端末とクラウドのデータを統合中…"
+    },
+    {
+      "name": "cloud_status_permission_local",
+      "value": "同期権限が許可されていません。端末のみで引き続き利用できます"
+    },
+    {
+      "name": "cloud_syncing",
+      "value": "同期中…"
+    },
+    {
+      "name": "cloud_never_synced",
+      "value": "まだ同期していません"
+    },
+    {
+      "name": "cloud_enabled",
+      "value": "クラウド同期オン"
+    },
+    {
+      "name": "cloud_connected",
+      "value": "接続済み"
+    },
+    {
+      "name": "cloud_not_signed_in",
+      "value": "HUAWEI IDにサインインしていません"
+    },
+    {
+      "name": "cloud_sync_scope",
+      "value": "• 期限、階層タスク、進捗、完了状態をHuawei Cloudで同期します。"
+    },
+    {
+      "name": "cloud_merge_desc",
+      "value": "• 初回ログイン時に端末とクラウドを統合し、重複を除きます。端末データを先に消すことはありません。"
+    },
+    {
+      "name": "cloud_offline_desc",
+      "value": "• オフライン中も端末に保存し、接続が戻ると自動同期します。"
+    },
+    {
+      "name": "cloud_offline_footer",
+      "value": "オフラインや同期オフでも、端末上のデータは利用できます。"
+    },
+    {
+      "name": "cloud_optional_footer",
+      "value": "ログインは任意です。アカウントなしでもすべての機能を使えます。"
+    },
+    {
+      "name": "risk_reason_completed",
+      "value": "完了済みです"
+    },
+    {
+      "name": "risk_reason_overdue",
+      "value": "期限を過ぎています"
+    },
+    {
+      "name": "availability_daily",
+      "value": "1日約{0}時間"
+    },
+    {
+      "name": "availability_weekday_weekend",
+      "value": "平日約{0}時間、週末約{1}時間"
+    },
+    {
+      "name": "risk_reason_on_track",
+      "value": "進捗は残り時間と作業量に合っています"
+    },
+    {
+      "name": "risk_reason_capacity_shortfall",
+      "value": "残り{0}時間。{1}では使える時間は約{2}時間です"
+    },
+    {
+      "name": "risk_reason_due_hours_progress",
+      "value": "期限まで約{0}時間、進捗は{1}%です"
+    },
+    {
+      "name": "risk_reason_progress_lag",
+      "value": "経過時間に対して進捗が約{0}%遅れています"
+    },
+    {
+      "name": "risk_reason_daily_load_high",
+      "value": "残り{0}時間。今後は1日あたりの負担が大きくなります"
+    },
+    {
+      "name": "risk_reason_due_days_progress",
+      "value": "期限まで約{0}日、進捗は{1}%です"
+    },
+    {
+      "name": "schedule_review_and_complete",
+      "value": "成果を確認して期限を完了にする"
+    },
+    {
+      "name": "schedule_tasks_done",
+      "value": "すべてのタスクが完了したため、追加の予備日は不要です"
+    },
+    {
+      "name": "schedule_estimate_per_task",
+      "value": "作業量が未設定のため、具体的なタスク1件を約1時間として計画します"
+    },
+    {
+      "name": "schedule_estimate_per_quarter",
+      "value": "作業量が未設定のため、進捗25%を約1時間として計画します"
+    },
+    {
+      "name": "schedule_buffer_summary",
+      "value": "見直し、抜け漏れ確認、最終提出の準備"
+    },
+    {
+      "name": "schedule_flex_summary",
+      "value": "遅れの解消や早めの休息に使える調整時間"
+    },
+    {
+      "name": "schedule_break_down_start",
+      "value": "作業を分解して着手する"
+    },
+    {
+      "name": "schedule_advance_deadline",
+      "value": "「{0}」を進める"
+    },
+    {
+      "name": "schedule_advance_progress",
+      "value": "進捗を約{0}%まで進める"
+    },
+    {
+      "name": "schedule_buffer_overdue",
+      "value": "期限切れのため予備日は確保できません。今日から計画を組み直します。"
+    },
+    {
+      "name": "schedule_buffer_days",
+      "value": "見直し、修正、提出のため期限前に{0}日を確保しています"
+    },
+    {
+      "name": "schedule_no_safe_buffer",
+      "value": "残作業が多く、安全な予備日を確保できません"
+    },
+    {
+      "name": "schedule_no_buffer_near_due",
+      "value": "期限が近いため、独立した予備日は設けていません"
+    },
+    {
+      "name": "action_overdue_progress",
+      "value": "期限切れで、まだ{0}%残っています"
+    },
+    {
+      "name": "action_remaining_hours",
+      "value": "{0}。あと約{1}時間必要です"
+    },
+    {
+      "name": "action_current_progress",
+      "value": "{0}。現在の進捗は{1}%です"
+    },
+    {
+      "name": "action_due_hours",
+      "value": "期限まで約{0}時間"
+    },
+    {
+      "name": "action_due_days",
+      "value": "期限まで{0}日"
+    },
+    {
+      "name": "action_review_complete",
+      "value": "成果を確認して期限を完了にする"
+    },
+    {
+      "name": "action_schedule_hours_progress",
+      "value": "今日の計画：{0}時間取り組み、約{1}%を目指す"
+    },
+    {
+      "name": "action_schedule_hours",
+      "value": "今日の計画：約{0}時間取り組む"
+    },
+    {
+      "name": "action_focus_then_update",
+      "value": "まず集中して取り組み、終わったら進捗を更新しましょう"
+    },
+    {
+      "name": "action_suggest_hours_progress",
+      "value": "今日は{0}時間取り組み、約{1}%を目指しましょう"
+    },
+    {
+      "name": "action_advance_deadline",
+      "value": "「{0}」を進める"
+    },
+    {
+      "name": "action_break_down_deadline",
+      "value": "「{0}」を分解する"
+    },
+    {
+      "name": "action_no_tasks_reason",
+      "value": "自動進捗のタスクがないため、具体的な進み具合を判断できません"
+    },
+    {
+      "name": "action_break_down_with_hours",
+      "value": "まず作業を分解し、今日は約{0}時間取り組みましょう"
+    },
+    {
+      "name": "action_create_tasks_suggestion",
+      "value": "実行できるタスクを2〜3件作ると、進捗を自動計算できます"
+    },
+    {
+      "name": "action_complete_task",
+      "value": "「{0}」を完了する"
+    },
+    {
+      "name": "action_today_schedule_recalculates",
+      "value": "今日の計画は約{0}時間。完了後に後日の計画を再計算します"
+    },
+    {
+      "name": "action_tasks_left_one",
+      "value": "進捗を自動再計算します。具体的なタスクは残り1件です"
+    },
+    {
+      "name": "action_tasks_left_other",
+      "value": "進捗を自動再計算します。具体的なタスクは残り{0}件です"
+    },
+    {
+      "name": "action_review_deadline",
+      "value": "「{0}」を確認して完了する"
+    },
+    {
+      "name": "action_all_tasks_done_reason",
+      "value": "具体的なタスクはすべて完了しています"
+    },
+    {
+      "name": "action_mark_deadline_complete",
+      "value": "成果を確認し、期限全体を完了にしましょう"
+    },
+    {
+      "name": "reminder_due_minutes",
+      "value": "約{0}分後に期限"
+    },
+    {
+      "name": "reminder_due_hours",
+      "value": "約{0}時間後に期限"
+    },
+    {
+      "name": "reminder_due_days",
+      "value": "約{0}日後に期限"
+    },
+    {
+      "name": "reminder_content_no_tasks",
+      "value": "{0} · タスク未分解"
+    },
+    {
+      "name": "reminder_content_tasks_one",
+      "value": "{1} · 進捗{2}% · 残り1件"
+    },
+    {
+      "name": "reminder_content_tasks_other",
+      "value": "{1} · 進捗{2}% · 残り{0}件"
+    },
+    {
+      "name": "reminder_content_hours",
+      "value": "{0} · 進捗{1}% · 残り約{2}時間"
+    },
+    {
+      "name": "reminder_content_progress",
+      "value": "{0} · 進捗{1}%"
+    },
+    {
+      "name": "notification_slot_desc",
+      "value": "Daylineの期限、今日の行動、リスク通知"
+    },
+    {
+      "name": "notification_action_done",
+      "value": "閉じる"
+    },
+    {
+      "name": "notification_action_snooze",
+      "value": "30分後"
+    },
+    {
+      "name": "notification_snooze_content",
+      "value": "このDaylineの提案をあとで確認"
+    },
+    {
+      "name": "notification_deadline_expired",
+      "value": "この期限通知は終了しました"
+    },
+    {
+      "name": "notification_action_summary",
+      "value": "{0}。{1}"
+    },
+    {
+      "name": "notification_action_summary_more_one",
+      "value": "{1}。{2} ほかに提案が1件あります。"
+    },
+    {
+      "name": "notification_action_summary_more_other",
+      "value": "{1}。{2} ほかに提案が{0}件あります。"
+    },
+    {
+      "name": "notification_daily_title",
+      "value": "Dayline · 今日の行動"
+    },
+    {
+      "name": "notification_daily_title_risk",
+      "value": "Dayline · 今日の行動 · 高リスク"
+    },
+    {
+      "name": "notification_replan_title",
+      "value": "Dayline · 計画を調整しました"
+    },
+    {
+      "name": "notification_replan_prefix_one",
+      "value": "昨日の1件が未完了のため、後日の計画を調整しました。{1}"
+    },
+    {
+      "name": "notification_replan_prefix_other",
+      "value": "昨日の{0}件が未完了のため、後日の計画を調整しました。{1}"
+    },
+    {
+      "name": "notification_daily_expired",
+      "value": "今日の行動要約は終了しました"
+    },
+    {
+      "name": "notification_risk_title",
+      "value": "Dayline · リスク上昇"
+    },
+    {
+      "name": "notification_risk_content",
+      "value": "{0}：{1}"
+    },
+    {
+      "name": "notification_risk_content_more_one",
+      "value": "{1}：{2} ほかに高リスクが1件あります。"
+    },
+    {
+      "name": "notification_risk_content_more_other",
+      "value": "{1}：{2} ほかに高リスクが{0}件あります。"
+    },
+    {
+      "name": "notification_risk_expired",
+      "value": "このリスク通知は終了しました"
+    },
+    {
+      "name": "notification_replan_content_one",
+      "value": "昨日の未完了は1件です。今日の最優先：{1}。{2}"
+    },
+    {
+      "name": "notification_replan_content_other",
+      "value": "昨日の未完了は{0}件です。今日の最優先：{1}。{2}"
+    },
+    {
+      "name": "notification_replan_expired",
+      "value": "この計画調整通知は終了しました"
+    },
+    {
+      "name": "message_open_settings_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_load_deadlines_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_task_changed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_task_update_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_open_detail_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_open_create_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_deadline_not_found",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_load_deadline_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_open_date_picker_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_open_time_picker_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_notifications_enabled",
+      "value": "通知を有効にしました"
+    },
+    {
+      "name": "message_notifications_not_enabled",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_return_detail_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_save_in_progress",
+      "value": "保存中…"
+    },
+    {
+      "name": "message_go_back_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_open_task_remove_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_deadline_updated",
+      "value": "Deadlineを更新しました"
+    },
+    {
+      "name": "message_deadline_saved",
+      "value": "Deadlineを保存しました"
+    },
+    {
+      "name": "message_saved_reminder_retry",
+      "value": "{0}。通知はまだ登録されていません。後でDaylineを開いて確認してください。"
+    },
+    {
+      "name": "message_save_failed",
+      "value": "Deadline を保存できませんでした。入力内容はこの画面に残っています。もう一度お試しください。"
+    },
+    {
+      "name": "message_detail_missing_id",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_progress_saved",
+      "value": "進捗を保存しました"
+    },
+    {
+      "name": "message_progress_save_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_task_save_failed",
+      "value": "タスクを保存できませんでした。入力内容は残っています。再試行してください。"
+    },
+    {
+      "name": "message_task_status_failed",
+      "value": "タスクの変更は保存されませんでした。現在の状態を確認して再試行してください。"
+    },
+    {
+      "name": "message_open_delete_confirm_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_task_delete_failed",
+      "value": "タスクは削除されませんでした。再試行してください。"
+    },
+    {
+      "name": "message_open_edit_failed",
+      "value": "操作を完了できませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "message_status_updated_reminder_retry",
+      "value": "状態を保存しました。通知はまだ更新されていません。後でDaylineを開いて確認してください。"
+    },
+    {
+      "name": "message_status_update_failed",
+      "value": "Deadline の状態は変更されませんでした。再試行してください。"
+    },
+    {
+      "name": "message_deadline_deleted",
+      "value": "Deadlineを削除しました"
+    },
+    {
+      "name": "message_deadline_deleted_reminder_retry",
+      "value": "Deadlineを削除しました。システム通知の取り消しはまだ確認できていません。後でDaylineを開いてください。"
+    },
+    {
+      "name": "message_delete_failed",
+      "value": "Deadline は削除されませんでした。再試行してください。"
+    },
+    {
+      "name": "message_processing",
+      "value": "処理中…"
+    },
+    {
+      "name": "notification_load_failed",
+      "value": "通知設定を読み込めませんでした。保存済みの設定は変わりません。もう一度お試しください。"
+    },
+    {
+      "name": "notification_saved",
+      "value": "通知設定を更新できませんでした。"
+    },
+    {
+      "name": "notification_save_failed",
+      "value": "通知設定を保存できませんでした。変更内容は残っています。もう一度お試しください。"
+    },
+    {
+      "name": "notification_permission_declined",
+      "value": "通知はオフのままです。端末の設定で許可するか、通知なしで引き続き利用できます。"
+    },
+    {
+      "name": "notification_open_system_failed",
+      "value": "通知を有効にできませんでした。端末の設定で Dayline の通知を許可できます。"
+    },
+    {
+      "name": "notification_save_in_progress",
+      "value": "通知設定を更新できませんでした。"
+    },
+    {
+      "name": "notification_loading",
+      "value": "通知設定を更新できませんでした。"
+    },
+    {
+      "name": "cloud_login_retry",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_login_unavailable",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_login_update_required",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_login_device_account",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_network_unavailable",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_authorization_incomplete",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_privacy_required",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_login_incomplete",
+      "value": "サインインは完了しませんでした。しばらくしてからもう一度お試しください"
+    },
+    {
+      "name": "cloud_enable_failed",
+      "value": "クラウド同期を有効にできませんでした"
+    },
+    {
+      "name": "cloud_switch_account_title",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_switch_account_body",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_merge_and_sync",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_switch_confirm_failed",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_sign_out_title",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_sign_out_body",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_sign_out_confirm_failed",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_signed_out",
+      "value": "クラウド同期をオフにしました。端末のデータは保持されています"
+    },
+    {
+      "name": "cloud_sign_out_failed",
+      "value": "ログアウトを完了できませんでした。端末のデータは引き続き使えます。後でもう一度お試しください。"
+    },
+    {
+      "name": "cloud_result_synced",
+      "value": "Huawei Cloudと同期しました"
+    },
+    {
+      "name": "cloud_result_network",
+      "value": "オフラインです。接続後に端末の変更を同期します"
+    },
+    {
+      "name": "cloud_result_enable_in_settings",
+      "value": "設定のHUAWEI IDとクラウドからDaylineの同期を有効にしてください"
+    },
+    {
+      "name": "cloud_result_data_limit",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_result_storage_full",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_result_network_policy",
+      "value": "クラウド同期を利用できません。しばらくしてからお試しください。"
+    },
+    {
+      "name": "cloud_result_failed",
+      "value": "同期は完了していません。端末のデータは安全です"
+    },
+    {
+      "name": "schedule_task_summary_one",
+      "value": "{1}"
+    },
+    {
+      "name": "schedule_task_summary_other",
+      "value": "{1}、{2}など全{0}件"
+    },
+    {
+      "name": "reminder_result_permission_disabled",
+      "value": "通知はオフです。リマインダー設定は保存されました。"
+    },
+    {
+      "name": "reminder_result_not_needed",
+      "value": "現在、締切リマインダーは必要ありません。"
+    },
+    {
+      "name": "reminder_result_queued",
+      "value": "通知設定は保存されましたが、この通知はまだシステムに予約されていません。"
+    },
+    {
+      "name": "reminder_result_scheduled",
+      "value": "リマインダーを設定しました"
+    },
+    {
+      "name": "reminder_result_failed",
+      "value": "リマインダーを設定できませんでした。Daylineが自動的に再試行します。"
+    },
+    {
+      "name": "action_risk_with_remaining",
+      "value": "{0}。{1}"
+    },
+    {
+      "name": "schedule_two_tasks",
+      "value": "{0}と{1}"
+    },
+    {
+      "name": "message_edit_conflict",
+      "value": "この締切は別の端末で更新されました。再読み込みしてから保存してください。"
+    },
+    {
+      "name": "message_task_conflict",
+      "value": "タスクが別の場所で更新されました。最新版を読み込みます。"
+    },
+    {
+      "name": "risk_unknown",
+      "value": "見積もり不足"
+    },
+    {
+      "name": "risk_reason_missing_workload",
+      "value": "リスクを判断するには、残りの作業におよそ何時間かかるか確認してください。"
+    },
+    {
+      "name": "risk_reason_rough_workload",
+      "value": "{0} タスクの完了率は作業時間の実績ではありません。"
+    },
+    {
+      "name": "risk_reason_shared_unknown",
+      "value": "先に到来する締切の作業量が不明なため、共通の時間枠を判断できません。"
+    },
+    {
+      "name": "risk_reason_shared_shortfall",
+      "value": "その日までに約 {0} 時間必要ですが、共通の時間枠は {1} 時間です。"
+    },
+    {
+      "name": "schedule_rough_workload",
+      "value": "時間は概算です。タスク完了率は実際の作業時間を示しません。"
+    },
+    {
+      "name": "schedule_need_workload",
+      "value": "時間単位の計画には作業量の見積もりが必要です。"
+    },
+    {
+      "name": "schedule_unallocated",
+      "value": "締切までに割り当てられない作業があります。"
+    },
+    {
+      "name": "schedule_unallocated_hours",
+      "value": "{0}時間未割当"
+    },
+    {
+      "name": "schedule_shared_capacity_note",
+      "value": "すべての締切で毎日の時間枠を共有します。{0}"
+    },
+    {
+      "name": "work_remaining_rough",
+      "value": "残り約 {0} 時間。タスク進捗から作業時間は差し引きません。"
+    },
+    {
+      "name": "work_uncertain",
+      "value": "作業時間は未確定"
+    },
+    {
+      "name": "action_rough_remaining",
+      "value": "{0}。残りは約 {1} 時間の可能性があります。"
+    },
+    {
+      "name": "work_not_tracked",
+      "value": "記録なし"
+    },
+    {
+      "name": "schedule_required_work",
+      "value": "必要な作業量"
+    },
+    {
+      "name": "risk_reason_unmeasured_work",
+      "value": "残りの作業量を確認するまで、今の時間で期限に間に合うか判断できません。"
+    },
+    {
+      "name": "schedule_unmeasured_work",
+      "value": "残りの作業量を確認するまで時間単位の予定は表示しません。今日の行動は確認できます。"
+    },
+    {
+      "name": "work_remaining_unknown",
+      "value": "残り時間は不明"
+    },
+    {
+      "name": "workload_total_create_hint",
+      "value": "作成時は残り作業時間の初期見積もりにもなります。必要なら詳細で更新できます。"
+    },
+    {
+      "name": "workload_total_edit_hint",
+      "value": "これは当初の総見積もりです。現在の残り時間は詳細で別に更新します。"
+    },
+    {
+      "name": "work_remaining_pending",
+      "value": "残りの作業量を確認してください"
+    },
+    {
+      "name": "remaining_status_stale",
+      "value": "前回の確認から2週間以上経過しました。時間単位のリスクと予定には再確認が必要です。"
+    },
+    {
+      "name": "remaining_status_unknown",
+      "value": "期限と未完了タスクから今日の行動は選べます。時間単位のリスクには見積もりが必要です。"
+    },
+    {
+      "name": "remaining_status_initial",
+      "value": "初期見積もりです。着手後、見通しが変わったときに確認してください。"
+    },
+    {
+      "name": "remaining_status_confirmed",
+      "value": "最近確認した大まかな見積もりです。見通しが変わったら更新してください。"
+    },
+    {
+      "name": "remaining_update_button",
+      "value": "残り時間を更新"
+    },
+    {
+      "name": "remaining_editor_hint",
+      "value": "残りの作業量（時間）"
+    },
+    {
+      "name": "remaining_hours_placeholder",
+      "value": "例：6時間"
+    },
+    {
+      "name": "remaining_keep_button",
+      "value": "前回の見積もりを使う"
+    },
+    {
+      "name": "remaining_save_button",
+      "value": "新しい見積もりを保存"
+    },
+    {
+      "name": "remaining_unknown_button",
+      "value": "今は分からない"
+    },
+    {
+      "name": "remaining_no_previous_estimate",
+      "value": "引き継げる見積もりがありません"
+    },
+    {
+      "name": "message_remaining_unknown_saved",
+      "value": "未確認にしました。今日の行動は引き続き確認できます。"
+    },
+    {
+      "name": "message_remaining_saved",
+      "value": "残り時間を更新しました"
+    },
+    {
+      "name": "message_remaining_save_failed",
+      "value": "残り時間を保存できませんでした。入力は残っています。もう一度お試しください。"
+    },
+    {
+      "name": "risk_reason_stale_work",
+      "value": "残り時間の見積もりが古くなりました。リスクを判断する前に再確認してください。"
+    },
+    {
+      "name": "task_progress_label",
+      "value": "タスク進捗"
+    },
+    {
+      "name": "task_just_completed",
+      "value": "「{0}」を完了しました"
+    },
+    {
+      "name": "task_just_reopened",
+      "value": "「{0}」を未完了に戻しました"
+    },
+    {
+      "name": "editor_discard_title",
+      "value": "未保存の変更を破棄しますか？"
+    },
+    {
+      "name": "editor_discard_body",
+      "value": "この画面の入力内容はまだ保存されていません。編集を続けるか、破棄して戻ってください。"
+    },
+    {
+      "name": "editor_discard_action",
+      "value": "変更を破棄"
+    },
+    {
+      "name": "settings_saved",
+      "value": "設定を保存しました"
+    },
+    {
+      "name": "notification_permission_off_hint",
+      "value": "通知はオフです。端末の設定で Dayline の通知を許可できます。"
+    },
+    {
+      "name": "notification_more_settings",
+      "value": "通知の詳細設定"
+    },
+    {
+      "name": "notification_less_settings",
+      "value": "詳細設定を閉じる"
+    },
+    {
+      "name": "settings_load_failed",
+      "value": "設定を読み込めませんでした。保存済みの設定は変わっていません。もう一度お試しください。"
+    },
+    {
+      "name": "cloud_enable_failed_safe",
+      "value": "クラウド同期を開始できませんでした。端末内のデータは引き続き利用できます。もう一度お試しください。"
+    },
+    {
+      "name": "notification_refresh_failed",
+      "value": "設定は保存されましたが、リマインダーを更新できませんでした。もう一度保存してお試しください。"
+    },
+    {
+      "name": "settings_sync_failed",
+      "value": "同期の再試行が必要"
+    },
+    {
+      "name": "task_just_removed",
+      "value": "下書きから「{0}」を削除しました"
+    },
+    {
+      "name": "settings_language_system_saved",
+      "value": "保存しました。最近使ったアプリから Dayline を閉じ、開き直すと端末の言語になります。"
+    },
+    {
+      "name": "cloud_account_verify_failed",
+      "value": "現在のアカウントを確認できず、同期を開始していません。この端末のデータは残っています。通信環境とシステムのアカウントを確認して再試行してください。"
+    },
+    {
+      "name": "cloud_account_mismatch",
+      "value": "この端末のデータは別のHuaweiアカウントに紐づいているため、同期を開始していません。元のアカウントに戻してください。端末のデータは引き続き使えます。"
+    },
+    {
+      "name": "cloud_status_save_failed",
+      "value": "今回の同期結果を保存できませんでした。端末のデータは使えます。再試行して同期状態を確認してください。"
+    },
+    {
+      "name": "cloud_stop_failed",
+      "value": "同期の停止を確認できませんでした。端末のデータは残っています。もう一度ログアウトしてください。"
+    },
+    {
+      "name": "cloud_data_held",
+      "value": "確認が必要な変更、または未受信のデータがあります。以前のデータは保持されています。「変更を確認」で残す内容を選ぶか、理由を確認してください。"
+    },
+    {
+      "name": "cloud_protocol_pending",
+      "value": "クラウド同期を一時停止しています。この端末のデータは保持されています。互換性の確認と、すべての端末の更新が終わるまで同期は再開されません。"
+    },
+    {
+      "name": "detail_next_action",
+      "value": "次にすること"
+    },
+    {
+      "name": "task_actions_label",
+      "value": "タスクの操作"
+    },
+    {
+      "name": "review_title",
+      "value": "変更を確認"
+    },
+    {
+      "name": "review_needed",
+      "value": "確認が必要"
+    },
+    {
+      "name": "review_open",
+      "value": "確認する"
+    },
+    {
+      "name": "review_home_status",
+      "value": "確認する変更：{0}件"
+    },
+    {
+      "name": "review_intro",
+      "value": "この締切の記録には異なる変更があります。最後の完全なデータと各変更内容は保持されています。残す内容を選んでください。保存するまでは上書きされません。他の締切の記録は引き続き使えます。"
+    },
+    {
+      "name": "review_current",
+      "value": "この端末に保存された内容"
+    },
+    {
+      "name": "review_alternative",
+      "value": "保存された内容 {0}"
+    },
+    {
+      "name": "review_step",
+      "value": "{1}件中{0}件目"
+    },
+    {
+      "name": "review_previous",
+      "value": "前へ"
+    },
+    {
+      "name": "review_next",
+      "value": "次へ"
+    },
+    {
+      "name": "review_save",
+      "value": "選択を保存"
+    },
+    {
+      "name": "review_later",
+      "value": "後で決める"
+    },
+    {
+      "name": "review_reload",
+      "value": "最新の変更を再読み込み"
+    },
+    {
+      "name": "review_working",
+      "value": "しばらくお待ちください…"
+    },
+    {
+      "name": "review_success",
+      "value": "選んだ内容を保存しました。"
+    },
+    {
+      "name": "review_none",
+      "value": "確認が必要な変更はありません。"
+    },
+    {
+      "name": "review_waiting",
+      "value": "完全なデータを待っています"
+    },
+    {
+      "name": "review_incomplete",
+      "value": "受信したデータが不完全か、確認できません。最後の完全なデータは閲覧できます。内容を選ぶだけでは安全に修復できません。他の締切の記録は使えます。アプリのデータを残し、再インストールしないでください。"
+    },
+    {
+      "name": "review_load_failed",
+      "value": "保存された変更を読み込めませんでした。データは保持されています。再読み込みしてください。"
+    },
+    {
+      "name": "review_save_failed",
+      "value": "選択は保存されていません。以前の完全なデータと各内容は保持されています。再試行するか、タスク構成が合わない場合は別の内容を選んでください。"
+    },
+    {
+      "name": "review_changed",
+      "value": "選択中に新しい変更が届きました。上書きしていません。再読み込みして選び直してください。"
+    },
+    {
+      "name": "review_removed",
+      "value": "削除を反映済み"
+    },
+    {
+      "name": "review_deleted_explanation",
+      "value": "この締切の記録の削除と同時に、別の変更もありました。タスクを含め削除を維持し、古い変更で復元されることはありません。変更内容は記録に保持されています。"
+    },
+    {
+      "name": "review_tasks_deleted_explanation",
+      "value": "これらのタスクの削除と同時に、別の変更もありました。子タスクを含め削除を維持し、古い変更で復元されることはありません。この記録の他の内容は使えます。"
+    },
+    {
+      "name": "review_understood",
+      "value": "確認しました"
+    },
+    {
+      "name": "review_tree_choice",
+      "value": "完全なタスク一覧を一つ選んでください。選んだ一覧のみを残し、含まれないタスクは削除されます。他の安全にまとめられる変更は保持します。"
+    },
+    {
+      "name": "review_show_tasks",
+      "value": "すべてのタスクを表示"
+    },
+    {
+      "name": "review_collapse",
+      "value": "閉じる"
+    },
+    {
+      "name": "review_task_count",
+      "value": "タスク：{0}件"
+    },
+    {
+      "name": "review_task_position",
+      "value": "順番 {0}"
+    },
+    {
+      "name": "review_root_task",
+      "value": "最上位タスク"
+    },
+    {
+      "name": "review_other_task",
+      "value": "別の親タスク"
+    },
+    {
+      "name": "review_unfinished",
+      "value": "未完了"
+    },
+    {
+      "name": "review_unknown",
+      "value": "残り作業量は不明"
+    },
+    {
+      "name": "review_hours",
+      "value": "約{0}時間"
+    },
+    {
+      "name": "review_initial",
+      "value": "初期の見積もりです。再確認ではありません"
+    },
+    {
+      "name": "review_confirmed_at",
+      "value": "確認日時：{0}"
+    },
+    {
+      "name": "review_auto",
+      "value": "タスク進捗を自動計算"
+    },
+    {
+      "name": "review_manual",
+      "value": "手動の進捗"
+    },
+    {
+      "name": "review_percent",
+      "value": "手動の進捗：{0}%"
+    },
+    {
+      "name": "review_no_reminder",
+      "value": "リマインダーなし"
+    },
+    {
+      "name": "review_reminder_minutes",
+      "value": "締切の{0}分前"
+    },
+    {
+      "name": "review_empty",
+      "value": "未入力"
+    },
+    {
+      "name": "review_field_name",
+      "value": "名前"
+    },
+    {
+      "name": "review_field_due",
+      "value": "締切"
+    },
+    {
+      "name": "review_field_remaining",
+      "value": "現在の残り作業量"
+    },
+    {
+      "name": "review_field_task",
+      "value": "タスク"
+    },
+    {
+      "name": "review_field_tasks",
+      "value": "タスク一覧"
+    },
+    {
+      "name": "review_field_type",
+      "value": "種類"
+    },
+    {
+      "name": "review_field_note",
+      "value": "メモ"
+    },
+    {
+      "name": "review_field_created",
+      "value": "作成日時"
+    },
+    {
+      "name": "review_field_completed",
+      "value": "完了状態"
+    },
+    {
+      "name": "review_field_total",
+      "value": "初期の総作業量"
+    },
+    {
+      "name": "review_field_mode",
+      "value": "進捗モード"
+    },
+    {
+      "name": "review_field_progress",
+      "value": "手動の進捗"
+    },
+    {
+      "name": "review_field_reminder",
+      "value": "リマインダー"
+    },
+    {
+      "name": "review_upgrade",
+      "value": "ほかの端末の Dayline を更新してから、もう一度同期してください。古い版から届いた変更で、この端末のデータを上書きしていません。元の端末とデータを残して更新してください。"
+    },
+    {
+      "name": "cloud_legacy_pending",
+      "value": "以前のデータの一部を、まだ安全に取り込めていません。この端末のデータは引き続き使えます。元の端末を残し、Dayline を更新してください。"
+    },
+    {
+      "name": "overdue_pending",
+      "value": "期限超過 · 対応を選択"
+    },
+    {
+      "name": "overdue_continue",
+      "value": "期限超過 · 継続中"
+    },
+    {
+      "name": "overdue_stopped",
+      "value": "追跡を終了"
+    },
+    {
+      "name": "overdue_no_forecast",
+      "value": "元の期限は過ぎています。新しい期限を設定するまで、期限内の完了予測や逆算予定は表示しません。"
+    },
+    {
+      "name": "overdue_capacity_unknown",
+      "value": "新しい期限がない超過項目を継続中です。すべての作業が期限内に収まるかは判断できません。"
+    },
+    {
+      "name": "overdue_continue_reason",
+      "value": "期限は過ぎていますが、タスクは進められます。完了時期は予測しません。"
+    },
+    {
+      "name": "overdue_review_action",
+      "value": "期限を過ぎた「{0}」の対応を選ぶ"
+    },
+    {
+      "name": "overdue_choose_hint",
+      "value": "続けるか、期限を変更してください。"
+    },
+    {
+      "name": "overdue_continue_button",
+      "value": "続ける"
+    },
+    {
+      "name": "overdue_edit_button",
+      "value": "期限を変更"
+    },
+    {
+      "name": "overdue_stop_button",
+      "value": "追跡を終了"
+    },
+    {
+      "name": "overdue_reconsider_button",
+      "value": "対応を見直す"
+    },
+    {
+      "name": "overdue_stopped_hint",
+      "value": "この端末ではおすすめに表示しません。記録とタスクは残り、対応を見直せます。"
+    },
+    {
+      "name": "overdue_save_failed",
+      "value": "選択を保存できませんでした。記録は残っています。再試行してください。"
+    },
+    {
+      "name": "overdue_less_hour",
+      "value": "期限超過から1時間未満"
+    },
+    {
+      "name": "overdue_hours_one",
+      "value": "期限超過から{0}時間"
+    },
+    {
+      "name": "overdue_hours_other",
+      "value": "期限超過から{0}時間"
+    },
+    {
+      "name": "overdue_days_one",
+      "value": "期限超過から{0}日"
+    },
+    {
+      "name": "overdue_days_other",
+      "value": "期限超過から{0}日"
+    },
+    {
+      "name": "overdue_complete_button",
+      "value": "完了にする"
+    },
+    {
+      "name": "overdue_no_actions",
+      "value": "今日のおすすめはありません。残した項目はDeadlineの全件一覧で確認できます。"
+    },
+    {
+      "name": "overdue_decide_label",
+      "value": "対応を選択"
+    },
+    {
+      "name": "validation_time_past",
+      "value": "この時刻は過ぎています。未来の期限を選んでください。入力内容は保持されています。"
+    },
+    {
+      "name": "validation_time_missing",
+      "value": "この日には選択した時刻が存在しません。別の時刻を選んでください。"
+    },
+    {
+      "name": "validation_time_ambiguous",
+      "value": "この日は選択した時刻が2回あります。重複しない時刻を選んでください。"
+    },
+    {"name": "cloud_release_unavailable", "value": "クラウド同期はまだ利用できません。保存済みのデータはこの端末で引き続き使えます。"},
+    {"name": "notification_delivery_notice", "value": "通知の配信はシステムの許可、端末、バックグラウンド処理に左右されます。アプリ内で締切を確認してください。"},
+    {"name": "experience_today", "value": "今日"},
+    {"name": "experience_deadlines", "value": "Deadlines"},
+    {"name": "experience_now", "value": "まずはこの一歩から"},
+    {"name": "experience_start", "value": "ここから始める"},
+    {"name": "experience_decide", "value": "対応を決める"},
+    {"name": "experience_after", "value": "そのあとに"},
+    {"name": "experience_upcoming", "value": "これから数日"},
+    {"name": "experience_objects_hint", "value": "Deadlineを開いて、続きに取り組みましょう。"},
+    {"name": "experience_planned_today", "value": "今日は約{0}時間を予定"},
+    {"name": "experience_partial_plan", "value": "見積もりの確認が必要な作業もあります"},
+    {"name": "experience_hours_pending", "value": "今日の作業時間は未確認"},
+    {"name": "experience_short_plan", "value": "今日は短い作業を予定"},
+    {"name": "experience_action", "value": "取り組む"},
+    {"name": "experience_plan", "value": "作業量と計画"},
+    {"name": "experience_calibrate", "value": "残り時間を見直す"},
+    {"name": "experience_calibration_hint", "value": "見通しが変わったときに、あとどのくらい必要か確認します。毎日の時間記録は不要です。"},
+    {"name": "experience_record", "value": "Deadlineの情報"},
+    {"name": "experience_task_count", "value": "タスク進捗 {0} / {1} 完了"},
+    {"name": "experience_name", "value": "何を終わらせますか？"},
+    {"name": "experience_due", "value": "締め切りはいつですか？"},
+    {"name": "experience_tomorrow", "value": "明日"},
+    {"name": "experience_due_clock", "value": "{0}まで · 変更"},
+    {"name": "experience_add_details", "value": "作業時間やタスクを追加（任意）"},
+    {"name": "experience_hide_details", "value": "追加情報を閉じる"},
+    {"name": "experience_create_hint", "value": "名前と締め切りだけで始められます。"},
+    {"name": "experience_created", "value": "保存しました：{0}"},
+    {"name": "experience_pending_task", "value": "入力中のタスクを追加するか、入力を消してから保存してください。"},
+    {"name": "experience_task_options", "value": "タスクと進捗"},
+    {"name": "experience_advanced_options", "value": "種類・リマインダー・メモ"},
+    {"name": "experience_empty_title", "value": "今日の一歩を、ひとつ。"},
+    {"name": "experience_empty_body", "value": "次に提出するもの、終わらせたいことは何ですか？"},
+    {"name": "experience_remaining", "value": "残り約{0}時間"},
+    {"name": "experience_unsaved", "value": "変更は未保存です"}
+  ]
+}
